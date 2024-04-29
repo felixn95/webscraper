@@ -1,0 +1,16 @@
+id,gender,category,product_name,brand,timestamp,price,store_aboveThreshold,store_address,store_availabilityInfo,store_clickNcollect1h,store_favoriteStore,store_latitude,store_longitude,store_quantity,store_storeId,store_storeName
+8612171,herren,outdoor-jacken,Wanderjacke Herren wasserdicht leicht - MH500 schwarz,QUECHUA,2024-04-29 15:37:50.690341,"99,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8612171,herren,outdoor-jacken,Wanderjacke Herren wasserdicht leicht - MH500 schwarz,QUECHUA,2024-04-29 15:37:52.101169,"99,99 €",False,,inStock,True,False,0,0,4,0070048700487,Würzburg
+8612171,herren,outdoor-jacken,Wanderjacke Herren wasserdicht leicht - MH500 schwarz,QUECHUA,2024-04-29 15:37:56.953942,"99,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8382335,herren,outdoor-jacken,Wanderjacke Herren wasserdicht leicht - MH900 schwarz,QUECHUA,2024-04-29 15:37:58.159567,"129,99 €",False,,inStock,True,False,0,0,2,0070048700487,Würzburg
+8382335,herren,outdoor-jacken,Wanderjacke Herren wasserdicht leicht - MH900 schwarz,QUECHUA,2024-04-29 15:37:59.706119,"129,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8382335,herren,outdoor-jacken,Wanderjacke Herren wasserdicht leicht - MH900 schwarz,QUECHUA,2024-04-29 15:38:01.465670,"129,99 €",False,,inStock,True,False,0,0,4,0070048700487,Würzburg
+8382335,herren,outdoor-jacken,Wanderjacke Herren wasserdicht leicht - MH900 schwarz,QUECHUA,2024-04-29 15:38:02.648241,"129,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8382335,herren,outdoor-jacken,Wanderjacke Herren wasserdicht leicht - MH900 schwarz,QUECHUA,2024-04-29 15:38:03.712040,"129,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8382335,herren,outdoor-jacken,Wanderjacke Herren wasserdicht leicht - MH900 schwarz,QUECHUA,2024-04-29 15:38:04.745718,"129,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8580029,herren,outdoor-jacken,3-in-1-Jacke Herren bis 0 °C wasserdicht Backpacking - Travel 100 khaki,FORCLAZ,2024-04-29 15:38:05.784773,"59,99 €",False,,inStock,True,False,0,0,2,0070048700487,Würzburg
+8580029,herren,outdoor-jacken,3-in-1-Jacke Herren bis 0 °C wasserdicht Backpacking - Travel 100 khaki,FORCLAZ,2024-04-29 15:38:07.605274,"59,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8580029,herren,outdoor-jacken,3-in-1-Jacke Herren bis 0 °C wasserdicht Backpacking - Travel 100 khaki,FORCLAZ,2024-04-29 15:38:08.645736,"59,99 €",False,,inStock,True,False,0,0,4,0070048700487,Würzburg
+8580029,herren,outdoor-jacken,3-in-1-Jacke Herren bis 0 °C wasserdicht Backpacking - Travel 100 khaki,FORCLAZ,2024-04-29 15:38:09.903112,"59,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8580029,herren,outdoor-jacken,3-in-1-Jacke Herren bis 0 °C wasserdicht Backpacking - Travel 100 khaki,FORCLAZ,2024-04-29 15:38:11.144093,"59,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8580029,herren,outdoor-jacken,3-in-1-Jacke Herren bis 0 °C wasserdicht Backpacking - Travel 100 khaki,FORCLAZ,2024-04-29 15:38:12.120340,"59,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg

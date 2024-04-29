@@ -1,0 +1,241 @@
+id,gender,category,product_name,brand,timestamp,price,store_aboveThreshold,store_address,store_availabilityInfo,store_clickNcollect1h,store_favoriteStore,store_latitude,store_longitude,store_quantity,store_storeId,store_storeName
+8612171,herren,outdoor-jacken,Wanderjacke Herren wasserdicht leicht - MH500 schwarz,QUECHUA,2024-04-27 21:17:30.063088,"99,99 €",False,,inStock,True,False,0,0,2,0070048700487,Würzburg
+8612171,herren,outdoor-jacken,Wanderjacke Herren wasserdicht leicht - MH500 schwarz,QUECHUA,2024-04-27 21:17:30.874743,"99,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8612171,herren,outdoor-jacken,Wanderjacke Herren wasserdicht leicht - MH500 schwarz,QUECHUA,2024-04-27 21:17:31.740336,"99,99 €",False,,inStock,True,False,0,0,4,0070048700487,Würzburg
+8612171,herren,outdoor-jacken,Wanderjacke Herren wasserdicht leicht - MH500 schwarz,QUECHUA,2024-04-27 21:17:32.490808,"99,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8612171,herren,outdoor-jacken,Wanderjacke Herren wasserdicht leicht - MH500 schwarz,QUECHUA,2024-04-27 21:17:33.502497,"99,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8612171,herren,outdoor-jacken,Wanderjacke Herren wasserdicht leicht - MH500 schwarz,QUECHUA,2024-04-27 21:17:34.290435,"99,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8844533,herren,outdoor-jacken,Regenjacke Herren - Raincut Fullzip schwarz,QUECHUA,2024-04-27 21:17:35.177664,"17,99 €",False,,inStock,True,False,0,0,2,0070048700487,Würzburg
+8844533,herren,outdoor-jacken,Regenjacke Herren - Raincut Fullzip schwarz,QUECHUA,2024-04-27 21:17:35.940563,"17,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8844533,herren,outdoor-jacken,Regenjacke Herren - Raincut Fullzip schwarz,QUECHUA,2024-04-27 21:17:36.685866,"17,99 €",False,,inStock,True,False,0,0,4,0070048700487,Würzburg
+8844533,herren,outdoor-jacken,Regenjacke Herren - Raincut Fullzip schwarz,QUECHUA,2024-04-27 21:17:37.460708,"17,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8844533,herren,outdoor-jacken,Regenjacke Herren - Raincut Fullzip schwarz,QUECHUA,2024-04-27 21:17:38.282966,"17,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8844533,herren,outdoor-jacken,Regenjacke Herren - Raincut Fullzip schwarz,QUECHUA,2024-04-27 21:17:39.103352,"17,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8585162,herren,outdoor-jacken,Wanderjacke Bergwandern MH150 wasserdicht leicht Herren grün,QUECHUA,2024-04-27 21:17:40.019803,"59,99 €",False,,inStock,True,False,0,0,2,0070048700487,Würzburg
+8585162,herren,outdoor-jacken,Wanderjacke Bergwandern MH150 wasserdicht leicht Herren grün,QUECHUA,2024-04-27 21:17:40.936405,"59,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8585162,herren,outdoor-jacken,Wanderjacke Bergwandern MH150 wasserdicht leicht Herren grün,QUECHUA,2024-04-27 21:17:41.789695,"59,99 €",False,,inStock,True,False,0,0,4,0070048700487,Würzburg
+8585162,herren,outdoor-jacken,Wanderjacke Bergwandern MH150 wasserdicht leicht Herren grün,QUECHUA,2024-04-27 21:17:42.567748,"59,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8585162,herren,outdoor-jacken,Wanderjacke Bergwandern MH150 wasserdicht leicht Herren grün,QUECHUA,2024-04-27 21:17:43.366474,"59,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8585162,herren,outdoor-jacken,Wanderjacke Bergwandern MH150 wasserdicht leicht Herren grün,QUECHUA,2024-04-27 21:17:44.188298,"59,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8678295,herren,outdoor-jacken,Segeljacke Herren wasserdicht winddicht - 100 blau/rot,TRIBORD,2024-04-27 21:17:45.259111,"29,99 €",False,,inStock,True,False,0,0,2,0070048700487,Würzburg
+8678295,herren,outdoor-jacken,Segeljacke Herren wasserdicht winddicht - 100 blau/rot,TRIBORD,2024-04-27 21:17:46.121893,"29,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8678295,herren,outdoor-jacken,Segeljacke Herren wasserdicht winddicht - 100 blau/rot,TRIBORD,2024-04-27 21:17:47.050831,"29,99 €",False,,inStock,True,False,0,0,4,0070048700487,Würzburg
+8678295,herren,outdoor-jacken,Segeljacke Herren wasserdicht winddicht - 100 blau/rot,TRIBORD,2024-04-27 21:17:47.817387,"29,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8678295,herren,outdoor-jacken,Segeljacke Herren wasserdicht winddicht - 100 blau/rot,TRIBORD,2024-04-27 21:17:48.589076,"29,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8678295,herren,outdoor-jacken,Segeljacke Herren wasserdicht winddicht - 100 blau/rot,TRIBORD,2024-04-27 21:17:49.414570,"29,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8382335,herren,outdoor-jacken,Wanderjacke Herren wasserdicht leicht - MH900 schwarz,QUECHUA,2024-04-27 21:17:50.226351,"129,99 €",False,,inStock,True,False,0,0,2,0070048700487,Würzburg
+8382335,herren,outdoor-jacken,Wanderjacke Herren wasserdicht leicht - MH900 schwarz,QUECHUA,2024-04-27 21:17:51.006500,"129,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8382335,herren,outdoor-jacken,Wanderjacke Herren wasserdicht leicht - MH900 schwarz,QUECHUA,2024-04-27 21:17:51.764566,"129,99 €",False,,inStock,True,False,0,0,4,0070048700487,Würzburg
+8382335,herren,outdoor-jacken,Wanderjacke Herren wasserdicht leicht - MH900 schwarz,QUECHUA,2024-04-27 21:17:52.526434,"129,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8382335,herren,outdoor-jacken,Wanderjacke Herren wasserdicht leicht - MH900 schwarz,QUECHUA,2024-04-27 21:17:53.347885,"129,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8382335,herren,outdoor-jacken,Wanderjacke Herren wasserdicht leicht - MH900 schwarz,QUECHUA,2024-04-27 21:17:54.189115,"129,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8580029,herren,outdoor-jacken,3-in-1-Jacke Herren bis 0 °C wasserdicht Backpacking - Travel 100 khaki,FORCLAZ,2024-04-27 21:17:55.086289,"59,99 €",False,,inStock,True,False,0,0,2,0070048700487,Würzburg
+8580029,herren,outdoor-jacken,3-in-1-Jacke Herren bis 0 °C wasserdicht Backpacking - Travel 100 khaki,FORCLAZ,2024-04-27 21:17:55.845211,"59,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8580029,herren,outdoor-jacken,3-in-1-Jacke Herren bis 0 °C wasserdicht Backpacking - Travel 100 khaki,FORCLAZ,2024-04-27 21:17:56.620324,"59,99 €",False,,inStock,True,False,0,0,4,0070048700487,Würzburg
+8580029,herren,outdoor-jacken,3-in-1-Jacke Herren bis 0 °C wasserdicht Backpacking - Travel 100 khaki,FORCLAZ,2024-04-27 21:17:57.404997,"59,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8580029,herren,outdoor-jacken,3-in-1-Jacke Herren bis 0 °C wasserdicht Backpacking - Travel 100 khaki,FORCLAZ,2024-04-27 21:17:58.208983,"59,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8580029,herren,outdoor-jacken,3-in-1-Jacke Herren bis 0 °C wasserdicht Backpacking - Travel 100 khaki,FORCLAZ,2024-04-27 21:17:59.212263,"59,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8573829,herren,outdoor-jacken,Wattierte Jacke Herren bis -5 °C Kapuze Trekking - MT100,FORCLAZ,2024-04-27 21:18:00.011986,"39,99 €",False,,inStock,True,False,0,0,2,0070048700487,Würzburg
+8573829,herren,outdoor-jacken,Wattierte Jacke Herren bis -5 °C Kapuze Trekking - MT100,FORCLAZ,2024-04-27 21:18:00.835418,"39,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8573829,herren,outdoor-jacken,Wattierte Jacke Herren bis -5 °C Kapuze Trekking - MT100,FORCLAZ,2024-04-27 21:18:01.701845,"39,99 €",False,,inStock,True,False,0,0,4,0070048700487,Würzburg
+8573829,herren,outdoor-jacken,Wattierte Jacke Herren bis -5 °C Kapuze Trekking - MT100,FORCLAZ,2024-04-27 21:18:02.508017,"39,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8573829,herren,outdoor-jacken,Wattierte Jacke Herren bis -5 °C Kapuze Trekking - MT100,FORCLAZ,2024-04-27 21:18:03.315838,"39,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8573829,herren,outdoor-jacken,Wattierte Jacke Herren bis -5 °C Kapuze Trekking - MT100,FORCLAZ,2024-04-27 21:18:04.073501,"39,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8370292,herren,outdoor-jacken,Softshelljacke Herren winddicht warm Wandern - MT500 schwarz,FORCLAZ,2024-04-27 21:18:05.083510,"59,99 €",False,,inStock,True,False,0,0,2,0070048700487,Würzburg
+8370292,herren,outdoor-jacken,Softshelljacke Herren winddicht warm Wandern - MT500 schwarz,FORCLAZ,2024-04-27 21:18:05.888933,"59,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8370292,herren,outdoor-jacken,Softshelljacke Herren winddicht warm Wandern - MT500 schwarz,FORCLAZ,2024-04-27 21:18:06.693651,"59,99 €",False,,inStock,True,False,0,0,4,0070048700487,Würzburg
+8370292,herren,outdoor-jacken,Softshelljacke Herren winddicht warm Wandern - MT500 schwarz,FORCLAZ,2024-04-27 21:18:07.547833,"59,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8370292,herren,outdoor-jacken,Softshelljacke Herren winddicht warm Wandern - MT500 schwarz,FORCLAZ,2024-04-27 21:18:08.305334,"59,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8370292,herren,outdoor-jacken,Softshelljacke Herren winddicht warm Wandern - MT500 schwarz,FORCLAZ,2024-04-27 21:18:09.109449,"59,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8773662,herren,outdoor-jacken,Segeljacke Herren wasserdicht winddicht - 500 rot/gelb,TRIBORD,2024-04-27 21:18:10.039886,"109,99 €",False,,inStock,True,False,0,0,2,0070048700487,Würzburg
+8773662,herren,outdoor-jacken,Segeljacke Herren wasserdicht winddicht - 500 rot/gelb,TRIBORD,2024-04-27 21:18:10.836211,"109,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8773662,herren,outdoor-jacken,Segeljacke Herren wasserdicht winddicht - 500 rot/gelb,TRIBORD,2024-04-27 21:18:11.620227,"109,99 €",False,,inStock,True,False,0,0,4,0070048700487,Würzburg
+8773662,herren,outdoor-jacken,Segeljacke Herren wasserdicht winddicht - 500 rot/gelb,TRIBORD,2024-04-27 21:18:12.410753,"109,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8773662,herren,outdoor-jacken,Segeljacke Herren wasserdicht winddicht - 500 rot/gelb,TRIBORD,2024-04-27 21:18:13.044368,"109,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8773662,herren,outdoor-jacken,Segeljacke Herren wasserdicht winddicht - 500 rot/gelb,TRIBORD,2024-04-27 21:18:13.844742,"109,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8650027,herren,outdoor-jacken,Wanderjacke Herren wasserdicht - NH500,QUECHUA,2024-04-27 21:18:14.698902,"39,99 €",False,,inStock,True,False,0,0,2,0070048700487,Würzburg
+8650027,herren,outdoor-jacken,Wanderjacke Herren wasserdicht - NH500,QUECHUA,2024-04-27 21:18:15.516292,"39,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8650027,herren,outdoor-jacken,Wanderjacke Herren wasserdicht - NH500,QUECHUA,2024-04-27 21:18:16.281403,"39,99 €",False,,inStock,True,False,0,0,4,0070048700487,Würzburg
+8650027,herren,outdoor-jacken,Wanderjacke Herren wasserdicht - NH500,QUECHUA,2024-04-27 21:18:17.023808,"39,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8650027,herren,outdoor-jacken,Wanderjacke Herren wasserdicht - NH500,QUECHUA,2024-04-27 21:18:17.818402,"39,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8650027,herren,outdoor-jacken,Wanderjacke Herren wasserdicht - NH500,QUECHUA,2024-04-27 21:18:18.605244,"39,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8736490,herren,outdoor-jacken,Softshellweste Herren winddicht Trekking - MT100 schwarz,FORCLAZ,2024-04-27 21:18:19.475259,"29,99 €",False,,inStock,True,False,0,0,2,0070048700487,Würzburg
+8736490,herren,outdoor-jacken,Softshellweste Herren winddicht Trekking - MT100 schwarz,FORCLAZ,2024-04-27 21:18:20.269995,"29,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8736490,herren,outdoor-jacken,Softshellweste Herren winddicht Trekking - MT100 schwarz,FORCLAZ,2024-04-27 21:18:21.108901,"29,99 €",False,,inStock,True,False,0,0,4,0070048700487,Würzburg
+8736490,herren,outdoor-jacken,Softshellweste Herren winddicht Trekking - MT100 schwarz,FORCLAZ,2024-04-27 21:18:21.893946,"29,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8736490,herren,outdoor-jacken,Softshellweste Herren winddicht Trekking - MT100 schwarz,FORCLAZ,2024-04-27 21:18:22.764395,"29,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8736490,herren,outdoor-jacken,Softshellweste Herren winddicht Trekking - MT100 schwarz,FORCLAZ,2024-04-27 21:18:23.556289,"29,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8862313,herren,outdoor-jacken,Regenjacke Raincut 1/2 Zip,QUECHUA,2024-04-27 21:18:24.313745,"12,99 €",False,,inStock,True,False,0,0,2,0070048700487,Würzburg
+8862313,herren,outdoor-jacken,Regenjacke Raincut 1/2 Zip,QUECHUA,2024-04-27 21:18:25.259034,"12,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8862313,herren,outdoor-jacken,Regenjacke Raincut 1/2 Zip,QUECHUA,2024-04-27 21:18:26.268204,"12,99 €",False,,inStock,True,False,0,0,4,0070048700487,Würzburg
+8862313,herren,outdoor-jacken,Regenjacke Raincut 1/2 Zip,QUECHUA,2024-04-27 21:18:27.044537,"12,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8862313,herren,outdoor-jacken,Regenjacke Raincut 1/2 Zip,QUECHUA,2024-04-27 21:18:27.865811,"12,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8862313,herren,outdoor-jacken,Regenjacke Raincut 1/2 Zip,QUECHUA,2024-04-27 21:18:28.528242,"12,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8580219,herren,outdoor-jacken,Softshelljacke Herren winddicht warm Bergwandern - MT100 khaki,FORCLAZ,2024-04-27 21:18:29.261376,"49,99 €",False,,inStock,True,False,0,0,2,0070048700487,Würzburg
+8580219,herren,outdoor-jacken,Softshelljacke Herren winddicht warm Bergwandern - MT100 khaki,FORCLAZ,2024-04-27 21:18:30.127271,"49,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8580219,herren,outdoor-jacken,Softshelljacke Herren winddicht warm Bergwandern - MT100 khaki,FORCLAZ,2024-04-27 21:18:31.001339,"49,99 €",False,,inStock,True,False,0,0,4,0070048700487,Würzburg
+8580219,herren,outdoor-jacken,Softshelljacke Herren winddicht warm Bergwandern - MT100 khaki,FORCLAZ,2024-04-27 21:18:31.817187,"49,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8580219,herren,outdoor-jacken,Softshelljacke Herren winddicht warm Bergwandern - MT100 khaki,FORCLAZ,2024-04-27 21:18:32.646661,"49,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8580219,herren,outdoor-jacken,Softshelljacke Herren winddicht warm Bergwandern - MT100 khaki,FORCLAZ,2024-04-27 21:18:33.423341,"49,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8801145,herren,outdoor-jacken,Regenjacke Segeln Herren wasserdicht winddicht - Sailing 300 marineblau,TRIBORD,2024-04-27 21:18:34.212337,"49,99 €",False,,inStock,True,False,0,0,2,0070048700487,Würzburg
+8801145,herren,outdoor-jacken,Regenjacke Segeln Herren wasserdicht winddicht - Sailing 300 marineblau,TRIBORD,2024-04-27 21:18:34.943814,"49,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8801145,herren,outdoor-jacken,Regenjacke Segeln Herren wasserdicht winddicht - Sailing 300 marineblau,TRIBORD,2024-04-27 21:18:35.750528,"49,99 €",False,,inStock,True,False,0,0,4,0070048700487,Würzburg
+8801145,herren,outdoor-jacken,Regenjacke Segeln Herren wasserdicht winddicht - Sailing 300 marineblau,TRIBORD,2024-04-27 21:18:36.587724,"49,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8801145,herren,outdoor-jacken,Regenjacke Segeln Herren wasserdicht winddicht - Sailing 300 marineblau,TRIBORD,2024-04-27 21:18:37.409487,"49,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8801145,herren,outdoor-jacken,Regenjacke Segeln Herren wasserdicht winddicht - Sailing 300 marineblau,TRIBORD,2024-04-27 21:18:38.265761,"49,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8547175,herren,outdoor-jacken,Weste Herren winddicht Trekking - MT500 Wind blau,FORCLAZ,2024-04-27 21:18:39.254126,"34,99 €",False,,inStock,True,False,0,0,2,0070048700487,Würzburg
+8547175,herren,outdoor-jacken,Weste Herren winddicht Trekking - MT500 Wind blau,FORCLAZ,2024-04-27 21:18:40.133454,"34,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8547175,herren,outdoor-jacken,Weste Herren winddicht Trekking - MT500 Wind blau,FORCLAZ,2024-04-27 21:18:41.081775,"34,99 €",False,,inStock,True,False,0,0,4,0070048700487,Würzburg
+8547175,herren,outdoor-jacken,Weste Herren winddicht Trekking - MT500 Wind blau,FORCLAZ,2024-04-27 21:18:42.017230,"34,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8547175,herren,outdoor-jacken,Weste Herren winddicht Trekking - MT500 Wind blau,FORCLAZ,2024-04-27 21:18:42.809939,"34,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8547175,herren,outdoor-jacken,Weste Herren winddicht Trekking - MT500 Wind blau,FORCLAZ,2024-04-27 21:18:43.568229,"34,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8540394,herren,outdoor-jacken,3-in-1-Jacke Herren wasserdicht bis -10 °C - Travel 500 schwarz,FORCLAZ,2024-04-27 21:18:44.515445,"129,99 €",False,,inStock,True,False,0,0,2,0070048700487,Würzburg
+8540394,herren,outdoor-jacken,3-in-1-Jacke Herren wasserdicht bis -10 °C - Travel 500 schwarz,FORCLAZ,2024-04-27 21:18:45.351727,"129,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8540394,herren,outdoor-jacken,3-in-1-Jacke Herren wasserdicht bis -10 °C - Travel 500 schwarz,FORCLAZ,2024-04-27 21:18:46.141531,"129,99 €",False,,inStock,True,False,0,0,4,0070048700487,Würzburg
+8540394,herren,outdoor-jacken,3-in-1-Jacke Herren wasserdicht bis -10 °C - Travel 500 schwarz,FORCLAZ,2024-04-27 21:18:47.028568,"129,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8540394,herren,outdoor-jacken,3-in-1-Jacke Herren wasserdicht bis -10 °C - Travel 500 schwarz,FORCLAZ,2024-04-27 21:18:47.819004,"129,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8540394,herren,outdoor-jacken,3-in-1-Jacke Herren wasserdicht bis -10 °C - Travel 500 schwarz,FORCLAZ,2024-04-27 21:18:48.579251,"129,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8810605,herren,outdoor-jacken,Softshelljacke Segeln Herren winddicht - Sailing 900,TRIBORD,2024-04-27 21:18:49.356506,"44,99 €",False,,inStock,True,False,0,0,2,0070048700487,Würzburg
+8810605,herren,outdoor-jacken,Softshelljacke Segeln Herren winddicht - Sailing 900,TRIBORD,2024-04-27 21:18:50.163206,"44,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8810605,herren,outdoor-jacken,Softshelljacke Segeln Herren winddicht - Sailing 900,TRIBORD,2024-04-27 21:18:50.986046,"44,99 €",False,,inStock,True,False,0,0,4,0070048700487,Würzburg
+8810605,herren,outdoor-jacken,Softshelljacke Segeln Herren winddicht - Sailing 900,TRIBORD,2024-04-27 21:18:51.773637,"44,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8810605,herren,outdoor-jacken,Softshelljacke Segeln Herren winddicht - Sailing 900,TRIBORD,2024-04-27 21:18:52.553108,"44,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8810605,herren,outdoor-jacken,Softshelljacke Segeln Herren winddicht - Sailing 900,TRIBORD,2024-04-27 21:18:53.429527,"44,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8827280,herren,outdoor-jacken,Wanderjacke Herren winddicht leicht - MH900 blau,QUECHUA,2024-04-27 21:18:54.220180,"39,99 €",False,,inStock,True,False,0,0,2,0070048700487,Würzburg
+8827280,herren,outdoor-jacken,Wanderjacke Herren winddicht leicht - MH900 blau,QUECHUA,2024-04-27 21:18:55.004836,"39,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8827280,herren,outdoor-jacken,Wanderjacke Herren winddicht leicht - MH900 blau,QUECHUA,2024-04-27 21:18:55.776530,"39,99 €",False,,inStock,True,False,0,0,4,0070048700487,Würzburg
+8827280,herren,outdoor-jacken,Wanderjacke Herren winddicht leicht - MH900 blau,QUECHUA,2024-04-27 21:18:56.552952,"39,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8827280,herren,outdoor-jacken,Wanderjacke Herren winddicht leicht - MH900 blau,QUECHUA,2024-04-27 21:18:57.341506,"39,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8827280,herren,outdoor-jacken,Wanderjacke Herren winddicht leicht - MH900 blau,QUECHUA,2024-04-27 21:18:58.106388,"39,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8583201,herren,outdoor-jacken,Wanderjacke Herren wasserdicht - NH550,QUECHUA,2024-04-27 21:18:58.858346,"44,99 €",False,,inStock,True,False,0,0,2,0070048700487,Würzburg
+8583201,herren,outdoor-jacken,Wanderjacke Herren wasserdicht - NH550,QUECHUA,2024-04-27 21:18:59.662139,"44,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8583201,herren,outdoor-jacken,Wanderjacke Herren wasserdicht - NH550,QUECHUA,2024-04-27 21:19:00.509313,"44,99 €",False,,inStock,True,False,0,0,4,0070048700487,Würzburg
+8583201,herren,outdoor-jacken,Wanderjacke Herren wasserdicht - NH550,QUECHUA,2024-04-27 21:19:01.262658,"44,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8583201,herren,outdoor-jacken,Wanderjacke Herren wasserdicht - NH550,QUECHUA,2024-04-27 21:19:02.136168,"44,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8583201,herren,outdoor-jacken,Wanderjacke Herren wasserdicht - NH550,QUECHUA,2024-04-27 21:19:02.970529,"44,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8668330,herren,outdoor-jacken,Jagd-Regenjacke Treemetic 500 geräuscharm Camouflage,SOLOGNAC,2024-04-27 21:19:03.774762,"49,99 €",False,,inStock,True,False,0,0,2,0070048700487,Würzburg
+8668330,herren,outdoor-jacken,Jagd-Regenjacke Treemetic 500 geräuscharm Camouflage,SOLOGNAC,2024-04-27 21:19:04.549449,"49,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8668330,herren,outdoor-jacken,Jagd-Regenjacke Treemetic 500 geräuscharm Camouflage,SOLOGNAC,2024-04-27 21:19:05.402892,"49,99 €",False,,inStock,True,False,0,0,4,0070048700487,Würzburg
+8668330,herren,outdoor-jacken,Jagd-Regenjacke Treemetic 500 geräuscharm Camouflage,SOLOGNAC,2024-04-27 21:19:06.275601,"49,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8668330,herren,outdoor-jacken,Jagd-Regenjacke Treemetic 500 geräuscharm Camouflage,SOLOGNAC,2024-04-27 21:19:07.078687,"49,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8668330,herren,outdoor-jacken,Jagd-Regenjacke Treemetic 500 geräuscharm Camouflage,SOLOGNAC,2024-04-27 21:19:07.843540,"49,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8492328,herren,outdoor-jacken,Regenjacke Herren 20.000 mm Wassersäule versiegelt Trekking - MT500,FORCLAZ,2024-04-27 21:19:08.626307,"149,99 €",False,,inStock,True,False,0,0,2,0070048700487,Würzburg
+8492328,herren,outdoor-jacken,Regenjacke Herren 20.000 mm Wassersäule versiegelt Trekking - MT500,FORCLAZ,2024-04-27 21:19:09.405602,"149,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8492328,herren,outdoor-jacken,Regenjacke Herren 20.000 mm Wassersäule versiegelt Trekking - MT500,FORCLAZ,2024-04-27 21:19:10.459850,"149,99 €",False,,inStock,True,False,0,0,4,0070048700487,Würzburg
+8492328,herren,outdoor-jacken,Regenjacke Herren 20.000 mm Wassersäule versiegelt Trekking - MT500,FORCLAZ,2024-04-27 21:19:11.242481,"149,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8492328,herren,outdoor-jacken,Regenjacke Herren 20.000 mm Wassersäule versiegelt Trekking - MT500,FORCLAZ,2024-04-27 21:19:12.024851,"149,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8492328,herren,outdoor-jacken,Regenjacke Herren 20.000 mm Wassersäule versiegelt Trekking - MT500,FORCLAZ,2024-04-27 21:19:12.784996,"149,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8573837,herren,outdoor-jacken,Wattierte Weste Herren Synthetik Bergwandern - MT100 schwarz,FORCLAZ,2024-04-27 21:19:13.625383,"29,99 €",False,,inStock,True,False,0,0,2,0070048700487,Würzburg
+8573837,herren,outdoor-jacken,Wattierte Weste Herren Synthetik Bergwandern - MT100 schwarz,FORCLAZ,2024-04-27 21:19:14.461863,"29,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8573837,herren,outdoor-jacken,Wattierte Weste Herren Synthetik Bergwandern - MT100 schwarz,FORCLAZ,2024-04-27 21:19:15.364999,"29,99 €",False,,inStock,True,False,0,0,4,0070048700487,Würzburg
+8573837,herren,outdoor-jacken,Wattierte Weste Herren Synthetik Bergwandern - MT100 schwarz,FORCLAZ,2024-04-27 21:19:16.155574,"29,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8573837,herren,outdoor-jacken,Wattierte Weste Herren Synthetik Bergwandern - MT100 schwarz,FORCLAZ,2024-04-27 21:19:16.948669,"29,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8573837,herren,outdoor-jacken,Wattierte Weste Herren Synthetik Bergwandern - MT100 schwarz,FORCLAZ,2024-04-27 21:19:17.719475,"29,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8586596,herren,outdoor-jacken,Segeljacke Herren wasserdicht - Offshore 900 rot,TRIBORD,2024-04-27 21:19:18.496839,"249,99 €",False,,inStock,True,False,0,0,2,0070048700487,Würzburg
+8586596,herren,outdoor-jacken,Segeljacke Herren wasserdicht - Offshore 900 rot,TRIBORD,2024-04-27 21:19:19.292726,"249,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8586596,herren,outdoor-jacken,Segeljacke Herren wasserdicht - Offshore 900 rot,TRIBORD,2024-04-27 21:19:20.116826,"249,99 €",False,,inStock,True,False,0,0,4,0070048700487,Würzburg
+8586596,herren,outdoor-jacken,Segeljacke Herren wasserdicht - Offshore 900 rot,TRIBORD,2024-04-27 21:19:20.887321,"249,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8586596,herren,outdoor-jacken,Segeljacke Herren wasserdicht - Offshore 900 rot,TRIBORD,2024-04-27 21:19:21.662944,"249,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8586596,herren,outdoor-jacken,Segeljacke Herren wasserdicht - Offshore 900 rot,TRIBORD,2024-04-27 21:19:22.433913,"249,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8818078,herren,outdoor-jacken,Softshelljacke Herren windwarm Bergwandern - MT500 blau,FORCLAZ,2024-04-27 21:19:23.199798,"69,99 €",False,,inStock,True,False,0,0,2,0070048700487,Würzburg
+8818078,herren,outdoor-jacken,Softshelljacke Herren windwarm Bergwandern - MT500 blau,FORCLAZ,2024-04-27 21:19:23.980687,"69,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8818078,herren,outdoor-jacken,Softshelljacke Herren windwarm Bergwandern - MT500 blau,FORCLAZ,2024-04-27 21:19:24.913737,"69,99 €",False,,inStock,True,False,0,0,4,0070048700487,Würzburg
+8818078,herren,outdoor-jacken,Softshelljacke Herren windwarm Bergwandern - MT500 blau,FORCLAZ,2024-04-27 21:19:25.703983,"69,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8818078,herren,outdoor-jacken,Softshelljacke Herren windwarm Bergwandern - MT500 blau,FORCLAZ,2024-04-27 21:19:26.462914,"69,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8818078,herren,outdoor-jacken,Softshelljacke Herren windwarm Bergwandern - MT500 blau,FORCLAZ,2024-04-27 21:19:27.267920,"69,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8641924,herren,outdoor-jacken,Winterjacke Herren wasserdicht warm -10°C Winterwandern - SH100 X-Warm,QUECHUA,2024-04-27 21:19:28.221446,"34,99 €",False,,inStock,True,False,0,0,2,0070048700487,Würzburg
+8641924,herren,outdoor-jacken,Winterjacke Herren wasserdicht warm -10°C Winterwandern - SH100 X-Warm,QUECHUA,2024-04-27 21:19:28.983954,"34,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8641924,herren,outdoor-jacken,Winterjacke Herren wasserdicht warm -10°C Winterwandern - SH100 X-Warm,QUECHUA,2024-04-27 21:19:29.802602,"34,99 €",False,,inStock,True,False,0,0,4,0070048700487,Würzburg
+8641924,herren,outdoor-jacken,Winterjacke Herren wasserdicht warm -10°C Winterwandern - SH100 X-Warm,QUECHUA,2024-04-27 21:19:30.850154,"34,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8641924,herren,outdoor-jacken,Winterjacke Herren wasserdicht warm -10°C Winterwandern - SH100 X-Warm,QUECHUA,2024-04-27 21:19:31.621999,"34,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8641924,herren,outdoor-jacken,Winterjacke Herren wasserdicht warm -10°C Winterwandern - SH100 X-Warm,QUECHUA,2024-04-27 21:19:32.408296,"34,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8771025,herren,outdoor-jacken,Regenjacke 100 grün,SOLOGNAC,2024-04-27 21:19:33.179514,"34,99 €",False,,inStock,True,False,0,0,2,0070048700487,Würzburg
+8771025,herren,outdoor-jacken,Regenjacke 100 grün,SOLOGNAC,2024-04-27 21:19:33.951341,"34,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8771025,herren,outdoor-jacken,Regenjacke 100 grün,SOLOGNAC,2024-04-27 21:19:34.744836,"34,99 €",False,,inStock,True,False,0,0,4,0070048700487,Würzburg
+8771025,herren,outdoor-jacken,Regenjacke 100 grün,SOLOGNAC,2024-04-27 21:19:35.503832,"34,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8771025,herren,outdoor-jacken,Regenjacke 100 grün,SOLOGNAC,2024-04-27 21:19:36.241212,"34,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8771025,herren,outdoor-jacken,Regenjacke 100 grün,SOLOGNAC,2024-04-27 21:19:36.909535,"34,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8494235,herren,outdoor-jacken,Jagdjacke Softshelljacke 500 orange,SOLOGNAC,2024-04-27 21:19:37.655252,"69,99 €",False,,inStock,True,False,0,0,2,0070048700487,Würzburg
+8494235,herren,outdoor-jacken,Jagdjacke Softshelljacke 500 orange,SOLOGNAC,2024-04-27 21:19:38.500839,"69,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8494235,herren,outdoor-jacken,Jagdjacke Softshelljacke 500 orange,SOLOGNAC,2024-04-27 21:19:39.181552,"69,99 €",False,,inStock,True,False,0,0,4,0070048700487,Würzburg
+8494235,herren,outdoor-jacken,Jagdjacke Softshelljacke 500 orange,SOLOGNAC,2024-04-27 21:19:39.985065,"69,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8494235,herren,outdoor-jacken,Jagdjacke Softshelljacke 500 orange,SOLOGNAC,2024-04-27 21:19:40.794126,"69,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8494235,herren,outdoor-jacken,Jagdjacke Softshelljacke 500 orange,SOLOGNAC,2024-04-27 21:19:41.605333,"69,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8367351,herren,outdoor-jacken,Jagdjacke / Regenjacke 500 grün,SOLOGNAC,2024-04-27 21:19:42.531162,"54,99 €",False,,inStock,True,False,0,0,2,0070048700487,Würzburg
+8367351,herren,outdoor-jacken,Jagdjacke / Regenjacke 500 grün,SOLOGNAC,2024-04-27 21:19:43.304386,"54,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8367351,herren,outdoor-jacken,Jagdjacke / Regenjacke 500 grün,SOLOGNAC,2024-04-27 21:19:44.094282,"54,99 €",False,,inStock,True,False,0,0,4,0070048700487,Würzburg
+8367351,herren,outdoor-jacken,Jagdjacke / Regenjacke 500 grün,SOLOGNAC,2024-04-27 21:19:44.916883,"54,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8367351,herren,outdoor-jacken,Jagdjacke / Regenjacke 500 grün,SOLOGNAC,2024-04-27 21:19:45.707372,"54,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8367351,herren,outdoor-jacken,Jagdjacke / Regenjacke 500 grün,SOLOGNAC,2024-04-27 21:19:46.496398,"54,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8549489,herren,outdoor-jacken,3-in-1-Jacke Herren wasserdicht bis -10 °C - Travel 900 Compact camel,FORCLAZ,2024-04-27 21:19:47.270505,"179,99 €",False,,inStock,True,False,0,0,2,0070048700487,Würzburg
+8549489,herren,outdoor-jacken,3-in-1-Jacke Herren wasserdicht bis -10 °C - Travel 900 Compact camel,FORCLAZ,2024-04-27 21:19:48.076333,"179,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8549489,herren,outdoor-jacken,3-in-1-Jacke Herren wasserdicht bis -10 °C - Travel 900 Compact camel,FORCLAZ,2024-04-27 21:19:48.914634,"179,99 €",False,,inStock,True,False,0,0,4,0070048700487,Würzburg
+8549489,herren,outdoor-jacken,3-in-1-Jacke Herren wasserdicht bis -10 °C - Travel 900 Compact camel,FORCLAZ,2024-04-27 21:19:49.814785,"179,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8549489,herren,outdoor-jacken,3-in-1-Jacke Herren wasserdicht bis -10 °C - Travel 900 Compact camel,FORCLAZ,2024-04-27 21:19:50.780343,"179,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8549489,herren,outdoor-jacken,3-in-1-Jacke Herren wasserdicht bis -10 °C - Travel 900 Compact camel,FORCLAZ,2024-04-27 21:19:51.558839,"179,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8542908,herren,outdoor-jacken,Jacke 500 wattiert geräuscharm braun,SOLOGNAC,2024-04-27 21:19:52.483272,"34,99 €",False,,inStock,True,False,0,0,2,0070048700487,Würzburg
+8542908,herren,outdoor-jacken,Jacke 500 wattiert geräuscharm braun,SOLOGNAC,2024-04-27 21:19:53.291087,"34,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8542908,herren,outdoor-jacken,Jacke 500 wattiert geräuscharm braun,SOLOGNAC,2024-04-27 21:19:54.049780,"34,99 €",False,,inStock,True,False,0,0,4,0070048700487,Würzburg
+8542908,herren,outdoor-jacken,Jacke 500 wattiert geräuscharm braun,SOLOGNAC,2024-04-27 21:19:54.872125,"34,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8542908,herren,outdoor-jacken,Jacke 500 wattiert geräuscharm braun,SOLOGNAC,2024-04-27 21:19:55.708273,"34,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8542908,herren,outdoor-jacken,Jacke 500 wattiert geräuscharm braun,SOLOGNAC,2024-04-27 21:19:56.468692,"34,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8771043,herren,outdoor-jacken,Regenjacke 100 leicht camouflage grün,SOLOGNAC,2024-04-27 21:19:57.384478,"24,99 €",False,,inStock,True,False,0,0,2,0070048700487,Würzburg
+8771043,herren,outdoor-jacken,Regenjacke 100 leicht camouflage grün,SOLOGNAC,2024-04-27 21:19:58.159570,"24,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8771043,herren,outdoor-jacken,Regenjacke 100 leicht camouflage grün,SOLOGNAC,2024-04-27 21:19:58.981698,"24,99 €",False,,inStock,True,False,0,0,4,0070048700487,Würzburg
+8771043,herren,outdoor-jacken,Regenjacke 100 leicht camouflage grün,SOLOGNAC,2024-04-27 21:19:59.756274,"24,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8771043,herren,outdoor-jacken,Regenjacke 100 leicht camouflage grün,SOLOGNAC,2024-04-27 21:20:00.528719,"24,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8771043,herren,outdoor-jacken,Regenjacke 100 leicht camouflage grün,SOLOGNAC,2024-04-27 21:20:01.335374,"24,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8642198,herren,outdoor-jacken,Skijacke Herren - 100 schwarz,WEDZE,2024-04-27 21:20:02.250786,"49,99 €",False,,inStock,True,False,0,0,2,0070048700487,Würzburg
+8642198,herren,outdoor-jacken,Skijacke Herren - 100 schwarz,WEDZE,2024-04-27 21:20:03.025533,"49,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8642198,herren,outdoor-jacken,Skijacke Herren - 100 schwarz,WEDZE,2024-04-27 21:20:03.756624,"49,99 €",False,,inStock,True,False,0,0,4,0070048700487,Würzburg
+8642198,herren,outdoor-jacken,Skijacke Herren - 100 schwarz,WEDZE,2024-04-27 21:20:04.708354,"49,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8642198,herren,outdoor-jacken,Skijacke Herren - 100 schwarz,WEDZE,2024-04-27 21:20:05.626380,"49,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8642198,herren,outdoor-jacken,Skijacke Herren - 100 schwarz,WEDZE,2024-04-27 21:20:06.402362,"49,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8755207,herren,outdoor-jacken,Skijacke Herren warm mittlere Länge 100 grau/schwarz,WEDZE,2024-04-27 21:20:07.193508,"49,99 €",False,,inStock,True,False,0,0,2,0070048700487,Würzburg
+8755207,herren,outdoor-jacken,Skijacke Herren warm mittlere Länge 100 grau/schwarz,WEDZE,2024-04-27 21:20:08.018934,"49,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8755207,herren,outdoor-jacken,Skijacke Herren warm mittlere Länge 100 grau/schwarz,WEDZE,2024-04-27 21:20:08.776601,"49,99 €",False,,inStock,True,False,0,0,4,0070048700487,Würzburg
+8755207,herren,outdoor-jacken,Skijacke Herren warm mittlere Länge 100 grau/schwarz,WEDZE,2024-04-27 21:20:09.599243,"49,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8755207,herren,outdoor-jacken,Skijacke Herren warm mittlere Länge 100 grau/schwarz,WEDZE,2024-04-27 21:20:10.403542,"49,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8755207,herren,outdoor-jacken,Skijacke Herren warm mittlere Länge 100 grau/schwarz,WEDZE,2024-04-27 21:20:11.244915,"49,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8670042,herren,outdoor-jacken,Wanderjacke Hybridjacke Speed Hiking FH900 ultraleicht Herren blaugrau,QUECHUA,2024-04-27 21:20:12.018098,"64,99 €",False,,inStock,True,False,0,0,2,0070048700487,Würzburg
+8670042,herren,outdoor-jacken,Wanderjacke Hybridjacke Speed Hiking FH900 ultraleicht Herren blaugrau,QUECHUA,2024-04-27 21:20:12.805117,"64,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8670042,herren,outdoor-jacken,Wanderjacke Hybridjacke Speed Hiking FH900 ultraleicht Herren blaugrau,QUECHUA,2024-04-27 21:20:13.594379,"64,99 €",False,,inStock,True,False,0,0,4,0070048700487,Würzburg
+8670042,herren,outdoor-jacken,Wanderjacke Hybridjacke Speed Hiking FH900 ultraleicht Herren blaugrau,QUECHUA,2024-04-27 21:20:14.526380,"64,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8670042,herren,outdoor-jacken,Wanderjacke Hybridjacke Speed Hiking FH900 ultraleicht Herren blaugrau,QUECHUA,2024-04-27 21:20:15.378454,"64,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8670042,herren,outdoor-jacken,Wanderjacke Hybridjacke Speed Hiking FH900 ultraleicht Herren blaugrau,QUECHUA,2024-04-27 21:20:16.168323,"64,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8370601,herren,outdoor-jacken,Wattierte Jacke Herren Bergtrekking Komfort bis 0 °C - MT50,FORCLAZ,2024-04-27 21:20:16.943869,"19,99 €",False,,inStock,True,False,0,0,2,0070048700487,Würzburg
+8370601,herren,outdoor-jacken,Wattierte Jacke Herren Bergtrekking Komfort bis 0 °C - MT50,FORCLAZ,2024-04-27 21:20:17.767099,"19,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8370601,herren,outdoor-jacken,Wattierte Jacke Herren Bergtrekking Komfort bis 0 °C - MT50,FORCLAZ,2024-04-27 21:20:18.543229,"19,99 €",False,,inStock,True,False,0,0,4,0070048700487,Würzburg
+8370601,herren,outdoor-jacken,Wattierte Jacke Herren Bergtrekking Komfort bis 0 °C - MT50,FORCLAZ,2024-04-27 21:20:19.543723,"19,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8370601,herren,outdoor-jacken,Wattierte Jacke Herren Bergtrekking Komfort bis 0 °C - MT50,FORCLAZ,2024-04-27 21:20:20.363790,"19,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8370601,herren,outdoor-jacken,Wattierte Jacke Herren Bergtrekking Komfort bis 0 °C - MT50,FORCLAZ,2024-04-27 21:20:21.156189,"19,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8641439,herren,outdoor-jacken,Winterjacke Herren Blouson bis -10°C wasserdicht Winterwandern - SH500,QUECHUA,2024-04-27 21:20:21.955704,"49,99 €",False,,inStock,True,False,0,0,2,0070048700487,Würzburg
+8641439,herren,outdoor-jacken,Winterjacke Herren Blouson bis -10°C wasserdicht Winterwandern - SH500,QUECHUA,2024-04-27 21:20:22.751135,"49,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8641439,herren,outdoor-jacken,Winterjacke Herren Blouson bis -10°C wasserdicht Winterwandern - SH500,QUECHUA,2024-04-27 21:20:23.578683,"49,99 €",False,,inStock,True,False,0,0,4,0070048700487,Würzburg
+8641439,herren,outdoor-jacken,Winterjacke Herren Blouson bis -10°C wasserdicht Winterwandern - SH500,QUECHUA,2024-04-27 21:20:24.418398,"49,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8641439,herren,outdoor-jacken,Winterjacke Herren Blouson bis -10°C wasserdicht Winterwandern - SH500,QUECHUA,2024-04-27 21:20:25.286983,"49,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8641439,herren,outdoor-jacken,Winterjacke Herren Blouson bis -10°C wasserdicht Winterwandern - SH500,QUECHUA,2024-04-27 21:20:26.090158,"49,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8560070,herren,outdoor-jacken,Jagd-Regenjacke 900 warm geräuscharm grün,SOLOGNAC,2024-04-27 21:20:26.866096,"159,99 €",False,,inStock,True,False,0,0,2,0070048700487,Würzburg
+8560070,herren,outdoor-jacken,Jagd-Regenjacke 900 warm geräuscharm grün,SOLOGNAC,2024-04-27 21:20:27.703232,"159,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8560070,herren,outdoor-jacken,Jagd-Regenjacke 900 warm geräuscharm grün,SOLOGNAC,2024-04-27 21:20:28.699711,"159,99 €",False,,inStock,True,False,0,0,4,0070048700487,Würzburg
+8560070,herren,outdoor-jacken,Jagd-Regenjacke 900 warm geräuscharm grün,SOLOGNAC,2024-04-27 21:20:29.500139,"159,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8560070,herren,outdoor-jacken,Jagd-Regenjacke 900 warm geräuscharm grün,SOLOGNAC,2024-04-27 21:20:30.328025,"159,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8560070,herren,outdoor-jacken,Jagd-Regenjacke 900 warm geräuscharm grün,SOLOGNAC,2024-04-27 21:20:31.118707,"159,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8555785,herren,outdoor-jacken,Jagdjacke Supertrack 100 strapazierfähig wasserdicht grün,SOLOGNAC,2024-04-27 21:20:31.977727,"79,99 €",False,,inStock,True,False,0,0,2,0070048700487,Würzburg
+8555785,herren,outdoor-jacken,Jagdjacke Supertrack 100 strapazierfähig wasserdicht grün,SOLOGNAC,2024-04-27 21:20:32.749741,"79,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8555785,herren,outdoor-jacken,Jagdjacke Supertrack 100 strapazierfähig wasserdicht grün,SOLOGNAC,2024-04-27 21:20:33.766533,"79,99 €",False,,inStock,True,False,0,0,4,0070048700487,Würzburg
+8555785,herren,outdoor-jacken,Jagdjacke Supertrack 100 strapazierfähig wasserdicht grün,SOLOGNAC,2024-04-27 21:20:34.556448,"79,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8555785,herren,outdoor-jacken,Jagdjacke Supertrack 100 strapazierfähig wasserdicht grün,SOLOGNAC,2024-04-27 21:20:35.364547,"79,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8555785,herren,outdoor-jacken,Jagdjacke Supertrack 100 strapazierfähig wasserdicht grün,SOLOGNAC,2024-04-27 21:20:36.297871,"79,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8797783,herren,outdoor-jacken,Jagd-Regenjacke 500 Treemetic geräuscharm light orange,SOLOGNAC,2024-04-27 21:20:37.026928,"49,99 €",False,,inStock,True,False,0,0,2,0070048700487,Würzburg
+8797783,herren,outdoor-jacken,Jagd-Regenjacke 500 Treemetic geräuscharm light orange,SOLOGNAC,2024-04-27 21:20:37.909960,"49,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8797783,herren,outdoor-jacken,Jagd-Regenjacke 500 Treemetic geräuscharm light orange,SOLOGNAC,2024-04-27 21:20:38.733669,"49,99 €",False,,inStock,True,False,0,0,4,0070048700487,Würzburg
+8797783,herren,outdoor-jacken,Jagd-Regenjacke 500 Treemetic geräuscharm light orange,SOLOGNAC,2024-04-27 21:20:39.481223,"49,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8797783,herren,outdoor-jacken,Jagd-Regenjacke 500 Treemetic geräuscharm light orange,SOLOGNAC,2024-04-27 21:20:40.252413,"49,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8797783,herren,outdoor-jacken,Jagd-Regenjacke 500 Treemetic geräuscharm light orange,SOLOGNAC,2024-04-27 21:20:41.042732,"49,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8807720,herren,outdoor-jacken,Skijacke Herren warm Piste - 500 rot,WEDZE,2024-04-27 21:20:41.812491,"68,99 €",False,,inStock,True,False,0,0,2,0070048700487,Würzburg
+8807720,herren,outdoor-jacken,Skijacke Herren warm Piste - 500 rot,WEDZE,2024-04-27 21:20:42.561232,"68,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8807720,herren,outdoor-jacken,Skijacke Herren warm Piste - 500 rot,WEDZE,2024-04-27 21:20:43.477001,"68,99 €",False,,inStock,True,False,0,0,4,0070048700487,Würzburg
+8807720,herren,outdoor-jacken,Skijacke Herren warm Piste - 500 rot,WEDZE,2024-04-27 21:20:44.241955,"68,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8807720,herren,outdoor-jacken,Skijacke Herren warm Piste - 500 rot,WEDZE,2024-04-27 21:20:45.092292,"68,99 €",False,,inStock,False,False,0,0,1,0070048700487,Würzburg
+8807720,herren,outdoor-jacken,Skijacke Herren warm Piste - 500 rot,WEDZE,2024-04-27 21:20:45.851227,"68,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg

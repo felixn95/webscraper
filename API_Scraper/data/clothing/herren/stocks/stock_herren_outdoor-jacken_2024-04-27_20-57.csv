@@ -1,0 +1,3 @@
+id,gender,category,product_name,brand,timestamp,price,store_aboveThreshold,store_address,store_availabilityInfo,store_clickNcollect1h,store_favoriteStore,store_latitude,store_longitude,store_quantity,store_storeId,store_storeName
+8612171,herren,outdoor-jacken,Wanderjacke Herren wasserdicht leicht - MH500 schwarz,QUECHUA,2024-04-27 20:57:57.329394,"99,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
+8844533,herren,outdoor-jacken,Regenjacke Herren - Raincut Fullzip schwarz,QUECHUA,2024-04-27 20:57:58.157677,"17,99 €",False,,inStock,True,False,0,0,3,0070048700487,Würzburg
