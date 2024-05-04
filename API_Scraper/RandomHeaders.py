@@ -1,96 +1,48 @@
 import random
 import requests
 
-
 class RandomHeaders:
     def __init__(self):
-        self.headers = [{'upgrade-insecure-requests': '1',
-                         'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.52',
-                         'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
-                         'sec-ch-ua': 'Microsoft Edge;v="87", "Chromium";v="87", ";Not A Brand";v="99"',
-                         'sec-ch-ua-mobile': '?0', 'sec-ch-ua-platform': 'Windows', 'sec-fetch-site': 'none',
-                         'sec-fetch-mod': '', 'sec-fetch-user': '?1', 'accept-encoding': 'gzip, deflate',
-                         'accept-language': 'en-US,en;q=0.9,es;q=0.5'}, {'upgrade-insecure-requests': '1',
-                                                                         'user-agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36',
-                                                                         'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
-                                                                         'sec-ch-ua': 'Google Chrome;v="88", "Chromium";v="88", ";Not A Brand";v="99"',
-                                                                         'sec-ch-ua-mobile': '?0',
-                                                                         'sec-ch-ua-platform': 'Windows',
-                                                                         'sec-fetch-site': 'none', 'sec-fetch-mod': '',
-                                                                         'sec-fetch-user': '?1',
-                                                                         'accept-encoding': 'gzip',
-                                                                         'accept-language': 'en-US,it;q=0.7'},
-                        {'upgrade-insecure-requests': '1',
-                         'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
-                         'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
-                         'sec-ch-ua': 'Google Chrome;v="86", "Chromium";v="86", ";Not A Brand";v="99"',
-                         'sec-ch-ua-mobile': '?0', 'sec-ch-ua-platform': 'macOS', 'sec-fetch-site': 'none',
-                         'sec-fetch-mod': '', 'sec-fetch-user': '?1', 'accept-encoding': 'gzip',
-                         'accept-language': 'en-US,de;q=0.6'}, {'upgrade-insecure-requests': '1',
-                                                                'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36',
-                                                                'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-                                                                'sec-ch-ua': 'Google Chrome;v="89", "Chromium";v="89", ";Not A Brand";v="99"',
-                                                                'sec-ch-ua-mobile': '?0', 'sec-ch-ua-platform': 'macOS',
-                                                                'sec-fetch-site': 'none', 'sec-fetch-mod': '',
-                                                                'sec-fetch-user': '?1',
-                                                                'accept-encoding': 'gzip, deflate',
-                                                                'accept-language': 'en-US,es;q=0.7'},
-                        {'upgrade-insecure-requests': '1',
-                         'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.136 Safari/537.36',
-                         'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
-                         'sec-ch-ua': 'Google Chrome;v="79", "Chromium";v="79", ";Not A Brand";v="99"',
-                         'sec-ch-ua-mobile': '?0', 'sec-ch-ua-platform': 'Windows', 'sec-fetch-site': 'none',
-                         'sec-fetch-mod': '', 'sec-fetch-user': '?1', 'accept-encoding': 'gzip, deflate',
-                         'accept-language': 'en-US,en;q=0.6'}, {'upgrade-insecure-requests': '1',
-                                                                'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.76',
-                                                                'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
-                                                                'sec-ch-ua': 'Microsoft Edge;v="89", "Chromium";v="89", ";Not A Brand";v="99"',
-                                                                'sec-ch-ua-mobile': '?0',
-                                                                'sec-ch-ua-platform': 'Windows',
-                                                                'sec-fetch-site': 'none', 'sec-fetch-mod': '',
-                                                                'sec-fetch-user': '?1', 'accept-encoding': 'gzip',
-                                                                'accept-language': 'en-US,it;q=0.9'},
-                        {'upgrade-insecure-requests': '1',
-                         'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36',
-                         'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-                         'sec-ch-ua': 'Google Chrome;v="90", "Chromium";v="90", ";Not A Brand";v="99"',
-                         'sec-ch-ua-mobile': '?0', 'sec-ch-ua-platform': 'macOS', 'sec-fetch-site': 'none',
-                         'sec-fetch-mod': '', 'sec-fetch-user': '?1', 'accept-encoding': 'gzip',
-                         'accept-language': 'en-US,es;q=0.8'}, {'upgrade-insecure-requests': '1',
-                                                                'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36',
-                                                                'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
-                                                                'sec-ch-ua': 'Google Chrome;v="89", "Chromium";v="89", ";Not A Brand";v="99"',
-                                                                'sec-ch-ua-mobile': '?0',
-                                                                'sec-ch-ua-platform': 'Windows',
-                                                                'sec-fetch-site': 'none', 'sec-fetch-mod': '',
-                                                                'sec-fetch-user': '?1',
-                                                                'accept-encoding': 'gzip, deflate',
-                                                                'accept-language': 'en-US,fr;q=0.9'},
-                        {'upgrade-insecure-requests': '1',
-                         'user-agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36',
-                         'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
-                         'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"',
-                         'sec-ch-ua-mobile': '?0', 'sec-ch-ua-platform': '"Windows"', 'sec-fetch-site': 'none',
-                         'sec-fetch-mod': '', 'sec-fetch-user': '?1', 'accept-encoding': 'gzip, deflate, br',
-                         'accept-language': 'en-US,fr;q=0.7'}, {'upgrade-insecure-requests': '1',
-                                                                'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36',
-                                                                'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
-                                                                'sec-ch-ua': 'Google Chrome;v="90", "Chromium";v="90", ";Not A Brand";v="99"',
-                                                                'sec-ch-ua-mobile': '?0',
-                                                                'sec-ch-ua-platform': 'Windows',
-                                                                'sec-fetch-site': 'none', 'sec-fetch-mod': '',
-                                                                'sec-fetch-user': '?1', 'accept-encoding': 'gzip',
-                                                                'accept-language': 'en-US,es;q=0.5'}]
+        self.headers = []  # Initialize with an empty list of headers
 
     def get_random_header(self):
-        return random.choice(self.headers)
+        if self.headers:
+            return random.choice(self.headers)
+        else:
+            print("No headers available. Please fetch headers using fetch_new_headers().")
+            return None
 
-    def get_new_headers(self):
-        response = requests.get(
-            url='https://headers.scrapeops.io/v1/browser-headers',
-            params={
-                'api_key': '476d386a-1945-4c56-a876-ee1f0de30cd8',
-                'num_results': '10'}
-        )
-        return response.json()['headers']
+    def get_ajax_header(self):
+        return {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36',
+            'Accept': 'application/json',  # Expect JSON data
+            'Content-Type': 'application/json',  # Sending JSON data
+            'X-Requested-With': 'XMLHttpRequest',  # Marks it as AJAX
+            'Sec-Fetch-Site': 'none',
+            'Sec-Fetch-Mode': 'cors',  # Typically, AJAX might be cross-origin
+            'Sec-Fetch-User': '?1',
+            'Accept-Encoding': 'gzip, deflate',
+            'Accept-Language': 'en-US,de;q=0.7'
+        }
 
+    def fetch_new_headers(self):
+        try:
+            response = requests.get(
+                url='https://headers.scrapeops.io/v1/browser-headers',
+                params={
+                    'api_key': '476d386a-1945-4c56-a876-ee1f0de30cd8',
+                    'num_results': '10'}
+            )
+            response.raise_for_status()  # Raises a HTTPError for bad requests (4XX or 5XX)
+            data = response.json()
+            if 'result' in data:
+                self.headers = data['result']
+            else:
+                print("Key 'result' not found in response")
+                self.headers = []
+        except requests.exceptions.RequestException as e:
+            print("Request failed:", e)
+            self.headers = []
+        except KeyError:
+            print("Unexpected JSON structure:", data)
+            self.headers = []

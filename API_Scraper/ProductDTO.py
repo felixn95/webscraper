@@ -1,5 +1,5 @@
-from dataclasses import dataclass, field
-from datetime import datetime
+from typing import List
+
 from API_Scraper.StoreStockDTO import StoreStockInfo
 import pandas as pd
 from dataclasses import dataclass, field
@@ -13,6 +13,8 @@ class ProductDTO:
     product_name: str
     brand: str = None
     price: str = None
+    url: str = None
+    sku_ids: List[str] = field(default_factory=list)
 
 @dataclass
 class ProductStockDTO:
@@ -44,6 +46,14 @@ class ProductStockDTO:
     def price(self):
         return self.product.price
 
+    @property
+    def url(self):
+        return self.product.url
+
+    @property
+    def sku_ids(self):
+        return self.product.sku_ids
+
 def product_stock_to_dict(product_stock):
     """Convert ProductStockDTO to dictionary, flattening the StoreStockInfo."""
     product_dict = {
@@ -53,6 +63,7 @@ def product_stock_to_dict(product_stock):
         "product_name": product_stock.product.product_name,
         "brand": product_stock.product.brand,
         "price": product_stock.product.price,
+        "url": product_stock.product.url,
         "timestamp": product_stock.timestamp,
         # Add StoreStockInfo fields, prefixing with 'store_'
         "store_aboveThreshold": product_stock.store_stock.aboveThreshold,

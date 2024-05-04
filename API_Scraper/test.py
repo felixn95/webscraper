@@ -1,20 +1,27 @@
 import unittest
+
+from StoreIds import StoreIds
+from Sku_Ids import SkuIds_MenJacket
 from StockLevelExtractor import StockLevelExtractor
 from ProductDataAccessor import ProductDataAccessor
+from RequestUtils import RequestUtils
+from SoupExtractor import SoupExtractor
 
 
 class TestProductDataAccessor(unittest.TestCase):
 
     def test_jackets_clothing_data_accessing(self):
-        # Create an instance of the ProductDataAccessor
+
         data_accessor = ProductDataAccessor()
 
-        # Specify the sport and category
-        gender = 'damen'
-        category = 'jacken'
+        # Specify main and sub category
+        gender = 'herren'
+        category = 'outdoor-jacken'
+        size = 5
 
-        # Call the method to scrape and save the data
-        data_accessor.scrape_and_save_clothing(gender, category)
+        data_accessor.scrape_and_save_clothing(gender, category, size)
+        # assert no exception is raised
+        self.assertTrue(True)
 
     def test_sport_data_accessing(self):
         # Create an instance of the ProductDataAccessor
@@ -31,13 +38,15 @@ class TestProductDataAccessor(unittest.TestCase):
 class TestStockLevelExtractor(unittest.TestCase):
     def test_stock_level_extraction(self):
         # Define the file path for the CSV containing product IDs
-        file_path = "data/clothing/damen/products/damen_jacken_2024-04-29_20-13_ids.csv"
+        file_path = "data/clothing/herren/products/herren_outdoor-jacken_2024-05-04_11-44.csv"
 
         extractor = StockLevelExtractor(file_path)
         product_dtos = extractor.create_product_dtos()
 
-        # Fetch stock information for the products
-        extractor.fetch_stock_info(product_dtos)
+        # Fetch stock information
+        store_id = StoreIds.WUERZBURG.value
+
+        extractor.fetch_stock_info(product_dtos, store_id)
 
         # Save the updated stock information to a new CSV
         extractor.save_to_csv()
@@ -64,6 +73,18 @@ class TestWorkflow(unittest.TestCase):
         # Save the updated stock information to a new CSV
         extractor.save_to_csv()
 
+class TestSoupExtractor(unittest.TestCase):
+    def test_soup_extractor(self):
+        # Load the HTML content from a file
+        request_manager = RequestUtils()
+        url = "https://www.decathlon.de/p/laufshorts-leicht-kiprun-light-herren/_/R-p-325737?mc=8774064&c=blau"
+        product_soup = request_manager.fetch_page(url)
+
+        soup_extractor = SoupExtractor(product_soup)
+
+        model_data = soup_extractor.extract_product_info()
+
+        print(model_data)
 
 # This allows the test to be run from the command line
 if __name__ == '__main__':

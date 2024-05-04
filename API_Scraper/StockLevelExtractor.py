@@ -1,10 +1,6 @@
 import time
-from datetime import datetime
-import pandas as pd
 from RequestUtils import RequestUtils
-from bs4 import BeautifulSoup
-from SkuIDs_Men_Jacket import SkuIDs_Men_Jacket
-from ProductDTO import ProductDTO, ProductStockDTO, product_stock_to_dict, product_stock_to_df
+from ProductDTO import ProductDTO, ProductStockDTO, product_stock_to_dict
 from DataProcessingUtils import *
 
 
@@ -22,19 +18,22 @@ class StockLevelExtractor:
                 sub_category=row['sub_category'],
                 product_name=row['name'],
                 brand=row['brand'],
-                price=row['price']
+                price=row['price'],
+                url=row['url'],
+                sku_ids=row['sku_ids'].split(';')
             )
             product_dtos.append(product_dto)
         return product_dtos
 
-    def fetch_stock_info(self, product_dtos):
-        store_id = "0070048700487"
+    def fetch_stock_info(self, product_dtos, store_id):
         timestamp = datetime.now()
         requests_manager = RequestUtils()
-        for product in product_dtos:  # [:3]Limit to first X products
-            for sku in SkuIDs_Men_Jacket:
+        # iterate over all products and fetch stock info for each SKU (product variant, fx. size)
+        for product in product_dtos:
+            sku_ids = product.sku_ids  #[:3]Limit to first X products
+            for sku in sku_ids:
                 try:
-                    stock_info = requests_manager.fetch_stock_info(sku.value, product.id, store_id)
+                    stock_info = requests_manager.fetch_stock_info(sku, product.id, store_id)
                     if stock_info:
                         product_stock = ProductStockDTO(
                             product=product,
@@ -42,6 +41,7 @@ class StockLevelExtractor:
                             timestamp=timestamp
                         )
                         self.all_product_stocks.append(product_stock)
+                    print(f"Fetched stock for product {product.id} and sku {sku}")
                     # sleep some milliseconds to avoid getting blocked
                     time.sleep(0.2)
                 except Exception as e:
