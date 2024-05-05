@@ -12,6 +12,7 @@ from datetime import datetime
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
+
 class ProductDataAccessor:
     BASE_URL = 'https://www.decathlon.de'
     CLOTHING = 'clothing'
@@ -21,24 +22,25 @@ class ProductDataAccessor:
     def __init__(self, data_dir='data'):
         self.data_dir = data_dir
 
-    def scrape_and_save_clothing(self, gender: str, category: str, size: int = 30):
+    def scrape_and_save_clothing(self, gender: str, category: str, store_id: str, size: int = 30):
         """Scrapes product data for a given category and gender and saves it to a CSV file."""
-        url = self.build_url(self.CLOTHING, gender, category, size)
+        url = self.build_url(self.CLOTHING, gender, category, store_id, size)
         destination_path = self.build_destination_path(self.CLOTHING, gender, category)
         self.scrape_and_save(url, destination_path, gender, category)
 
-    def scrape_and_save_sportgear(self, sport: str, category: str, size: int = 30):
+    def scrape_and_save_sportgear(self, sport: str, category: str, store_id: str, size: int = 30):
         """Scrapes product data for a given sport and category and saves it to a CSV file."""
-        url = self.build_url(self.SPORTGEAR, sport, category, size)
+        url = self.build_url(self.SPORTGEAR, sport, category, store_id, size)
         destination_path = self.build_destination_path(self.SPORTGEAR, sport, category)
         self.scrape_and_save(url, destination_path, sport, category)
 
-    def build_url(self, c_type: str, main_category: str, sub_category: str, size: int = 30) -> str:
+    def build_url(self, c_type: str, main_category: str, sub_category: str, store_id: str, size: int = 30) -> str:
         """Builds the URL based on the type of product."""
         if c_type == self.CLOTHING:
-            return f'{self.BASE_URL}/{main_category}/{sub_category}?from=1&size={size}'
+            return f'{self.BASE_URL}/{main_category}/{sub_category}?storeid={store_id}from=1&size={size}'
         elif c_type == self.SPORTGEAR:
-            return f'{self.BASE_URL}/{self.SPORT_BASE}/{main_category}/{sub_category}?from=1&size={size}'
+            # https://www.decathlon.de/alle-sportarten-a-z/wassersport-welt/strandspiele?storeid=0070048700487
+            return f'{self.BASE_URL}/{self.SPORT_BASE}/{main_category}/{sub_category}?storeid={store_id}from=1&size={size}'
 
     def build_destination_path(self, c_type: str, main_category: str, sub_category: str) -> str:
         """Builds the file path for storing scraped data."""
@@ -112,4 +114,3 @@ class ProductDataAccessor:
             'brand': brand,
             'price': price
         }
-

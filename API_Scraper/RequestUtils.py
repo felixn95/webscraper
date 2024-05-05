@@ -26,6 +26,7 @@ class RequestUtils:
             raise ValueError("URL must be provided")
 
         headers_manager = RandomHeaders.RandomHeaders()
+        headers_manager.fetch_new_headers()
         retries = 0
         while retries < max_retries:
             headers = headers_manager.get_random_header()

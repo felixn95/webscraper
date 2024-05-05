@@ -28,17 +28,19 @@ class TestProductDataAccessor(unittest.TestCase):
         data_accessor = ProductDataAccessor()
 
         # Specify the sport and category
-        sport = 'padel-tennis'
-        category = 'padelausrustung'
+        sport = 'wassersport-welt'
+        category = 'strandspiele'
+        size = 5
+        store_id = StoreIds.WUERZBURG.value
 
         # Call the method to scrape and save the data
-        data_accessor.scrape_and_save_sportgear(sport, category)
+        data_accessor.scrape_and_save_sportgear(sport, category, store_id, size)
 
 
 class TestStockLevelExtractor(unittest.TestCase):
     def test_stock_level_extraction(self):
         # Define the file path for the CSV containing product IDs
-        file_path = "data/clothing/herren/products/herren_outdoor-jacken_2024-05-04_11-44.csv"
+        file_path = "data/sportgear/products/wassersport-welt_strandspiele_2024-05-05_10-28.csv"
 
         extractor = StockLevelExtractor(file_path)
         product_dtos = extractor.create_product_dtos()

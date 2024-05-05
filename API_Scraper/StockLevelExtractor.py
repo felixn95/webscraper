@@ -5,8 +5,11 @@ from DataProcessingUtils import *
 
 
 class StockLevelExtractor:
-    def __init__(self, filepath):
+    def __init__(self, filepath, main_category: str, sub_category: str, store_id: str):
         self.product_list = pd.read_csv(filepath)
+        self.main_category = main_category
+        self.sub_category = sub_category
+        self.store_id = store_id
         self.all_product_stocks = []
 
     def create_product_dtos(self):
@@ -25,7 +28,7 @@ class StockLevelExtractor:
             product_dtos.append(product_dto)
         return product_dtos
 
-    def fetch_stock_info(self, product_dtos, store_id):
+    def fetch_stock_info(self, product_dtos):
         timestamp = datetime.now()
         requests_manager = RequestUtils()
         # iterate over all products and fetch stock info for each SKU (product variant, fx. size)
@@ -33,7 +36,7 @@ class StockLevelExtractor:
             sku_ids = product.sku_ids  #[:3]Limit to first X products
             for sku in sku_ids:
                 try:
-                    stock_info = requests_manager.fetch_stock_info(sku, product.id, store_id)
+                    stock_info = requests_manager.fetch_stock_info(sku, product.id, self.store_id)
                     if stock_info:
                         product_stock = ProductStockDTO(
                             product=product,
@@ -50,11 +53,12 @@ class StockLevelExtractor:
     def save_to_csv(self):
         product_dicts = [product_stock_to_dict(stock) for stock in self.all_product_stocks]
         product_df = pd.DataFrame(product_dicts)
-        main_category = self.all_product_stocks[0].product.main_category
-        sub_category = self.all_product_stocks[0].product.sub_category
+        main_category = self.main_category
+        sub_category = self.sub_category
         if product_df.empty:
             return
-        destination_path = f'data/clothing/{main_category}/stocks/stock_{main_category}_{sub_category}'
+        # destination_path = f'data/clothing/{main_category}/stocks/stock_{main_category}_{sub_category}'
+        destination_path = f'data/sportgear/stocks/stock_{main_category}_{sub_category}'
         timestamp = save_timestamp_as_string(self.all_product_stocks[0].timestamp)
         destination = f"{destination_path}_{timestamp}"
         product_df.to_csv(f'{destination}.csv', index=False)
