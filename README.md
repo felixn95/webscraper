@@ -5,7 +5,7 @@ Flexible webscraper to scrape any category of products from the Decathlon Websho
 *decathlon_scraper* package contains all scraping related classes and functions and scraped data. <br>
 *data_analysis* package contains analysis of the scraped data. (Currently only the combined data and a first small EDA)
 
-The data set gets updated every 24 hours.
+The data set gets updated every 24 hours. Started 7th of May, 2024.
 
 Python 3.10 | Packages listed in requirements.txt
 
