@@ -1,6 +1,6 @@
 import unittest
 
-from StoresEnum import SelectedStores
+from StoresEnum import SelectedStores, RuhrgebietStores
 from CategoriesEnum import Categories
 from StockLevelExtractor import StockLevelExtractor
 from ProductDataAccessor import ProductDataAccessor
@@ -16,9 +16,16 @@ class TestWorkflow(unittest.TestCase):
         scraper = ScraperMain()
 
         # Define the categories and stores for scraping
-        categories = [Categories.BIKES, Categories.CAMPING, Categories.FITNESS, Categories.PADEL_TENNIS]
-        stores = list(SelectedStores) # all stores
+        categories = list(Categories)  # all categories
+        stores = list(SelectedStores)  # all stores
 
+        scraper.scrape_categories_for_stores(categories, stores)
+
+    def test_workflow_sales_ruhrgebiet(self):
+        scraper = ScraperMain()
+
+        categories = [Categories.BIKES_SALE]
+        stores = [SelectedStores.NRW_NEUSS, SelectedStores.NRW_KOELN_QUINCY, SelectedStores.NRW_KOELN_MARSDORF]
         scraper.scrape_categories_for_stores(categories, stores)
 
     def test_scrape_workflow(self):

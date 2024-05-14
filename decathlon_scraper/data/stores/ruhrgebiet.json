@@ -1,0 +1,759 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "store_id": "0070206302063",
+        "name": "Bielefeld-City",
+        "contact": {
+          "phone": "+4952156066310"
+        },
+        "address": {
+          "lines": [
+            "Bahnhofstrasse 23"
+          ],
+          "country_code": "DE",
+          "city": "Bielefeld",
+          "zipcode": "33602"
+        },
+        "user_properties": {
+          "status": "OPEN",
+          "opening_store": false,
+          "publishOnEcommerce": 1
+        },
+        "tags": [],
+        "types": [],
+        "last_updated": "2024-05-08T22:00:20.137151+00:00",
+        "open": {
+          "open_now": false,
+          "open_hours": [
+            {
+              "end": "19:00",
+              "start": "10:00"
+            }
+          ],
+          "week_day": 4,
+          "next_opening": {
+            "day": "2024-05-09",
+            "start": "10:00",
+            "end": "19:00"
+          }
+        },
+        "weekly_opening": {
+          "timezone": "Europe/Berlin",
+          "1": {
+            "hours": [
+              {
+                "end": "19:00",
+                "start": "10:00"
+              }
+            ],
+            "isSpecial": false
+          },
+          "2": {
+            "hours": [
+              {
+                "end": "19:00",
+                "start": "10:00"
+              }
+            ],
+            "isSpecial": false
+          },
+          "3": {
+            "hours": [
+              {
+                "end": "19:00",
+                "start": "10:00"
+              }
+            ],
+            "isSpecial": false
+          },
+          "4": {
+            "hours": [
+              {
+                "end": "19:00",
+                "start": "10:00"
+              }
+            ],
+            "isSpecial": false
+          },
+          "5": {
+            "hours": [
+              {
+                "end": "19:00",
+                "start": "10:00"
+              }
+            ],
+            "isSpecial": false
+          },
+          "6": {
+            "hours": [
+              {
+                "end": "19:00",
+                "start": "10:00"
+              }
+            ],
+            "isSpecial": false
+          },
+          "7": {
+            "hours": [],
+            "isSpecial": false
+          }
+        },
+        "opening_hours": {
+          "usual": {
+            "1": [
+              {
+                "end": "19:00",
+                "start": "10:00"
+              }
+            ],
+            "2": [
+              {
+                "end": "19:00",
+                "start": "10:00"
+              }
+            ],
+            "3": [
+              {
+                "end": "19:00",
+                "start": "10:00"
+              }
+            ],
+            "4": [
+              {
+                "end": "19:00",
+                "start": "10:00"
+              }
+            ],
+            "5": [
+              {
+                "end": "19:00",
+                "start": "10:00"
+              }
+            ],
+            "6": [
+              {
+                "end": "19:00",
+                "start": "10:00"
+              }
+            ],
+            "7": []
+          },
+          "timezone": "Europe/Berlin"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.531121,
+          52.025246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "store_id": "0070077600776",
+        "name": "Hannover ",
+        "contact": {
+          "phone": "+4951182076610"
+        },
+        "address": {
+          "lines": [
+            "Karlsruher Str. 8"
+          ],
+          "country_code": "DE",
+          "city": "Laatzen",
+          "zipcode": "30880"
+        },
+        "user_properties": {
+          "status": "OPEN",
+          "opening_store": false,
+          "publishOnEcommerce": 1
+        },
+        "tags": [],
+        "types": [],
+        "last_updated": "2024-05-08T22:00:20.137578+00:00",
+        "open": {
+          "open_now": false,
+          "open_hours": [
+            {
+              "end": "20:00",
+              "start": "10:00"
+            }
+          ],
+          "week_day": 4,
+          "next_opening": {
+            "day": "2024-05-09",
+            "start": "10:00",
+            "end": "20:00"
+          }
+        },
+        "weekly_opening": {
+          "timezone": "Europe/Berlin",
+          "1": {
+            "hours": [
+              {
+                "end": "20:00",
+                "start": "10:00"
+              }
+            ],
+            "isSpecial": false
+          },
+          "2": {
+            "hours": [
+              {
+                "end": "20:00",
+                "start": "10:00"
+              }
+            ],
+            "isSpecial": false
+          },
+          "3": {
+            "hours": [
+              {
+                "end": "20:00",
+                "start": "10:00"
+              }
+            ],
+            "isSpecial": false
+          },
+          "4": {
+            "hours": [
+              {
+                "end": "20:00",
+                "start": "10:00"
+              }
+            ],
+            "isSpecial": false
+          },
+          "5": {
+            "hours": [
+              {
+                "end": "20:00",
+                "start": "10:00"
+              }
+            ],
+            "isSpecial": false
+          },
+          "6": {
+            "hours": [
+              {
+                "end": "20:00",
+                "start": "10:00"
+              }
+            ],
+            "isSpecial": false
+          },
+          "7": {
+            "hours": [],
+            "isSpecial": false
+          }
+        },
+        "opening_hours": {
+          "usual": {
+            "1": [
+              {
+                "end": "20:00",
+                "start": "10:00"
+              }
+            ],
+            "2": [
+              {
+                "end": "20:00",
+                "start": "10:00"
+              }
+            ],
+            "3": [
+              {
+                "end": "20:00",
+                "start": "10:00"
+              }
+            ],
+            "4": [
+              {
+                "end": "20:00",
+                "start": "10:00"
+              }
+            ],
+            "5": [
+              {
+                "end": "20:00",
+                "start": "10:00"
+              }
+            ],
+            "6": [
+              {
+                "end": "20:00",
+                "start": "10:00"
+              }
+            ],
+            "7": []
+          },
+          "timezone": "Europe/Berlin"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.794134,
+          52.320033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "store_id": "0070064500645",
+        "name": "Bielefeld-Sennestadt",
+        "contact": {
+          "phone": "+4952057297510"
+        },
+        "address": {
+          "lines": [
+            "Hansestr. 1"
+          ],
+          "country_code": "DE",
+          "city": "Bielefeld",
+          "zipcode": "33689"
+        },
+        "user_properties": {
+          "status": "OPEN",
+          "opening_store": false,
+          "publishOnEcommerce": 1
+        },
+        "tags": [],
+        "types": [],
+        "last_updated": "2024-05-08T22:00:20.139640+00:00",
+        "open": {
+          "open_now": false,
+          "open_hours": [
+            {
+              "end": "20:00",
+              "start": "10:00"
+            }
+          ],
+          "week_day": 4,
+          "next_opening": {
+            "day": "2024-05-09",
+            "start": "10:00",
+            "end": "20:00"
+          }
+        },
+        "weekly_opening": {
+          "timezone": "Europe/Berlin",
+          "1": {
+            "hours": [
+              {
+                "end": "20:00",
+                "start": "10:00"
+              }
+            ],
+            "isSpecial": false
+          },
+          "2": {
+            "hours": [
+              {
+                "end": "20:00",
+                "start": "10:00"
+              }
+            ],
+            "isSpecial": false
+          },
+          "3": {
+            "hours": [
+              {
+                "end": "20:00",
+                "start": "10:00"
+              }
+            ],
+            "isSpecial": false
+          },
+          "4": {
+            "hours": [
+              {
+                "end": "20:00",
+                "start": "10:00"
+              }
+            ],
+            "isSpecial": false
+          },
+          "5": {
+            "hours": [
+              {
+                "end": "20:00",
+                "start": "10:00"
+              }
+            ],
+            "isSpecial": false
+          },
+          "6": {
+            "hours": [
+              {
+                "end": "20:00",
+                "start": "10:00"
+              }
+            ],
+            "isSpecial": false
+          },
+          "7": {
+            "hours": [],
+            "isSpecial": false
+          }
+        },
+        "opening_hours": {
+          "usual": {
+            "1": [
+              {
+                "end": "20:00",
+                "start": "10:00"
+              }
+            ],
+            "2": [
+              {
+                "end": "20:00",
+                "start": "10:00"
+              }
+            ],
+            "3": [
+              {
+                "end": "20:00",
+                "start": "10:00"
+              }
+            ],
+            "4": [
+              {
+                "end": "20:00",
+                "start": "10:00"
+              }
+            ],
+            "5": [
+              {
+                "end": "20:00",
+                "start": "10:00"
+              }
+            ],
+            "6": [
+              {
+                "end": "20:00",
+                "start": "10:00"
+              }
+            ],
+            "7": []
+          },
+          "timezone": "Europe/Berlin"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.569464,
+          51.951646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "store_id": "0070260602606",
+        "name": "Paderborn",
+        "contact": {
+          "phone": "+495251879680"
+        },
+        "address": {
+          "lines": [
+            "Kamp 30-32"
+          ],
+          "country_code": "DE",
+          "city": "Paderborn",
+          "zipcode": "33098"
+        },
+        "user_properties": {
+          "status": "OPEN",
+          "opening_store": false,
+          "publishOnEcommerce": 1
+        },
+        "tags": [],
+        "types": [],
+        "last_updated": "2024-05-08T22:00:20.140491+00:00",
+        "open": {
+          "open_now": false,
+          "open_hours": [],
+          "week_day": 4,
+          "next_opening": {
+            "day": "2024-05-10",
+            "start": "10:00",
+            "end": "19:00"
+          }
+        },
+        "weekly_opening": {
+          "timezone": "Europe/Berlin",
+          "1": {
+            "hours": [
+              {
+                "end": "19:00",
+                "start": "10:00"
+              }
+            ],
+            "isSpecial": false
+          },
+          "2": {
+            "hours": [
+              {
+                "end": "19:00",
+                "start": "10:00"
+              }
+            ],
+            "isSpecial": false
+          },
+          "3": {
+            "hours": [
+              {
+                "end": "19:00",
+                "start": "10:00"
+              }
+            ],
+            "isSpecial": false
+          },
+          "4": {
+            "hours": [],
+            "isSpecial": true
+          },
+          "5": {
+            "hours": [
+              {
+                "end": "19:00",
+                "start": "10:00"
+              }
+            ],
+            "isSpecial": false
+          },
+          "6": {
+            "hours": [
+              {
+                "end": "19:00",
+                "start": "10:00"
+              }
+            ],
+            "isSpecial": false
+          },
+          "7": {
+            "hours": [],
+            "isSpecial": false
+          }
+        },
+        "opening_hours": {
+          "usual": {
+            "1": [
+              {
+                "end": "19:00",
+                "start": "10:00"
+              }
+            ],
+            "2": [
+              {
+                "end": "19:00",
+                "start": "10:00"
+              }
+            ],
+            "3": [
+              {
+                "end": "19:00",
+                "start": "10:00"
+              }
+            ],
+            "4": [
+              {
+                "end": "19:00",
+                "start": "10:00"
+              }
+            ],
+            "5": [
+              {
+                "end": "19:00",
+                "start": "10:00"
+              }
+            ],
+            "6": [
+              {
+                "end": "19:00",
+                "start": "10:00"
+              }
+            ],
+            "7": []
+          },
+          "special": {
+            "2024-05-09": [],
+            "2024-05-20": [],
+            "2024-05-30": [],
+            "2024-10-03": [],
+            "2024-11-01": [],
+            "2024-12-25": [],
+            "2024-12-26": []
+          },
+          "timezone": "Europe/Berlin"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7572026,
+          51.7168364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "store_id": "0070224702247",
+        "name": "Bad Oeynhausen",
+        "contact": {
+          "phone": "+4957318660810"
+        },
+        "address": {
+          "lines": [
+            "Mindener Str. 22"
+          ],
+          "country_code": "DE",
+          "city": "Bad Oeynhausen",
+          "zipcode": "32547"
+        },
+        "user_properties": {
+          "status": "OPEN",
+          "opening_store": false,
+          "publishOnEcommerce": 1
+        },
+        "tags": [],
+        "types": [],
+        "last_updated": "2024-05-08T22:00:20.147765+00:00",
+        "open": {
+          "open_now": false,
+          "open_hours": [
+            {
+              "end": "20:00",
+              "start": "10:00"
+            }
+          ],
+          "week_day": 4,
+          "next_opening": {
+            "day": "2024-05-09",
+            "start": "10:00",
+            "end": "20:00"
+          }
+        },
+        "weekly_opening": {
+          "timezone": "Europe/Berlin",
+          "1": {
+            "hours": [
+              {
+                "end": "20:00",
+                "start": "10:00"
+              }
+            ],
+            "isSpecial": false
+          },
+          "2": {
+            "hours": [
+              {
+                "end": "20:00",
+                "start": "10:00"
+              }
+            ],
+            "isSpecial": false
+          },
+          "3": {
+            "hours": [
+              {
+                "end": "20:00",
+                "start": "10:00"
+              }
+            ],
+            "isSpecial": false
+          },
+          "4": {
+            "hours": [
+              {
+                "end": "20:00",
+                "start": "10:00"
+              }
+            ],
+            "isSpecial": false
+          },
+          "5": {
+            "hours": [
+              {
+                "end": "20:00",
+                "start": "10:00"
+              }
+            ],
+            "isSpecial": false
+          },
+          "6": {
+            "hours": [
+              {
+                "end": "20:00",
+                "start": "10:00"
+              }
+            ],
+            "isSpecial": false
+          },
+          "7": {
+            "hours": [],
+            "isSpecial": false
+          }
+        },
+        "opening_hours": {
+          "usual": {
+            "1": [
+              {
+                "end": "20:00",
+                "start": "10:00"
+              }
+            ],
+            "2": [
+              {
+                "end": "20:00",
+                "start": "10:00"
+              }
+            ],
+            "3": [
+              {
+                "end": "20:00",
+                "start": "10:00"
+              }
+            ],
+            "4": [
+              {
+                "end": "20:00",
+                "start": "10:00"
+              }
+            ],
+            "5": [
+              {
+                "end": "20:00",
+                "start": "10:00"
+              }
+            ],
+            "6": [
+              {
+                "end": "20:00",
+                "start": "10:00"
+              }
+            ],
+            "7": []
+          },
+          "timezone": "Europe/Berlin"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.811575,
+          52.212782
+        ]
+      }
+    }
+  ]
+}
