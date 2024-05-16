@@ -31,7 +31,7 @@ class ProductDataAccessor:
         destination_path = self.build_destination_path(self.SPORTGEAR, sport, category, store_name)
         self.scrape_and_save(url, destination_path, sport, category)
 
-    def build_url(self, c_type: str, main_category: str, sub_category: str, store_id: str, size: int = 25) -> str:
+    def build_url(self, c_type: str, main_category: str, sub_category: str, store_id: str, size: int = 40) -> str:
         """Builds the URL based on the type of product."""
         if c_type == self.CLOTHING:
             return f'{self.BASE_URL}/{main_category}/{sub_category}?storeid={store_id}from=1&size={size}'
@@ -40,8 +40,11 @@ class ProductDataAccessor:
             if sub_category == 'fahrrad_sale':
                 # https://www.decathlon.de/deals/sale-produkte/f-sport-group_fahrrad-city_fahrrad-mtb_fahrrad-rennrad_fahrrad-trekking-gravel-cross?storeid=0070048700487
                 return f'{self.BASE_URL}/deals/sale-produkte/f-sport-group_fahrrad-city_fahrrad-mtb_fahrrad-rennrad_fahrrad-trekking-gravel-cross?storeid={store_id}from=1&size={size}'
+            if sub_category == 'fahrrader':
+                # only 20 for bikes
+                return f'{self.BASE_URL}/{self.SPORT_BASE}/{main_category}/{sub_category}?storeid={store_id}from=1&size=20'
             else:
-                return f'{self.BASE_URL}/{self.SPORT_BASE}/{main_category}/{sub_category}?storeid={store_id}from=1&size={size}'
+                return f'{self.BASE_URL}/{self.SPORT_BASE}/{main_category}/{sub_category}?storeid={store_id}from=1&size=40'
 
     def build_destination_path(self, c_type: str, main_category: str, sub_category: str, store_name: str) -> str:
         """Builds the file path for storing scraped data."""
@@ -49,7 +52,8 @@ class ProductDataAccessor:
         if c_type == self.CLOTHING:
             return f'{self.data_dir}/{c_type}/{main_category}/products/{main_category}_{sub_category}_{timestamp}.csv'
         else:
-            return f'{self.data_dir}/{c_type}/products/{store_name}_{main_category}_{sub_category}_{timestamp}.csv'
+            kw = "BASIS_05_14"
+            return f'{self.data_dir}/{c_type}/products/{kw}/{store_name}_{main_category}_{sub_category}_{kw}.csv'
 
     def scrape_and_save(self, url: str, destination_path: str, main_category: str, sub_category: str):
         """General method to scrape and save product data."""

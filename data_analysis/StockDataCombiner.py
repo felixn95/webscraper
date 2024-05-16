@@ -29,7 +29,7 @@ class StockDataCombiner:
 
 # Example usage
 if __name__ == "__main__":
-    combiner = StockDataCombiner('decathlon_scraper/data/sportgear/stocks')
+    combiner = StockDataCombiner('../decathlon_scraper/data/sportgear/stocks')
     combined_df = combiner.combine_csv_files()
     print(combined_df.head())  # Display the first few rows of the combined DataFrame
     combiner.save_combined_data('combined_stock_data.csv')

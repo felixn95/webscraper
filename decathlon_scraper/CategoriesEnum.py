@@ -2,10 +2,14 @@ from enum import Enum
 
 class Categories(Enum):
 
-    CAMPING = ('camping', 'zelte')
+    CAMPING_ZELTE = ('camping', 'zelte')
+    CAMPING_ESSEN = ('camping', 'kochen-essen-trinken-camping')
+    CAMPING_MOEBEL = ('camping', 'campingmobel')
+    CAMPING_SCHLAFEN = ('camping', 'schlafsacke-matratzen-betten')
     FITNESS = ('fitness', 'fitnessgerate-fur-zuhause')
+
     BIKES = ('fahrrad-welt', 'fahrrader')
-    BIKES_SALE = ('fahrrad-welt', 'fahrrad_sale')
+    # BIKES_SALE = ('fahrrad-welt', 'fahrrad_sale')
 
 
 

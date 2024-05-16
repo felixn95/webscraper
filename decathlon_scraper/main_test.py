@@ -1,42 +1,67 @@
 import unittest
 
-from StoresEnum import SelectedStores, RuhrgebietStores
+from StoresEnum import SelectedStores, StoresNRW
 from CategoriesEnum import Categories
 from StockLevelExtractor import StockLevelExtractor
 from ProductDataAccessor import ProductDataAccessor
 from RequestUtils import RequestUtils
 from SoupExtractor import SoupExtractor
 from ScraperMain import ScraperMain
+from decathlon_scraper.BaseMapper import BaseMapper
 
 
 # Test class structures used for processing the scraper
 class TestWorkflow(unittest.TestCase):
+
+    def test_workflow_from_base(self):
+        scraper = ScraperMain()
+
+        # Define the categories and stores for scraping
+        categories = list(Categories)  # all categories
+        stores = list(StoresNRW)  # all target stores
+
+        # Define the base files to be used for scraping
+        base = "BASIS_05_14"
+
+        scraper.scrape_from_base(categories, stores, base)
+
+
 
     def test_workflow_per_category_all_stores(self):
         scraper = ScraperMain()
 
         # Define the categories and stores for scraping
         categories = list(Categories)  # all categories
-        stores = list(SelectedStores)  # all stores
+        stores = list(StoresNRW)  # all target stores
 
         scraper.scrape_categories_for_stores(categories, stores)
 
     def test_workflow_sales_ruhrgebiet(self):
         scraper = ScraperMain()
 
-        categories = [Categories.BIKES_SALE]
+        categories = [Categories.BIKES]
         stores = [SelectedStores.NRW_NEUSS, SelectedStores.NRW_KOELN_QUINCY, SelectedStores.NRW_KOELN_MARSDORF]
         scraper.scrape_categories_for_stores(categories, stores)
 
-    def test_scrape_workflow(self):
-        scraper = ScraperMain()
+class TestBaseMapper(unittest.TestCase):
 
-        # Define the categories and stores for scraping
-        categories = [Categories.WASSERSPORT_WELT, Categories.BASKETBALL]
-        stores = [SelectedStores.WUERZBURG, SelectedStores.BER_SCHLOSSSTRASSE, SelectedStores.MUE_MONA_AM_OEZ]
+        def test_base_mapper(self):
+            # Create an instance of the BaseMapper
+            base_mapper = BaseMapper("data/sportgear/products/")
 
-        # Start the scraping process
-        scraper.scrape_categories_for_stores(categories, stores)
+            # Find the base file for a specific store, main category, sub category, and base
+            store_name = SelectedStores.NRW_NEUSS.name
+            main_category = Categories.CAMPING_ESSEN.main_category
+            sub_category = Categories.CAMPING_ESSEN.sub_category
+            base = "BASIS_05_14"
+
+            base_file_path = base_mapper.find_base_file(store_name, main_category, sub_category, base)
+
+            # Assert that the base file path is not None
+            self.assertIsNotNone(base_file_path)
+
+            # Print the base file path
+            print(base_file_path)
 
 
 class TestProductDataAccessor(unittest.TestCase):
