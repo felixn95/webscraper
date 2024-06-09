@@ -5,3 +5,4 @@ beautifulsoup4~=4.12.3
 bs4~=0.0.2
 seaborn~=0.13.2
 matplotlib~=3.8.4
+haversine~=2.8.1

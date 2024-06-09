@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "store_id": "0070048700487",
-        "name": "W\u00fcrzburg",
+        "name": "Wuerzburg",
         "contact": {
           "phone": "+4993129983810"
         },
@@ -14,7 +14,7 @@
             "Robert-Bunsen-Str. 4"
           ],
           "country_code": "DE",
-          "city": "W\u00fcrzburg",
+          "city": "Wuerzburg",
           "zipcode": "97076"
         },
         "user_properties": {
@@ -467,7 +467,7 @@
       "type": "Feature",
       "properties": {
         "store_id": "0070207302073",
-        "name": "F\u00fcrth ",
+        "name": "Fuerth ",
         "contact": {
           "phone": "+499112427510"
         },
@@ -476,7 +476,7 @@
             "Waldstra\u00dfe 82"
           ],
           "country_code": "DE",
-          "city": "F\u00fcrth",
+          "city": "Fuerth",
           "zipcode": "90763"
         },
         "user_properties": {
@@ -1253,7 +1253,7 @@
         },
         "address": {
           "lines": [
-            "Grenzh\u00f6ferstr. 100"
+            "Grenzhoeferstr. 100"
           ],
           "country_code": "DE",
           "city": "Schwetzingen",
@@ -3170,7 +3170,7 @@
       "type": "Feature",
       "properties": {
         "store_id": "0070205302053",
-        "name": "B\u00f6blingen ",
+        "name": "Boeblingen ",
         "contact": {
           "phone": "+4970316779010"
         },
@@ -3179,7 +3179,7 @@
             "Wolfgang-Brumme-Allee 27"
           ],
           "country_code": "DE",
-          "city": "B\u00f6blingen",
+          "city": "Boeblingen",
           "zipcode": "71034"
         },
         "user_properties": {
@@ -4753,7 +4753,7 @@
       "type": "Feature",
       "properties": {
         "store_id": "0070224502245",
-        "name": "M\u00fclheim-K\u00e4rlich",
+        "name": "Muelheim-K\u00e4rlich",
         "contact": {
           "phone": "+4926198818010"
         },
@@ -4762,7 +4762,7 @@
             "Industriestrasse 8"
           ],
           "country_code": "DE",
-          "city": "M\u00fclheim-K\u00e4rlich",
+          "city": "Muelheim-K\u00e4rlich",
           "zipcode": "56218"
         },
         "user_properties": {
@@ -5226,7 +5226,7 @@
       "type": "Feature",
       "properties": {
         "store_id": "0070224602246",
-        "name": "M\u00fcnchen-Mona am OEZ",
+        "name": "Muenchen-Mona am OEZ",
         "contact": {
           "phone": "+4989120074210"
         },
@@ -5235,7 +5235,7 @@
             "Pelkovenstra\u00dfe 143-147"
           ],
           "country_code": "DE",
-          "city": "M\u00fcnchen",
+          "city": "Muenchen",
           "zipcode": "80992"
         },
         "user_properties": {
@@ -5572,7 +5572,7 @@
       "type": "Feature",
       "properties": {
         "store_id": "0070260102601",
-        "name": "M\u00fcnchen Unterf\u00f6hring ",
+        "name": "Muenchen Unterfoehring ",
         "contact": {
           "phone": "+4989923343870"
         },
@@ -5581,7 +5581,7 @@
             "Feringastra\u00dfe 16"
           ],
           "country_code": "DE",
-          "city": "Unterf\u00f6hring",
+          "city": "Unterfoehring",
           "zipcode": "85774"
         },
         "user_properties": {
@@ -5723,17 +5723,17 @@
       "type": "Feature",
       "properties": {
         "store_id": "0070260002600",
-        "name": "M\u00fcnchen-Elisenhof am Hauptbahnhof",
+        "name": "Muenchen-Elisenhof am Hauptbahnhof",
         "contact": {
           "phone": "+4989515538610"
         },
         "address": {
           "lines": [
             "Elisenstra\u00dfe 3",
-            " Haupteingang \u00fcber Luisenstra\u00dfe"
+            " Haupteingang ueber Luisenstra\u00dfe"
           ],
           "country_code": "DE",
-          "city": "M\u00fcnchen",
+          "city": "Muenchen",
           "zipcode": "80335"
         },
         "user_properties": {
@@ -6846,7 +6846,7 @@
       "type": "Feature",
       "properties": {
         "store_id": "0070207102071",
-        "name": "K\u00f6ln-Quincy",
+        "name": "Koeln-Quincy",
         "contact": {
           "phone": "+4922127722410"
         },
@@ -6855,7 +6855,7 @@
             "Breite Stra\u00dfe 80-90"
           ],
           "country_code": "DE",
-          "city": "K\u00f6ln",
+          "city": "Koeln",
           "zipcode": "50667"
         },
         "user_properties": {
@@ -7321,16 +7321,16 @@
       "type": "Feature",
       "properties": {
         "store_id": "0070156501565",
-        "name": "K\u00f6ln Marsdorf ",
+        "name": "Koeln Marsdorf ",
         "contact": {
           "phone": "+492234603970"
         },
         "address": {
           "lines": [
-            "D\u00fcrener Stra\u00dfe 458"
+            "Duerener Stra\u00dfe 458"
           ],
           "country_code": "DE",
-          "city": "K\u00f6ln-Marsdorf",
+          "city": "Koeln-Marsdorf",
           "zipcode": "50858"
         },
         "user_properties": {
@@ -8536,7 +8536,7 @@
       "type": "Feature",
       "properties": {
         "store_id": "0070157301573",
-        "name": "D\u00fcsseldorf",
+        "name": "Duesseldorf",
         "contact": {
           "phone": "+4921117549843"
         },
@@ -8545,7 +8545,7 @@
             "Schadowstra\u00dfe 77-79"
           ],
           "country_code": "DE",
-          "city": "D\u00fcsseldorf",
+          "city": "Duesseldorf",
           "zipcode": "40212"
         },
         "user_properties": {
@@ -10014,7 +10014,7 @@
       "type": "Feature",
       "properties": {
         "store_id": "0070265802658",
-        "name": "M\u00dcNSTER",
+        "name": "Muenster",
         "contact": {
           "phone": "+492511312270"
         },
@@ -10023,7 +10023,7 @@
             "Grevener Str. 69"
           ],
           "country_code": "DE",
-          "city": "M\u00fcnster",
+          "city": "Muenster",
           "zipcode": "48159"
         },
         "user_properties": {
@@ -10350,7 +10350,7 @@
       "type": "Feature",
       "properties": {
         "store_id": "0070206402064",
-        "name": "L\u00f6rrach ",
+        "name": "Loerrach ",
         "contact": {
           "phone": "+49762194997010"
         },
@@ -10359,7 +10359,7 @@
             "Am Alten Markt 4"
           ],
           "country_code": "DE",
-          "city": "L\u00f6rrach",
+          "city": "Loerrach",
           "zipcode": "79539"
         },
         "user_properties": {
@@ -10501,7 +10501,7 @@
       "type": "Feature",
       "properties": {
         "store_id": "0070106901069",
-        "name": "H\u00fcckelhoven",
+        "name": "Hueckelhoven",
         "contact": {
           "phone": "+4924334468410"
         },
@@ -10510,7 +10510,7 @@
             "Am Landabsatz 4"
           ],
           "country_code": "DE",
-          "city": "H\u00fcckelhoven",
+          "city": "Hueckelhoven",
           "zipcode": "41836"
         },
         "user_properties": {
@@ -11762,7 +11762,7 @@
       "type": "Feature",
       "properties": {
         "store_id": "0070106801068",
-        "name": "Berlin Sch\u00f6neweide",
+        "name": "Berlin Schoeneweide",
         "contact": {
           "phone": "+493020625130"
         },
@@ -11771,7 +11771,7 @@
             "Schnellerstra\u00dfe 133"
           ],
           "country_code": "DE",
-          "city": "Berlin-Sch\u00f6neweide",
+          "city": "Berlin-Schoeneweide",
           "zipcode": "12439"
         },
         "user_properties": {
@@ -13299,7 +13299,7 @@
       "type": "Feature",
       "properties": {
         "store_id": "0070135801358",
-        "name": "L\u00fcbeck",
+        "name": "Luebeck",
         "contact": {
           "phone": "+494512961960"
         },
@@ -13308,7 +13308,7 @@
             "Lohgerberstra\u00dfe 1"
           ],
           "country_code": "DE",
-          "city": "L\u00fcbeck",
+          "city": "Luebeck",
           "zipcode": "23556"
         },
         "user_properties": {

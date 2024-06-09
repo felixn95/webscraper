@@ -17,3 +17,6 @@ class FilteringUtils:
         nrw_df = df[df["store_storeId"].isin(nrw_stores)]
         return nrw_df
 
+    def sort_by_timestamp(self, df):
+        return df.sort_values(by="timestamp")
+

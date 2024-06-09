@@ -1,0 +1,353 @@
+,id,main_category,sub_category,product_name,brand,price,store_skuId,timestamp,store_storeId,store_storeName,store_quantity,store_availabilityInfo,store_clickNcollect1h
+0,8502354.0,fahrrad-welt,fahrrad_sale,Rennrad Triban RC500 schwarz (Scheibenbremse),TRIBAN,699.99,2496981,2024-05-09 00:38:23.113166,0070072800728,Essen,0,False,False
+40,8502354.0,fahrrad-welt,fahrrad_sale,Rennrad Triban RC500 schwarz (Scheibenbremse),TRIBAN,699.99,2496979,2024-05-09 00:38:23.113166,0070072800728,Essen,0,False,False
+80,8502354.0,fahrrad-welt,fahrrad_sale,Rennrad Triban RC500 schwarz (Scheibenbremse),TRIBAN,699.99,2496978,2024-05-09 00:38:23.113166,0070072800728,Essen,0,False,False
+120,8502354.0,fahrrad-welt,fahrrad_sale,Rennrad Triban RC500 schwarz (Scheibenbremse),TRIBAN,699.99,2496977,2024-05-09 00:38:23.113166,0070072800728,Essen,0,False,False
+160,8502354.0,fahrrad-welt,fahrrad_sale,Rennrad Triban RC500 schwarz (Scheibenbremse),TRIBAN,699.99,2496980,2024-05-09 00:38:23.113166,0070072800728,Essen,0,False,False
+200,8555876.0,fahrrad-welt,fahrrad_sale,"Mountainbike ST 530 S 27,5 Zoll schwarz/rot",ROCKRIDER,499.99,2940925,2024-05-09 00:38:23.113166,0070072800728,Essen,0,False,False
+240,8555876.0,fahrrad-welt,fahrrad_sale,"Mountainbike ST 530 S 27,5 Zoll schwarz/rot",ROCKRIDER,499.99,2940924,2024-05-09 00:38:23.113166,0070072800728,Essen,0,False,False
+280,8555876.0,fahrrad-welt,fahrrad_sale,"Mountainbike ST 530 S 27,5 Zoll schwarz/rot",ROCKRIDER,499.99,2940923,2024-05-09 00:38:23.113166,0070072800728,Essen,3,False,True
+320,8555876.0,fahrrad-welt,fahrrad_sale,"Mountainbike ST 530 S 27,5 Zoll schwarz/rot",ROCKRIDER,499.99,2940926,2024-05-09 00:38:23.113166,0070072800728,Essen,1,False,False
+360,8732272.0,fahrrad-welt,fahrrad_sale,E-Mountainbike E-Expl 520 Hardtail 29 Zoll gelb,ROCKRIDER,1699.0,4465400,2024-05-09 00:38:23.113166,0070072800728,Essen,0,False,False
+400,8732272.0,fahrrad-welt,fahrrad_sale,E-Mountainbike E-Expl 520 Hardtail 29 Zoll gelb,ROCKRIDER,1699.0,4465401,2024-05-09 00:38:23.113166,0070072800728,Essen,0,False,False
+440,8732272.0,fahrrad-welt,fahrrad_sale,E-Mountainbike E-Expl 520 Hardtail 29 Zoll gelb,ROCKRIDER,1699.0,4465402,2024-05-09 00:38:23.113166,0070072800728,Essen,0,False,False
+480,8732272.0,fahrrad-welt,fahrrad_sale,E-Mountainbike E-Expl 520 Hardtail 29 Zoll gelb,ROCKRIDER,1699.0,4465403,2024-05-09 00:38:23.113166,0070072800728,Essen,0,False,False
+520,8732272.0,fahrrad-welt,fahrrad_sale,E-Mountainbike E-Expl 520 Hardtail 29 Zoll gelb,ROCKRIDER,1699.0,5165161,2024-05-09 00:38:23.113166,0070072800728,Essen,0,False,False
+560,8732272.0,fahrrad-welt,fahrrad_sale,E-Mountainbike E-Expl 520 Hardtail 29 Zoll gelb,ROCKRIDER,1699.0,5165162,2024-05-09 00:38:23.113166,0070072800728,Essen,0,False,False
+600,8732272.0,fahrrad-welt,fahrrad_sale,E-Mountainbike E-Expl 520 Hardtail 29 Zoll gelb,ROCKRIDER,1699.0,5165163,2024-05-09 00:38:23.113166,0070072800728,Essen,0,False,False
+640,8732272.0,fahrrad-welt,fahrrad_sale,E-Mountainbike E-Expl 520 Hardtail 29 Zoll gelb,ROCKRIDER,1699.0,5165164,2024-05-09 00:38:23.113166,0070072800728,Essen,0,False,False
+680,8731616.0,camping,zelte,Familienzelt Stangenaufbau - Arpenaz 4.1 Fresh & Black 4 Personen in 1 Kabine,QUECHUA,199.99,4456574,2024-05-10 18:16:51.728974,0070072800728,Essen,11,False,True
+927,8642422.0,camping,zelte,Dachzelt Fresh & Black - MH500 für 2 Personen,QUECHUA,1399.99,4274620,2024-05-10 18:16:51.728974,0070072800728,Essen,0,False,False
+959,8492484.0,camping,zelte,Wurfzelt XL - 2 Seconds Fresh & Black für 3 Personen,QUECHUA,164.99,2556864,2024-05-10 18:16:51.728974,0070072800728,Essen,12,False,True
+1206,8576111.0,camping,zelte,Campingzelt MH100 Fresh & Black für 3 Personen,QUECHUA,79.99,2963895,2024-05-10 18:16:51.728974,0070072800728,Essen,16,False,True
+1454,8648382.0,camping,zelte,Familienzelt aufblasbar - Air Seconds 4.1 Fresh & Black für 4 Personen 1 Kabine,QUECHUA,419.99,4327055,2024-05-10 18:16:51.728974,0070072800728,Essen,5,False,True
+1701,8641758.0,camping,zelte,Campingzelt Fresh & Black - MH100 XL für 3 Personen,QUECHUA,119.99,4271868,2024-05-10 18:16:51.728974,0070072800728,Essen,10,False,True
+1947,8492687.0,camping,zelte,Wurfzelt 2 Seconds LTD Scout für 3 Personen braun/grün,QUECHUA,79.99,2558275,2024-05-10 18:16:51.728974,0070072800728,Essen,0,False,False
+2194,8648383.0,camping,zelte,Familienzelt Stangenaufbau - Arpenaz 4.1 für 4 Personen in 1 Kabine,QUECHUA,159.99,4327058,2024-05-10 18:16:51.728974,0070072800728,Essen,9,False,True
+2441,8801561.0,camping,zelte,Wurfzelt Fresh & Black - 2 Seconds für 3 Personen,QUECHUA,129.99,4854124,2024-05-10 18:16:51.728974,0070072800728,Essen,11,False,True
+2688,8584565.0,camping,zelte,Familienzelt aufblasbar - Air Seconds 5.2 Fresh & Black für 5 Personen 2 Kabinen,QUECHUA,649.99,4018210,2024-05-10 18:16:51.728974,0070072800728,Essen,3,False,True
+2928,8755590.0,camping,zelte,Campingzelt - MH100 XXL für 4 Personen,QUECHUA,129.99,4557070,2024-05-10 18:16:51.728974,0070072800728,Essen,0,False,False
+3175,8513471.0,camping,zelte,Campingzelt MH100 für 2 Personen,QUECHUA,34.99,2467687,2024-05-10 18:16:51.728974,0070072800728,Essen,49,False,True
+3422,8553541.0,camping,zelte,Faltzelt Fresh & Black - 2 Seconds Easy für 2 Personen,QUECHUA,129.99,2758192,2024-05-10 18:16:51.728974,0070072800728,Essen,10,False,True
+3669,8801560.0,camping,zelte,Wurfzelt Fresh & Black - 2 Seconds für 2 Personen,QUECHUA,109.99,4854119,2024-05-10 18:16:51.728974,0070072800728,Essen,9,False,True
+3916,8810951.0,camping,zelte,Familienzelt Stangenaufbau - Arpenaz 5.2 Fresh & Black 5 Personen in 2 Kabinen,QUECHUA,349.99,4899358,2024-05-10 18:16:51.728974,0070072800728,Essen,0,False,False
+4163,8810951.0,camping,zelte,Familienzelt Stangenaufbau - Arpenaz 5.2 Fresh & Black 5 Personen in 2 Kabinen,QUECHUA,349.99,2380420,2024-05-10 18:16:51.728974,0070072800728,Essen,0,False,False
+4409,8734596.0,camping,zelte,Anbauzelt zum Verbinden mit Dachzelt MH500 2P,QUECHUA,299.99,4490211,2024-05-10 18:16:51.728974,0070072800728,Essen,1,False,False
+4655,8572950.0,camping,zelte,Familienzelt aufblasbar - Air Seconds 4.2 Fresh & Black für 4 Personen 2 Kabinen,QUECHUA,529.99,2893031,2024-05-10 18:16:51.728974,0070072800728,Essen,0,False,False
+4891,8601387.0,camping,zelte,Handpumpe Camping UltimComfort 10 PSI für aufblasbare Zelte,QUECHUA,27.99,4108963,2024-05-10 18:16:51.728974,0070072800728,Essen,29,False,True
+5137,8648391.0,camping,zelte,Aufenthaltszelt Stangenaufbau - Arpenaz Base für 6 Personen,QUECHUA,139.99,4327106,2024-05-10 18:16:51.728974,0070072800728,Essen,7,False,True
+5383,8561167.0,camping,zelte,Familienzelt Stangenaufbau - Arpenaz 4.2 Fresh & Black 4 Personen in 2 Kabinen,QUECHUA,279.99,2895865,2024-05-10 18:16:51.728974,0070072800728,Essen,2,False,True
+5612,8576112.0,camping,zelte,Campingzelt MH100 Fresh & Black für 2 Personen,QUECHUA,64.99,2963896,2024-05-10 18:18:25.647968,0070027300273,Herne,0,False,False
+5846,8553542.0,camping,zelte,Campingzelt - MH100 für 3 Personen,QUECHUA,49.99,2758193,2024-05-10 18:18:25.647968,0070027300273,Herne,16,False,True
+6080,8361558.0,fitness,fitnessgerate-fur-zuhause,Rudergerät D PM5 Concept 2,CONCEPT 2,1164.99,2052983,2024-05-10 18:57:32.676129,0070072800728,Essen,0,False,False
+6325,8816725.0,fitness,fitnessgerate-fur-zuhause,Hantelscheibe Gusseisen 28 mm 5 kg,CORENGTH,12.99,4934746,2024-05-10 18:57:32.676129,0070072800728,Essen,18,False,True
+6575,8577670.0,fitness,fitnessgerate-fur-zuhause,Yogablock Kork,KIMJALY,10.99,2976432,2024-05-10 18:57:32.676129,0070072800728,Essen,7,False,True
+6832,8018574.0,fitness,fitnessgerate-fur-zuhause,Hantelset 20 kg,CORENGTH,59.99,411314,2024-05-10 18:57:32.676129,0070072800728,Essen,1,False,False
+7089,8766093.0,fitness,fitnessgerate-fur-zuhause,Hantelbank 900 verstärkt Schrägbank Negativ-Bank,CORENGTH,149.99,4660463,2024-05-10 18:57:32.676129,0070072800728,Essen,1,False,False
+7346,8484819.0,fitness,fitnessgerate-fur-zuhause,"Fitness Band, Trainingsband Crosstraining 15 kg",CORENGTH,7.99,2531585,2024-05-10 18:57:32.676129,0070072800728,Essen,68,False,True
+7588,8484820.0,fitness,fitnessgerate-fur-zuhause,"Fitness Band, Trainingsband Cross Training 25 kg",CORENGTH,11.99,2531586,2024-05-10 18:57:32.676129,0070072800728,Essen,49,False,True
+7841,8501452.0,fitness,fitnessgerate-fur-zuhause,Rudergerät Essential R120,DOMYOS,249.99,2491923,2024-05-10 18:57:32.676129,0070072800728,Essen,0,False,False
+8098,8484134.0,fitness,fitnessgerate-fur-zuhause,Kraftstation geführte Last kompakt - Home Gym 900,CORENGTH,399.99,2526815,2024-05-10 18:57:32.676129,0070072800728,Essen,1,False,False
+8355,8336581.0,fitness,fitnessgerate-fur-zuhause,Hantelset 2 × 3 kg - grau,DOMYOS,19.99,712811,2024-05-10 18:57:32.676129,0070072800728,Essen,4,False,True
+8612,9.0,fitness,fitnessgerate-fur-zuhause,T-R01 Laufband,HORIZON FITNESS,299.0,ef8ab573-810a-41bb-beaa-972c6e162043,2024-05-10 18:57:32.676129,0070072800728,Essen,0,False,False
+8869,8542707.0,fitness,fitnessgerate-fur-zuhause,Laufband Connected kompakt zusammenklappbar 10 % motorisierte Neigung - RUN500,DOMYOS,699.99,2711064,2024-05-10 18:57:32.676129,0070072800728,Essen,0,False,False
+9126,8666894.0,fitness,fitnessgerate-fur-zuhause,Rudergerät 500B Self Powered mit App-Steuerung,DOMYOS,449.99,4367777,2024-05-10 18:57:32.676129,0070072800728,Essen,2,False,True
+9383,8816726.0,fitness,fitnessgerate-fur-zuhause,Hantelscheibe Gusseisen 28 mm 10 kg,CORENGTH,24.99,4934747,2024-05-10 18:57:32.676129,0070072800728,Essen,6,False,True
+9629,8336573.0,fitness,fitnessgerate-fur-zuhause,Hantelset 2 × 2 kg - dunkelblau,DOMYOS,14.99,712792,2024-05-10 18:57:32.676129,0070072800728,Essen,13,False,True
+9886,8751180.0,fitness,fitnessgerate-fur-zuhause,Crosstraining-Ringe aus Holz,CORENGTH,29.99,4581752,2024-05-10 18:57:32.676129,0070072800728,Essen,5,False,True
+10137,8651539.0,fitness,fitnessgerate-fur-zuhause,Bodenschutzmatte 58 × 58 cm modulierbar,DOMYOS,14.99,4345075,2024-05-10 18:57:32.676129,0070072800728,Essen,3,False,True
+10373,8902450.0,fitness,fitnessgerate-fur-zuhause,Kraftstation ‒ Power Rack 900,CORENGTH,449.99,5306794,2024-05-10 19:02:19.139821,0070072600726,Hagen,0,False,False
+10514,8786091.0,fitness,fitnessgerate-fur-zuhause,Gewichtsweste 6–10 kg Krafttraining anpassbar,CORENGTH,49.99,4771991,2024-05-10 19:02:19.139821,0070072600726,Hagen,4,False,True
+10752,22.0,fitness,fitnessgerate-fur-zuhause,Hantelset 2 x 02 Kg - Hexagon Kurzhantel Set mit Neoprenbeschichtung rot,NEOLYMP,14.99,220bdc2e-0635-4923-a529-7fb9d6c51743,2024-05-10 19:02:19.139821,0070072600726,Hagen,0,False,False
+10763,22.0,fitness,fitnessgerate-fur-zuhause,Hantelset 2 x 02 Kg - Hexagon Kurzhantel Set mit Neoprenbeschichtung rot,NEOLYMP,14.99,e8d615a6-2c7e-4375-abb6-45b64c654b26,2024-05-10 19:02:19.139821,0070072600726,Hagen,0,False,False
+10774,22.0,fitness,fitnessgerate-fur-zuhause,Hantelset 2 x 02 Kg - Hexagon Kurzhantel Set mit Neoprenbeschichtung rot,NEOLYMP,14.99,a119601a-b801-41dd-ae89-c6cbe30a5099,2024-05-10 19:02:19.139821,0070072600726,Hagen,0,False,False
+10785,22.0,fitness,fitnessgerate-fur-zuhause,Hantelset 2 x 02 Kg - Hexagon Kurzhantel Set mit Neoprenbeschichtung rot,NEOLYMP,14.99,606d8a1c-799f-498d-8483-9423e9f28bb3,2024-05-10 19:02:19.139821,0070072600726,Hagen,0,False,False
+10796,22.0,fitness,fitnessgerate-fur-zuhause,Hantelset 2 x 02 Kg - Hexagon Kurzhantel Set mit Neoprenbeschichtung rot,NEOLYMP,14.99,3fe0be59-7665-41b8-a94b-23ab9695c7b9,2024-05-10 19:02:19.139821,0070072600726,Hagen,0,False,False
+10807,22.0,fitness,fitnessgerate-fur-zuhause,Hantelset 2 x 02 Kg - Hexagon Kurzhantel Set mit Neoprenbeschichtung rot,NEOLYMP,14.99,d39991c9-7875-4315-a6bb-29b821bd40a0,2024-05-10 19:02:19.139821,0070072600726,Hagen,0,False,False
+10818,22.0,fitness,fitnessgerate-fur-zuhause,Hantelset 2 x 02 Kg - Hexagon Kurzhantel Set mit Neoprenbeschichtung rot,NEOLYMP,14.99,79fc8e55-df57-4f8d-8dc1-ce8029d69d2d,2024-05-10 19:02:19.139821,0070072600726,Hagen,0,False,False
+10829,8816723.0,fitness,fitnessgerate-fur-zuhause,Hantelscheibe Gusseisen 28 mm 2 kg,CORENGTH,4.99,4934724,2024-05-10 19:02:19.139821,0070072600726,Hagen,19,False,True
+11066,8826512.0,fahrrad-welt,fahrrader,E-Lastenfahrrad Cargobike R500E Longtail V2 hellgrün,BTWIN,2999.0,4977360,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+11322,8526895.0,fahrrad-welt,fahrrader,E-Bike City Trekking Bike 28 Zoll Elops LD500E LF Damen grün,ELOPS,1499.0,2652467,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+11342,8526895.0,fahrrad-welt,fahrrader,E-Bike City Trekking Bike 28 Zoll Elops LD500E LF Damen grün,ELOPS,1499.0,2652466,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+11362,8526895.0,fahrrad-welt,fahrrader,E-Bike City Trekking Bike 28 Zoll Elops LD500E LF Damen grün,ELOPS,1499.0,4855831,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+11382,8526893.0,fahrrad-welt,fahrrader,E-Bike City-Bike 28 Zoll LD 920E Automatic Owuru hoher Einstieg,BTWIN,2499.0,2652463,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+11638,8526893.0,fahrrad-welt,fahrrader,E-Bike City-Bike 28 Zoll LD 920E Automatic Owuru hoher Einstieg,BTWIN,2499.0,2652462,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+11894,8526893.0,fahrrad-welt,fahrrader,E-Bike City-Bike 28 Zoll LD 920E Automatic Owuru hoher Einstieg,BTWIN,2499.0,2652464,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+12150,8664452.0,fahrrad-welt,fahrrader,E-Bike City-Bike 28 Zoll LD 920E Automatic Owuru niedriger Einstieg,BTWIN,2499.0,4429398,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+12396,8664452.0,fahrrad-welt,fahrrader,E-Bike City-Bike 28 Zoll LD 920E Automatic Owuru niedriger Einstieg,BTWIN,2499.0,4429399,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+12641,8664452.0,fahrrad-welt,fahrrader,E-Bike City-Bike 28 Zoll LD 920E Automatic Owuru niedriger Einstieg,BTWIN,2499.0,4855832,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+12887,8378612.0,fahrrad-welt,fahrrader,City Bike 28 Zoll Elops 520 LF Damen blau,ELOPS,359.99,2166411,2024-05-10 20:04:18.367934,0070072800728,Essen,2,False,True
+13133,8378612.0,fahrrad-welt,fahrrader,City Bike 28 Zoll Elops 520 LF Damen blau,ELOPS,359.99,2166412,2024-05-10 20:04:18.367934,0070072800728,Essen,3,False,True
+13379,8378612.0,fahrrad-welt,fahrrader,City Bike 28 Zoll Elops 520 LF Damen blau,ELOPS,359.99,2961174,2024-05-10 20:04:18.367934,0070072800728,Essen,2,False,True
+13625,8378612.0,fahrrad-welt,fahrrader,City Bike 28 Zoll Elops 520 LF Damen blau,ELOPS,359.99,2961179,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+13871,8378612.0,fahrrad-welt,fahrrader,City Bike 28 Zoll Elops 520 LF Damen blau,ELOPS,359.99,2961178,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+14117,8378612.0,fahrrad-welt,fahrrader,City Bike 28 Zoll Elops 520 LF Damen blau,ELOPS,359.99,2961177,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+14363,8378612.0,fahrrad-welt,fahrrader,City Bike 28 Zoll Elops 520 LF Damen blau,ELOPS,359.99,2961182,2024-05-10 20:04:18.367934,0070072800728,Essen,1,False,False
+14609,8378612.0,fahrrad-welt,fahrrader,City Bike 28 Zoll Elops 520 LF Damen blau,ELOPS,359.99,2961181,2024-05-10 20:04:18.367934,0070072800728,Essen,3,False,True
+14855,8378612.0,fahrrad-welt,fahrrader,City Bike 28 Zoll Elops 520 LF Damen blau,ELOPS,359.99,2961180,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+15101,8549669.0,fahrrad-welt,fahrrader,City Bike Elops Speed 900 grau,BTWIN,449.99,2757210,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+15357,8549669.0,fahrrad-welt,fahrrader,City Bike Elops Speed 900 grau,BTWIN,449.99,2757209,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+15613,8549669.0,fahrrad-welt,fahrrader,City Bike Elops Speed 900 grau,BTWIN,449.99,2757208,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+15869,8549669.0,fahrrad-welt,fahrrader,City Bike Elops Speed 900 grau,BTWIN,449.99,2757212,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+16125,8549669.0,fahrrad-welt,fahrrader,City Bike Elops Speed 900 grau,BTWIN,449.99,4630010,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+16381,8549669.0,fahrrad-welt,fahrrader,City Bike Elops Speed 900 grau,BTWIN,449.99,4630011,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+16637,8549669.0,fahrrad-welt,fahrrader,City Bike Elops Speed 900 grau,BTWIN,449.99,4630012,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+16893,8526892.0,fahrrad-welt,fahrrader,E-Bike City Bike Long Distance 28 Zoll Elops LD500E HF Herren,ELOPS,1499.0,2652460,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+16913,8526892.0,fahrrad-welt,fahrrader,E-Bike City Bike Long Distance 28 Zoll Elops LD500E HF Herren,ELOPS,1499.0,2652459,2024-05-10 20:04:18.367934,0070072800728,Essen,1,False,False
+16933,8526892.0,fahrrad-welt,fahrrader,E-Bike City Bike Long Distance 28 Zoll Elops LD500E HF Herren,ELOPS,1499.0,2652461,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+16953,8758087.0,fahrrad-welt,fahrrader,Rennrad – EDR Easy Van Rysel weiss,TRIBAN,399.99,4569699,2024-05-10 20:04:18.367934,0070072800728,Essen,1,False,False
+17206,8758087.0,fahrrad-welt,fahrrader,Rennrad – EDR Easy Van Rysel weiss,TRIBAN,399.99,4569701,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+17459,8758087.0,fahrrad-welt,fahrrader,Rennrad – EDR Easy Van Rysel weiss,TRIBAN,399.99,4803519,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+17711,8758087.0,fahrrad-welt,fahrrader,Rennrad – EDR Easy Van Rysel weiss,TRIBAN,399.99,4976575,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+17964,8758087.0,fahrrad-welt,fahrrader,Rennrad – EDR Easy Van Rysel weiss,TRIBAN,399.99,4448753,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+18217,8758087.0,fahrrad-welt,fahrrader,Rennrad – EDR Easy Van Rysel weiss,TRIBAN,399.99,4448754,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+18470,8758087.0,fahrrad-welt,fahrrader,Rennrad – EDR Easy Van Rysel weiss,TRIBAN,399.99,4448755,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+18723,8758087.0,fahrrad-welt,fahrrader,Rennrad – EDR Easy Van Rysel weiss,TRIBAN,399.99,4803522,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+18975,8758087.0,fahrrad-welt,fahrrader,Rennrad – EDR Easy Van Rysel weiss,TRIBAN,399.99,4803523,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+19228,8758087.0,fahrrad-welt,fahrrader,Rennrad – EDR Easy Van Rysel weiss,TRIBAN,399.99,4803524,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+19481,8758087.0,fahrrad-welt,fahrrader,Rennrad – EDR Easy Van Rysel weiss,TRIBAN,399.99,4803525,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+19734,8575940.0,fahrrad-welt,fahrrader,Rennrad Gravelbike Triban GRVL 120 Herren,TRIBAN,799.99,2962864,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+19980,8575940.0,fahrrad-welt,fahrrader,Rennrad Gravelbike Triban GRVL 120 Herren,TRIBAN,799.99,2962862,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+20225,8575940.0,fahrrad-welt,fahrrader,Rennrad Gravelbike Triban GRVL 120 Herren,TRIBAN,799.99,2962861,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+20471,8575940.0,fahrrad-welt,fahrrader,Rennrad Gravelbike Triban GRVL 120 Herren,TRIBAN,799.99,2962860,2024-05-10 20:04:18.367934,0070072800728,Essen,1,False,False
+20717,8575940.0,fahrrad-welt,fahrrader,Rennrad Gravelbike Triban GRVL 120 Herren,TRIBAN,799.99,2962863,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+22723,8653537.0,fahrrad-welt,fahrrader,Trekkingrad 28 Zoll Riverside 320 TR Herren,RIVERSIDE,369.99,4357013,2024-05-10 20:04:18.367934,0070072800728,Essen,1,False,False
+22972,8653537.0,fahrrad-welt,fahrrader,Trekkingrad 28 Zoll Riverside 320 TR Herren,RIVERSIDE,369.99,4357014,2024-05-10 20:04:18.367934,0070072800728,Essen,1,False,False
+23221,8653537.0,fahrrad-welt,fahrrader,Trekkingrad 28 Zoll Riverside 320 TR Herren,RIVERSIDE,369.99,4357015,2024-05-10 20:04:18.367934,0070072800728,Essen,1,False,False
+23470,8653537.0,fahrrad-welt,fahrrader,Trekkingrad 28 Zoll Riverside 320 TR Herren,RIVERSIDE,369.99,4357016,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+23718,8600059.0,fahrrad-welt,fahrrader,Mountainbike Kinderfahrrad 26 Zoll Rockrider ST 500 orange,ROCKRIDER,299.99,4101226,2024-05-10 20:04:18.367934,0070072800728,Essen,2,False,True
+23963,8600059.0,fahrrad-welt,fahrrader,Mountainbike Kinderfahrrad 26 Zoll Rockrider ST 500 orange,ROCKRIDER,299.99,4227696,2024-05-10 20:04:18.367934,0070072800728,Essen,4,False,True
+24209,8600059.0,fahrrad-welt,fahrrader,Mountainbike Kinderfahrrad 26 Zoll Rockrider ST 500 orange,ROCKRIDER,299.99,4227697,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+24455,8545836.0,fahrrad-welt,fahrrader,Rennrad RC 120 Scheibenbremse marineblau/orange,TRIBAN,579.99,2685541,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+24701,8545836.0,fahrrad-welt,fahrrader,Rennrad RC 120 Scheibenbremse marineblau/orange,TRIBAN,579.99,2685539,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+24947,8545836.0,fahrrad-welt,fahrrader,Rennrad RC 120 Scheibenbremse marineblau/orange,TRIBAN,579.99,2685538,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+25193,8545836.0,fahrrad-welt,fahrrader,Rennrad RC 120 Scheibenbremse marineblau/orange,TRIBAN,579.99,2685537,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+25439,8545836.0,fahrrad-welt,fahrrader,Rennrad RC 120 Scheibenbremse marineblau/orange,TRIBAN,579.99,2685540,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+25685,8545836.0,fahrrad-welt,fahrrader,Rennrad RC 120 Scheibenbremse marineblau/orange,TRIBAN,579.99,4241340,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+25931,8545836.0,fahrrad-welt,fahrrader,Rennrad RC 120 Scheibenbremse marineblau/orange,TRIBAN,579.99,4241338,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+26177,8545836.0,fahrrad-welt,fahrrader,Rennrad RC 120 Scheibenbremse marineblau/orange,TRIBAN,579.99,4241337,2024-05-10 20:04:18.367934,0070072800728,Essen,1,False,False
+26422,8545836.0,fahrrad-welt,fahrrader,Rennrad RC 120 Scheibenbremse marineblau/orange,TRIBAN,579.99,4241336,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+26668,8545836.0,fahrrad-welt,fahrrader,Rennrad RC 120 Scheibenbremse marineblau/orange,TRIBAN,579.99,4241339,2024-05-10 20:04:18.367934,0070072800728,Essen,0,False,False
+26914,8602020.0,fahrrad-welt,fahrrader,"Mountainbike Trekking ST 120 27,5 Zoll schwarz/blau",ROCKRIDER,359.99,4116101,2024-05-10 20:10:39.427745,0070206002060,Dortmund-Kampstrasse ,2,False,True
+27154,8602020.0,fahrrad-welt,fahrrader,"Mountainbike Trekking ST 120 27,5 Zoll schwarz/blau",ROCKRIDER,359.99,4116100,2024-05-10 20:10:39.427745,0070206002060,Dortmund-Kampstrasse ,3,False,True
+27394,8602020.0,fahrrad-welt,fahrrader,"Mountainbike Trekking ST 120 27,5 Zoll schwarz/blau",ROCKRIDER,359.99,4116099,2024-05-10 20:10:39.427745,0070206002060,Dortmund-Kampstrasse ,1,False,False
+27634,8602020.0,fahrrad-welt,fahrrader,"Mountainbike Trekking ST 120 27,5 Zoll schwarz/blau",ROCKRIDER,359.99,4116102,2024-05-10 20:10:39.427745,0070206002060,Dortmund-Kampstrasse ,2,False,True
+27874,8602020.0,fahrrad-welt,fahrrader,"Mountainbike Trekking ST 120 27,5 Zoll schwarz/blau",ROCKRIDER,359.99,4266485,2024-05-10 20:10:39.427745,0070206002060,Dortmund-Kampstrasse ,0,False,False
+28114,8602020.0,fahrrad-welt,fahrrader,"Mountainbike Trekking ST 120 27,5 Zoll schwarz/blau",ROCKRIDER,359.99,4266484,2024-05-10 20:10:39.427745,0070206002060,Dortmund-Kampstrasse ,3,False,True
+28354,8602020.0,fahrrad-welt,fahrrader,"Mountainbike Trekking ST 120 27,5 Zoll schwarz/blau",ROCKRIDER,359.99,4266483,2024-05-10 20:10:39.427745,0070206002060,Dortmund-Kampstrasse ,1,False,False
+28594,8602020.0,fahrrad-welt,fahrrader,"Mountainbike Trekking ST 120 27,5 Zoll schwarz/blau",ROCKRIDER,359.99,4266486,2024-05-10 20:10:39.427745,0070206002060,Dortmund-Kampstrasse ,0,False,False
+28834,8548195.0,fahrrad-welt,fahrrad_sale,City Bike 28 Zoll Elops 540 HF Herren petrol,ELOPS,399.99,2692819,2024-05-10 21:29:16.284221,0070072800728,Essen,0,False,False
+28864,8548195.0,fahrrad-welt,fahrrad_sale,City Bike 28 Zoll Elops 540 HF Herren petrol,ELOPS,399.99,2692818,2024-05-10 21:29:16.284221,0070072800728,Essen,0,False,False
+28894,8588490.0,fitness,fitnessgerate-fur-zuhause,Klimmzugstange Tür verriegelbar 70 cm - BT 150,CORENGTH,25.99,4044804,2024-05-11 20:41:13.492711,0070072800728,Essen,9,False,True
+29133,8491911.0,fitness,fitnessgerate-fur-zuhause,Indoor Cycling Bike - 100,DOMYOS,249.99,2524939,2024-05-11 20:42:46.852252,0070027300273,Herne,1,False,True
+31451,8336571.0,fitness,fitnessgerate-fur-zuhause,Hantelset 2 × 1 kg - grün,DOMYOS,9.99,712785,2024-05-13 17:07:20.381248,0070072800728,Essen,14,False,True
+31689,8336580.0,fitness,fitnessgerate-fur-zuhause,Hantelset 2 × 5 kg - schwarz,DOMYOS,29.99,712813,2024-05-13 17:07:20.381248,0070072800728,Essen,4,False,True
+31909,8484821.0,fitness,fitnessgerate-fur-zuhause,"Fitness Band, Trainingsband Crosstraining 35 kg",CORENGTH,14.99,2531587,2024-05-13 17:10:01.139309,0070206002060,Dortmund-Kampstrasse ,31,False,True
+33558,8550383.0,fahrrad-welt,fahrrader,City Bike 28 Zoll Elops Speed 500 Singlespeed/Fixie weiss,ELOPS,299.99,2775990,2024-05-13 18:00:08.903906,0070072800728,Essen,0,False,False
+33784,8550383.0,fahrrad-welt,fahrrader,City Bike 28 Zoll Elops Speed 500 Singlespeed/Fixie weiss,ELOPS,299.99,2775989,2024-05-13 18:00:08.903906,0070072800728,Essen,0,False,False
+34010,8550383.0,fahrrad-welt,fahrrader,City Bike 28 Zoll Elops Speed 500 Singlespeed/Fixie weiss,ELOPS,299.99,2775988,2024-05-13 18:00:08.903906,0070072800728,Essen,0,False,False
+34236,8550383.0,fahrrad-welt,fahrrader,City Bike 28 Zoll Elops Speed 500 Singlespeed/Fixie weiss,ELOPS,299.99,2775991,2024-05-13 18:00:08.903906,0070072800728,Essen,0,False,False
+34462,8550383.0,fahrrad-welt,fahrrader,City Bike 28 Zoll Elops Speed 500 Singlespeed/Fixie weiss,ELOPS,299.99,4195251,2024-05-13 18:00:08.903906,0070072800728,Essen,0,False,False
+34688,8550383.0,fahrrad-welt,fahrrader,City Bike 28 Zoll Elops Speed 500 Singlespeed/Fixie weiss,ELOPS,299.99,4195250,2024-05-13 18:00:08.903906,0070072800728,Essen,0,False,False
+34914,8550383.0,fahrrad-welt,fahrrader,City Bike 28 Zoll Elops Speed 500 Singlespeed/Fixie weiss,ELOPS,299.99,4195249,2024-05-13 18:00:08.903906,0070072800728,Essen,0,False,False
+35140,8550383.0,fahrrad-welt,fahrrader,City Bike 28 Zoll Elops Speed 500 Singlespeed/Fixie weiss,ELOPS,299.99,4195252,2024-05-13 18:00:08.903906,0070072800728,Essen,0,False,False
+35366,8550383.0,fahrrad-welt,fahrrader,City Bike 28 Zoll Elops Speed 500 Singlespeed/Fixie weiss,ELOPS,299.99,4630048,2024-05-13 18:00:08.903906,0070072800728,Essen,0,False,False
+35592,8550383.0,fahrrad-welt,fahrrader,City Bike 28 Zoll Elops Speed 500 Singlespeed/Fixie weiss,ELOPS,299.99,4630049,2024-05-13 18:00:08.903906,0070072800728,Essen,0,False,False
+35818,8550383.0,fahrrad-welt,fahrrader,City Bike 28 Zoll Elops Speed 500 Singlespeed/Fixie weiss,ELOPS,299.99,4630050,2024-05-13 18:00:08.903906,0070072800728,Essen,0,False,False
+36044,8550383.0,fahrrad-welt,fahrrader,City Bike 28 Zoll Elops Speed 500 Singlespeed/Fixie weiss,ELOPS,299.99,2756894,2024-05-13 18:00:08.903906,0070072800728,Essen,0,False,False
+36270,8550383.0,fahrrad-welt,fahrrader,City Bike 28 Zoll Elops Speed 500 Singlespeed/Fixie weiss,ELOPS,299.99,2756892,2024-05-13 18:00:08.903906,0070072800728,Essen,0,False,False
+36496,8550383.0,fahrrad-welt,fahrrader,City Bike 28 Zoll Elops Speed 500 Singlespeed/Fixie weiss,ELOPS,299.99,2756895,2024-05-13 18:00:08.903906,0070072800728,Essen,0,False,False
+37194,8584545.0,camping,zelte,Aufenthaltszelt aufblasbar - Base Air Seconds Fresh für 8 Personen,QUECHUA,399.99,4018190,2024-05-14 18:32:44.365334,0070072800728,Essen,1,False,False
+37411,8554912.0,camping,zelte,Aufenthaltszelt Stangenzelt Arpenaz Base Fresh Größe L,QUECHUA,219.99,2755985,2024-05-14 18:32:44.365334,0070072800728,Essen,0,False,False
+37628,8584571.0,camping,zelte,Familienzelt - Air Seconds 6.3 Fresh & Black für 6 Personen in 3 Schlafkabinen,QUECHUA,769.99,4018211,2024-05-14 18:32:44.365334,0070072800728,Essen,2,False,True
+37845,8810920.0,camping,zelte,Familienzelt aufblasbar - Air Seconds 6.3 XXL F&B 6 Personen 3 Kabinen,QUECHUA,1239.99,4899305,2024-05-14 18:32:44.365334,0070072800728,Essen,0,False,False
+38062,8492483.0,camping,zelte,Wurfzelt XL - 2 Seconds Fresh & Black für 2 Personen,QUECHUA,139.99,2556863,2024-05-14 18:32:44.365334,0070072800728,Essen,8,False,True
+38279,8844621.0,camping,zelte,Schutzzelt Fresh - 2 Seconds Easy XL für 2 Personen,QUECHUA,64.99,5046025,2024-05-14 18:32:44.365334,0070072800728,Essen,0,False,False
+38496,8739048.0,camping,zelte,Matratzenunterlage feuchtigkeitshemmend für Dachzelt MH500 2P,QUECHUA,69.99,4533319,2024-05-14 18:32:44.365334,0070072800728,Essen,0,False,False
+38713,8755225.0,camping,zelte,Faltzelt - 2 Seconds 2 Personen,QUECHUA,74.99,4549663,2024-05-14 18:32:44.365334,0070072800728,Essen,4,False,True
+38930,8545744.0,camping,zelte,Trekkingzelt Trek MT900 1 Person,FORCLAZ,189.99,2686650,2024-05-14 18:32:44.365334,0070072800728,Essen,3,False,True
+39147,8576110.0,camping,zelte,Wurfzelt Fresh & Black - 2 Seconds Easy für 3 Personen,QUECHUA,229.99,2963894,2024-05-14 18:32:44.365334,0070072800728,Essen,3,False,True
+39364,8358212.0,camping,zelte,Campinghammer,QUECHUA,5.99,2035954,2024-05-14 18:32:44.365334,0070072800728,Essen,41,False,True
+39581,8576043.0,camping,zelte,Tarp Schutzplane Multifunktion Camping - Fresh XL,QUECHUA,79.99,2963443,2024-05-14 18:32:44.365334,0070072800728,Essen,0,False,False
+39799,8789856.0,camping,kochen-essen-trinken-camping,Picknickdecke Komfort XL 210 × 170 cm grau,QUECHUA,24.99,4785737,2024-05-14 19:11:42.729867,0070072800728,Essen,37,False,True
+40037,8560646.0,camping,kochen-essen-trinken-camping,Kühlrucksack 30 l - NH100 Ice Compact,QUECHUA,34.99,2903183,2024-05-14 19:11:42.729867,0070072800728,Essen,11,False,True
+40275,8492728.0,camping,kochen-essen-trinken-camping,"Kochset 2,1 l Inox antihaftbeschichtet - MH500 für 2 Personen",QUECHUA,34.99,2558437,2024-05-14 19:11:42.729867,0070072800728,Essen,24,False,True
+40512,8789851.0,camping,kochen-essen-trinken-camping,Picknickdecke Komfort 170 × 140 cm luxour,QUECHUA,14.99,4785690,2024-05-14 19:11:42.729867,0070072800728,Essen,50,False,True
+40746,8789851.0,camping,kochen-essen-trinken-camping,Picknickdecke Komfort 170 × 140 cm luxour,QUECHUA,14.99,4785695,2024-05-14 19:11:42.729867,0070072800728,Essen,7,False,True
+40980,8789851.0,camping,kochen-essen-trinken-camping,Picknickdecke Komfort 170 × 140 cm luxour,QUECHUA,14.99,5066131,2024-05-14 19:11:42.729867,0070072800728,Essen,0,False,False
+41214,8618607.0,camping,kochen-essen-trinken-camping,Kühlrucksack Ice Compact NH100 20 l blau,QUECHUA,24.99,4228041,2024-05-14 19:11:42.729867,0070072800728,Essen,32,False,True
+41449,8618607.0,camping,kochen-essen-trinken-camping,Kühlrucksack Ice Compact NH100 20 l blau,QUECHUA,24.99,4810167,2024-05-14 19:11:42.729867,0070072800728,Essen,0,False,False
+41684,8572257.0,camping,kochen-essen-trinken-camping,Kühltasche selbstaufblasend 25 L,QUECHUA,44.99,2957210,2024-05-14 19:11:42.729867,0070072800728,Essen,8,False,True
+41922,8572258.0,camping,kochen-essen-trinken-camping,Kühltasche selbstaufblasend hält kühl bis zu 17 Stunden - 35 L,QUECHUA,54.99,2957211,2024-05-14 19:11:42.729867,0070072800728,Essen,6,False,True
+42160,8492729.0,camping,kochen-essen-trinken-camping,"Kochset 3,5 l antihaftbeschichtet Inox MH500 für 4 Personen",QUECHUA,59.99,2558438,2024-05-14 19:11:42.729867,0070072800728,Essen,9,False,True
+42398,8746353.0,camping,kochen-essen-trinken-camping,Campingkocher 1-flammig - Campingaz Bistro Plus,CAMPINGAZ,34.99,4604461,2024-05-14 19:11:42.729867,0070072800728,Essen,14,False,True
+42636,8542254.0,camping,kochen-essen-trinken-camping,Trinkblase Trekking - MT500 3 Liter,FORCLAZ,16.99,2750076,2024-05-14 19:11:42.729867,0070072800728,Essen,11,False,True
+42874,8504347.0,camping,kochen-essen-trinken-camping,Wasserkocher 1 l Inox Camping Outdoor - MH500,QUECHUA,12.99,2480082,2024-05-14 19:11:42.729867,0070072800728,Essen,5,False,True
+43112,8576761.0,camping,kochen-essen-trinken-camping,Waschschüssel Camping faltbar - 8 Liter,QUECHUA,12.99,2969094,2024-05-14 19:11:42.729867,0070072800728,Essen,10,False,True
+43350,8542253.0,camping,kochen-essen-trinken-camping,Trinkblase Trekking 2 Liter - MT500,FORCLAZ,14.99,2750074,2024-05-14 19:11:42.729867,0070072800728,Essen,16,False,True
+43588,8750779.0,camping,kochen-essen-trinken-camping,Picknickdecke kompakt 146 × 120 cm,QUECHUA,7.99,4666499,2024-05-14 19:11:42.729867,0070072800728,Essen,0,False,False
+43826,8676217.0,camping,kochen-essen-trinken-camping,Kühltasche flexibel 20 Liter hält kühl bis zu 9 Stunden,QUECHUA,27.99,4451121,2024-05-14 19:11:42.729867,0070072800728,Essen,10,False,True
+44064,8797897.0,camping,kochen-essen-trinken-camping,"Trinkflasche 0,8 l Ecozen® mit Schraubverschluss Wandern",QUECHUA,2.99,4811503,2024-05-14 19:11:42.729867,0070072800728,Essen,120,False,True
+44301,8492721.0,camping,kochen-essen-trinken-camping,"Campingbecher MH150 Edelstahl 0,4 Liter",QUECHUA,4.99,2558429,2024-05-14 19:11:42.729867,0070072800728,Essen,73,False,True
+44539,8386030.0,camping,kochen-essen-trinken-camping,Besteckset Campingbesteck Kunststoff 3-teilig blau,QUECHUA,1.99,2210295,2024-05-14 19:11:42.729867,0070072800728,Essen,40,False,True
+44777,8844625.0,camping,kochen-essen-trinken-camping,Bodendecke faltbar verstellbares Rückenteil Camping - Ultimcomfort 160 × 53 cm,QUECHUA,34.99,5046038,2024-05-14 19:11:42.729867,0070072800728,Essen,0,False,False
+45015,8649237.0,camping,kochen-essen-trinken-camping,Kühltasche 10 l flexibel Camping,QUECHUA,14.99,4334436,2024-05-14 19:11:42.729867,0070072800728,Essen,16,False,True
+45250,8798179.0,camping,kochen-essen-trinken-camping,"Trinkflasche 0,8 l Schnellverschluss Ecozen® mit Wandern - blau",QUECHUA,5.99,4813859,2024-05-14 19:11:42.729867,0070072800728,Essen,51,False,True
+45478,8798179.0,camping,kochen-essen-trinken-camping,"Trinkflasche 0,8 l Schnellverschluss Ecozen® mit Wandern - blau",QUECHUA,5.99,4813860,2024-05-14 19:11:42.729867,0070072800728,Essen,26,False,True
+45706,8561305.0,camping,kochen-essen-trinken-camping,Kühlakku 175 g für Kühlbox und Kühlrucksack 2er-Pack,QUECHUA,2.99,2896696,2024-05-14 19:11:42.729867,0070072800728,Essen,29,False,True
+45944,8559534.0,camping,kochen-essen-trinken-camping,Gaskocher Bergtrekking leicht kompakt - MT500 Piezo,FORCLAZ,37.99,2898192,2024-05-14 19:11:42.729867,0070072800728,Essen,13,False,True
+46178,8492724.0,camping,kochen-essen-trinken-camping,"Kochset MH100 Inox Edelstahl 1 Person (1,1 L)",QUECHUA,12.99,2558433,2024-05-14 19:11:42.729867,0070072800728,Essen,20,False,True
+46413,8560509.0,camping,kochen-essen-trinken-camping,Kühlrucksack 10 l - NH 100 Ice Compact,QUECHUA,17.99,2899944,2024-05-14 19:11:42.729867,0070072800728,Essen,13,False,True
+46641,8560509.0,camping,kochen-essen-trinken-camping,Kühlrucksack 10 l - NH 100 Ice Compact,QUECHUA,17.99,2899945,2024-05-14 19:11:42.729867,0070072800728,Essen,0,False,False
+46869,8492725.0,camping,kochen-essen-trinken-camping,"Kochset 1,6 l Inox - MH100 für 2 Personen",QUECHUA,19.99,2558434,2024-05-14 19:11:42.729867,0070072800728,Essen,19,False,True
+47104,8606450.0,camping,kochen-essen-trinken-camping,Fleecedecke 150 × 130 cm,QUECHUA,9.99,4181596,2024-05-14 19:11:42.729867,0070072800728,Essen,0,False,False
+47341,8277671.0,camping,kochen-essen-trinken-camping,Taschenmesser Opinel Nr. 8 Edelstahl,OPINEL,9.99,1683040,2024-05-14 19:11:42.729867,0070072800728,Essen,11,False,True
+47579,8582112.0,camping,kochen-essen-trinken-camping,Gaskocher Bergtrekking MT100 Piezo,FORCLAZ,24.99,4008538,2024-05-14 19:11:42.729867,0070072800728,Essen,19,False,True
+47814,8756891.0,camping,kochen-essen-trinken-camping,Windschutz für Campingkocher - MT500,FORCLAZ,12.99,4544149,2024-05-14 19:11:42.729867,0070072800728,Essen,0,False,False
+48052,8549674.0,camping,kochen-essen-trinken-camping,"Kochzubehör Camping MH500 Pfannenwender, Kelle, Geschirrtuch, Schneidebrett",QUECHUA,14.99,2757221,2024-05-14 19:11:42.729867,0070072800728,Essen,0,False,False
+48287,8640745.0,camping,kochen-essen-trinken-camping,"Trinkbecher Mug 0,38 l Isolierbecher doppelwandig aus Edelstahl - MH500 khaki",QUECHUA,11.99,4266693,2024-05-14 19:11:42.729867,0070072800728,Essen,4,False,True
+48515,8640745.0,camping,kochen-essen-trinken-camping,"Trinkbecher Mug 0,38 l Isolierbecher doppelwandig aus Edelstahl - MH500 khaki",QUECHUA,11.99,4266695,2024-05-14 19:11:42.729867,0070072800728,Essen,0,False,False
+48743,8575761.0,camping,kochen-essen-trinken-camping,Trinkflasche MT500 mit Wasserfilter weich komprimierbar 1 Liter,FORCLAZ,29.99,2961507,2024-05-14 19:11:42.729867,0070072800728,Essen,0,False,False
+48971,8649375.0,camping,kochen-essen-trinken-camping,Kühlakku 370 g für Kühlbox und Kühlrucksack im 2er-Pack,QUECHUA,4.99,4335258,2024-05-14 19:11:42.729867,0070072800728,Essen,20,False,True
+49201,8852990.0,camping,campingmobel,Campingstuhl Klappstuhl mit Armlehnen,QUECHUA,19.99,5075743,2024-05-14 19:54:41.567973,0070072800728,Essen,29,False,True
+49437,8852990.0,camping,campingmobel,Campingstuhl Klappstuhl mit Armlehnen,QUECHUA,19.99,5075744,2024-05-14 19:54:41.567973,0070072800728,Essen,99,False,True
+49673,8852990.0,camping,campingmobel,Campingstuhl Klappstuhl mit Armlehnen,QUECHUA,19.99,2918996,2024-05-14 19:54:41.567973,0070072800728,Essen,0,False,False
+49909,8852990.0,camping,campingmobel,Campingstuhl Klappstuhl mit Armlehnen,QUECHUA,19.99,2918997,2024-05-14 19:54:41.567973,0070072800728,Essen,0,False,False
+50137,8881982.0,camping,campingmobel,Campingstuhl klappbar - Komfort verstellbar Stahl,QUECHUA,49.99,5204934,2024-05-14 19:54:41.567973,0070072800728,Essen,24,False,True
+50377,8852993.0,camping,campingmobel,Campingstuhl klappbar gross - XL,QUECHUA,27.99,5075746,2024-05-14 19:54:41.567973,0070072800728,Essen,64,False,True
+50617,8852993.0,camping,campingmobel,Campingstuhl klappbar gross - XL,QUECHUA,27.99,2961595,2024-05-14 19:54:41.567973,0070072800728,Essen,0,False,False
+50857,8492643.0,camping,campingmobel,Campingstuhl niedriger Klappstuhl - MH500 grau,QUECHUA,39.99,2558046,2024-05-14 19:54:41.567973,0070072800728,Essen,8,False,True
+51084,8492643.0,camping,campingmobel,Campingstuhl niedriger Klappstuhl - MH500 grau,QUECHUA,39.99,4899198,2024-05-14 19:54:41.567973,0070072800728,Essen,0,False,False
+51312,8492643.0,camping,campingmobel,Campingstuhl niedriger Klappstuhl - MH500 grau,QUECHUA,39.99,4899199,2024-05-14 19:54:41.567973,0070072800728,Essen,0,False,False
+51540,8750555.0,camping,campingmobel,Campingtisch klappbar - 2–4 Personen,QUECHUA,27.99,4665781,2024-05-14 19:54:41.567973,0070072800728,Essen,34,False,True
+51779,8750555.0,camping,campingmobel,Campingtisch klappbar - 2–4 Personen,QUECHUA,27.99,2961624,2024-05-14 19:54:41.567973,0070072800728,Essen,0,False,False
+52007,8512943.0,camping,campingmobel,Campingstuhl niedriger Klappstuhl MH500 XL,QUECHUA,54.99,2466767,2024-05-14 19:54:41.567973,0070072800728,Essen,0,False,False
+52247,8786306.0,camping,campingmobel,Campingtisch niedrig klappbar - MH100 grau,QUECHUA,19.99,4767347,2024-05-14 19:54:41.567973,0070072800728,Essen,37,False,True
+52487,8750484.0,camping,campingmobel,Küchenmöbel Camping klappbar,QUECHUA,99.99,4665130,2024-05-14 19:54:41.567973,0070072800728,Essen,6,False,True
+52727,8493400.0,camping,campingmobel,Sitzkissen Trekking MT500 Schaumstoff faltbar,FORCLAZ,5.99,2562988,2024-05-14 19:54:41.567973,0070072800728,Essen,46,False,True
+52967,8767220.0,camping,campingmobel,Campingschrank faltbar und kompakt XL - Comfort,QUECHUA,89.99,4663536,2024-05-14 19:54:41.567973,0070072800728,Essen,0,False,False
+53207,8853007.0,camping,campingmobel,Campingtisch klappbar mit 4 Hockern - 4‒6 Personen,QUECHUA,69.99,5075837,2024-05-14 19:54:41.567973,0070072800728,Essen,6,False,True
+53447,8603153.0,camping,campingmobel,Beinauflage Camping kompatibel mit unseren Campingstühlen,QUECHUA,17.99,4129063,2024-05-14 19:54:41.567973,0070072800728,Essen,0,False,False
+53675,8603153.0,camping,campingmobel,Beinauflage Camping kompatibel mit unseren Campingstühlen,QUECHUA,17.99,5075749,2024-05-14 19:54:41.567973,0070072800728,Essen,0,False,False
+53903,8759981.0,camping,campingmobel,Stabilisierungsdecke für Campingstuhl MH500L,QUECHUA,7.99,4579105,2024-05-14 19:54:41.567973,0070072800728,Essen,0,False,False
+54143,8852999.0,camping,campingmobel,Campingstuhl klappbar - Comfort,QUECHUA,44.99,5075752,2024-05-14 19:54:41.567973,0070072800728,Essen,0,False,False
+54383,8852999.0,camping,campingmobel,Campingstuhl klappbar - Comfort,QUECHUA,44.99,2962551,2024-05-14 19:54:41.567973,0070072800728,Essen,0,False,False
+54611,8750558.0,camping,campingmobel,Campingtisch klappbar mit 4 Hockern 4-6 Personen,QUECHUA,69.99,4665789,2024-05-14 19:54:41.567973,0070072800728,Essen,11,False,True
+54851,8512947.0,camping,campingmobel,Campingtisch Klapptisch MH500 niedrig,QUECHUA,49.99,2466777,2024-05-14 19:54:41.567973,0070072800728,Essen,5,False,True
+55091,8576113.0,camping,campingmobel,Campingstuhl niedrig MH100 faltbar blau,QUECHUA,14.99,2963898,2024-05-14 19:54:41.567973,0070072800728,Essen,15,False,True
+55331,8576113.0,camping,campingmobel,Campingstuhl niedrig MH100 faltbar blau,QUECHUA,14.99,4226754,2024-05-14 19:54:41.567973,0070072800728,Essen,25,False,True
+55571,8750560.0,camping,campingmobel,Campingtisch Klapptisch - 4 Personen,QUECHUA,44.99,4665791,2024-05-14 19:54:41.567973,0070072800728,Essen,1,False,False
+55811,864538.0,camping,campingmobel,Campingschrank faltbar und kompakt - Basic,QUECHUA,59.99,4073788,2024-05-14 19:54:41.567973,0070072800728,Essen,8,False,True
+56051,8786303.0,camping,campingmobel,Campinghocker mit drei Beinen,QUECHUA,8.99,4767344,2024-05-14 19:54:41.567973,0070072800728,Essen,55,False,True
+56291,8648928.0,camping,campingmobel,Küchenmöbel klappbar XL Camping,QUECHUA,164.99,4332301,2024-05-14 19:54:41.567973,0070072800728,Essen,2,False,True
+56531,8834461.0,camping,campingmobel,Campingtisch klappbar höhenverstellbar - Easy Camp Menton M Bambus,EASY CAMP,54.99,5015677,2024-05-14 19:54:41.567973,0070072800728,Essen,0,False,False
+56771,864559.0,camping,campingmobel,Nachttisch Kompakt Camping,QUECHUA,19.99,4073804,2024-05-14 19:54:41.567973,0070072800728,Essen,0,False,False
+57011,8834454.0,camping,campingmobel,Campingstuhl faltbar - Outwell Casilda schwarz,OUTWELL,59.99,5015653,2024-05-14 19:54:41.567973,0070072800728,Essen,0,False,False
+57251,8852994.0,camping,campingmobel,Campingstuhl Klappstuhl,QUECHUA,16.99,5075747,2024-05-14 19:54:41.567973,0070072800728,Essen,33,False,True
+57490,8852994.0,camping,campingmobel,Campingstuhl Klappstuhl,QUECHUA,16.99,2970405,2024-05-14 19:54:41.567973,0070072800728,Essen,0,False,False
+57730,960034.0,camping,campingmobel,Küchenmöbel Camping Multifunktion Tepee,QUECHUA,119.99,4073894,2024-05-14 19:54:41.567973,0070072800728,Essen,0,False,False
+57969,8810708.0,camping,campingmobel,Camping-Küchenmöbel faltbar,QUECHUA,74.99,4898926,2024-05-14 19:54:41.567973,0070072800728,Essen,6,False,True
+58209,8750565.0,camping,campingmobel,Campingtisch klappbar - 6 bis 8 Personen,QUECHUA,99.99,4665796,2024-05-14 19:54:41.567973,0070072800728,Essen,0,False,False
+58437,8794274.0,camping,campingmobel,Campingstuhl klappbar - Outwell Blackpool Green Vineyard grün,OUTWELL,54.99,4838470,2024-05-14 19:54:41.567973,0070072800728,Essen,0,False,False
+58672,8843764.0,camping,campingmobel,Campinghocker Klapphocker grün,QUECHUA,11.99,5037264,2024-05-14 19:54:41.567973,0070072800728,Essen,0,False,False
+58907,8852997.0,camping,campingmobel,Campingstuhl Klappstuhl Komfort Multiposition - Chill Meal,QUECHUA,99.99,5075750,2024-05-14 19:54:41.567973,0070072800728,Essen,0,False,False
+59147,8753715.0,camping,campingmobel,Bollerwagen klappbar für Familienzelt und Campingausrüstung,QUECHUA,104.99,4640149,2024-05-14 19:54:41.567973,0070072800728,Essen,12,False,True
+59387,8853003.0,camping,campingmobel,Campingstuhl Komfort Klappstuhl,QUECHUA,39.99,5075814,2024-05-14 19:54:41.567973,0070072800728,Essen,0,False,False
+59614,8853003.0,camping,campingmobel,Campingstuhl Komfort Klappstuhl,QUECHUA,39.99,2962513,2024-05-14 19:54:41.567973,0070072800728,Essen,0,False,False
+59842,8572900.0,camping,campingmobel,Wüstensitz verstellbar - Desert 900 braun,FORCLAZ,29.99,2887434,2024-05-14 19:54:41.567973,0070072800728,Essen,0,False,False
+60075,8853029.0,camping,campingmobel,Campingtisch kompakt Holzplatte Ablagefach - 4/6-Personen,QUECHUA,119.99,5075886,2024-05-14 19:54:41.567973,0070072800728,Essen,0,False,False
+60315,8895223.0,camping,campingmobel,Outwell Gresham Campingstuhl faltbar,OUTWELL,179.99,5291607,2024-05-14 19:54:41.567973,0070072800728,Essen,0,False,False
+60543,8611651.0,camping,campingmobel,Bollerwagen Trolley All Road für Familienzelt und Campingausrüstung,QUECHUA,139.99,4190250,2024-05-14 19:58:06.350256,0070027300273,Herne,0,False,False
+60688,25504539.0,camping,campingmobel,Campingstuhl klappbar Johnny XL Camping Stuhl mit Getränkehalter,QEEDO,39.9,3fd436ff-a08c-48fb-b74d-ac1c6ff6289b,2024-05-14 19:58:06.350256,0070027300273,Herne,0,False,False
+60833,53343.0,camping,campingmobel,Campingstuhl XXL Johnny Jumbo aus stabilem Stahlgestänge bis 250 kg belastbar,QEEDO,69.9,02a20792-e2fc-4302-9495-f50240208486,2024-05-14 19:58:06.350256,0070027300273,Herne,0,False,False
+60978,8759611.0,camping,schlafsacke-matratzen-betten,Selbstaufblasende Luftmatratze Ultimate Comfort 70 cm 1 Person,QUECHUA,99.99,4564006,2024-05-14 20:38:45.632787,0070072800728,Essen,43,False,True
+61202,8549582.0,camping,schlafsacke-matratzen-betten,Camping-Kopfkissen Reisekissen Komfort blau,QUECHUA,9.99,2765853,2024-05-14 20:38:45.632787,0070072800728,Essen,49,False,True
+61426,8561144.0,camping,schlafsacke-matratzen-betten,Luftmatratze 70 cm Camping - Air Basic für 1 Person,QUECHUA,16.99,2895786,2024-05-14 20:38:45.632787,0070072800728,Essen,53,False,True
+61650,8611728.0,camping,schlafsacke-matratzen-betten,Selbstaufblasende Luftmatratze Ultimate Comfort doppelt 136 cm für 2 Personen,QUECHUA,179.99,4191209,2024-05-14 20:38:45.632787,0070072800728,Essen,8,False,True
+61874,8601381.0,camping,schlafsacke-matratzen-betten,Luftmatratze Camping selbstaufblasend - Comfort 65 cm für 1 Person,QUECHUA,59.99,4108868,2024-05-14 20:38:45.632787,0070072800728,Essen,34,False,True
+62098,8737675.0,camping,schlafsacke-matratzen-betten,Schlafsack Camping - Arpenaz 10 °C,QUECHUA,29.99,4518515,2024-05-14 20:38:45.632787,0070072800728,Essen,53,False,True
+62310,8737675.0,camping,schlafsacke-matratzen-betten,Schlafsack Camping - Arpenaz 10 °C,QUECHUA,29.99,4518516,2024-05-14 20:38:45.632787,0070072800728,Essen,0,False,False
+62522,8841743.0,camping,schlafsacke-matratzen-betten,Luftmatratze selbstaufblasend Camping - Ultim Comfort Van 115 cm für 2 Personen,QUECHUA,134.99,5006373,2024-05-14 20:38:45.632787,0070072800728,Essen,0,False,False
+62745,8575620.0,camping,schlafsacke-matratzen-betten,Luftmatratze Camping selbstaufblasend 60 cm - Basic 1 Person,QUECHUA,29.99,2960898,2024-05-14 20:38:45.632787,0070072800728,Essen,55,False,True
+62969,8595949.0,camping,schlafsacke-matratzen-betten,Campingbett aufblasbar mit Lattenrost - Bed Air 70x200 cm blau,QUECHUA,99.99,2923834,2024-05-14 20:38:45.632787,0070072800728,Essen,7,False,True
+63193,8561145.0,camping,schlafsacke-matratzen-betten,Luftmatratze aufblasbar Camping - Air Basic 190×140 cm,QUECHUA,29.99,2895787,2024-05-14 20:38:45.632787,0070072800728,Essen,48,False,True
+63417,8561149.0,camping,schlafsacke-matratzen-betten,Luftmatratze Camping - Air Basic Breite 120 cm für 2 Personen,QUECHUA,27.99,2895791,2024-05-14 20:38:45.632787,0070072800728,Essen,41,False,True
+63641,8789047.0,camping,schlafsacke-matratzen-betten,Schlafsack Camping - Arpenaz 0 °C,QUECHUA,59.99,4797486,2024-05-14 20:38:45.632787,0070072800728,Essen,9,False,True
+64089,8648441.0,camping,schlafsacke-matratzen-betten,Luftmatratze 70 cm Camping - Air Comfort für 1 Person,QUECHUA,34.99,4327543,2024-05-14 20:38:45.632787,0070072800728,Essen,13,False,True
+64313,8648443.0,camping,schlafsacke-matratzen-betten,Luftmatratze 140 cm Camping - Air Comfort für 2 Personen,QUECHUA,44.99,4327545,2024-05-14 20:38:45.632787,0070072800728,Essen,18,False,True
+64529,8648442.0,camping,schlafsacke-matratzen-betten,Luftmatratze 120 cm Camping - Air Comfort für 2 Personen,QUECHUA,39.99,4327544,2024-05-14 20:38:45.632787,0070072800728,Essen,11,False,True
+64753,8648442.0,camping,schlafsacke-matratzen-betten,Luftmatratze 120 cm Camping - Air Comfort für 2 Personen,QUECHUA,39.99,5145351,2024-05-14 20:38:45.632787,0070072800728,Essen,0,False,False
+64977,8648438.0,camping,schlafsacke-matratzen-betten,Schlafsack Camping - Arpenaz 20 °C,QUECHUA,14.99,4327529,2024-05-14 20:38:45.632787,0070072800728,Essen,58,False,True
+65201,8648438.0,camping,schlafsacke-matratzen-betten,Schlafsack Camping - Arpenaz 20 °C,QUECHUA,14.99,2460957,2024-05-14 20:38:45.632787,0070072800728,Essen,0,False,False
+65425,8733136.0,camping,schlafsacke-matratzen-betten,Luftmatratze selbstaufblasend Camping - Comfort 132 cm für 2 Personen,QUECHUA,109.99,4474078,2024-05-14 20:38:45.632787,0070072800728,Essen,5,False,True
+65649,8558913.0,camping,schlafsacke-matratzen-betten,Schlafsack Camping - Arpenaz 10 °C Baumwolle,QUECHUA,59.99,2944996,2024-05-14 20:38:45.632787,0070072800728,Essen,23,False,True
+65873,8755737.0,camping,schlafsacke-matratzen-betten,Campingliege Camp Bed Basic 60 cm für 1 Person,QUECHUA,39.99,4557488,2024-05-14 20:38:45.632787,0070072800728,Essen,14,False,True
+66097,8513487.0,camping,schlafsacke-matratzen-betten,Schlafsack Kinder 10 °C Camping - MH100 blau,QUECHUA,19.99,2460958,2024-05-14 20:38:45.632787,0070072800728,Essen,42,False,True
+66321,8513487.0,camping,schlafsacke-matratzen-betten,Schlafsack Kinder 10 °C Camping - MH100 blau,QUECHUA,19.99,2711073,2024-05-14 20:38:45.632787,0070072800728,Essen,33,False,True
+66545,8827568.0,camping,schlafsacke-matratzen-betten,Kopfkissen Camping - Ultim Comfort,QUECHUA,19.99,4966682,2024-05-14 20:38:45.632787,0070072800728,Essen,28,False,True
+66678,8492712.0,camping,schlafsacke-matratzen-betten,Schaumstoff-Isomatte faltbar 1 Person Trekking - MT500 180 × 55 cm,FORCLAZ,19.99,2558419,2024-05-14 20:38:45.632787,0070072800728,Essen,13,False,True
+66901,8582047.0,camping,schlafsacke-matratzen-betten,Luftmatratze isolierend aufblasbar Trekking - MT500 XL 195 × 60 cm - 1 Person,FORCLAZ,79.99,4008303,2024-05-14 20:38:45.632787,0070072800728,Essen,0,False,False
+67112,8799899.0,camping,schlafsacke-matratzen-betten,Schlafsack Polyester Trekking - MT500 0 °C schwarz,FORCLAZ,74.99,4844287,2024-05-14 20:38:45.632787,0070072800728,Essen,0,False,False
+67335,8799899.0,camping,schlafsacke-matratzen-betten,Schlafsack Polyester Trekking - MT500 0 °C schwarz,FORCLAZ,74.99,4844288,2024-05-14 20:38:45.632787,0070072800728,Essen,8,False,True
+67558,8799899.0,camping,schlafsacke-matratzen-betten,Schlafsack Polyester Trekking - MT500 0 °C schwarz,FORCLAZ,74.99,4844289,2024-05-14 20:38:45.632787,0070072800728,Essen,6,False,True
+67781,8799899.0,camping,schlafsacke-matratzen-betten,Schlafsack Polyester Trekking - MT500 0 °C schwarz,FORCLAZ,74.99,4844290,2024-05-14 20:38:45.632787,0070072800728,Essen,4,False,True
+68003,8601390.0,camping,schlafsacke-matratzen-betten,Hängematte Komfort 2 Personen 350 × 175 cm braun,QUECHUA,29.99,4108976,2024-05-14 20:38:45.632787,0070072800728,Essen,13,False,True
+68226,8612277.0,camping,schlafsacke-matratzen-betten,Luftmatratze XL 195 × 60 cm Trekking - MT500 Air 1 Person,FORCLAZ,54.99,4195049,2024-05-14 20:38:45.632787,0070072800728,Essen,16,False,True
+68449,8612277.0,camping,schlafsacke-matratzen-betten,Luftmatratze XL 195 × 60 cm Trekking - MT500 Air 1 Person,FORCLAZ,54.99,2566909,2024-05-14 20:38:45.632787,0070072800728,Essen,0,False,False
+68672,8543062.0,camping,schlafsacke-matratzen-betten,Fusspumpe für aufblasbare Matratzen,QUECHUA,11.99,2705916,2024-05-14 20:38:45.632787,0070072800728,Essen,48,False,True
+68895,5591048.0,camping,schlafsacke-matratzen-betten,Isomatte Schaumstoff Trekking - MT100 180 × 50 cm,FORCLAZ,8.99,522209,2024-05-14 20:38:45.632787,0070072800728,Essen,27,False,True
+69118,8575966.0,camping,schlafsacke-matratzen-betten,Schlafsack Trekking - MT500 10 °C Polyester,FORCLAZ,54.99,2963004,2024-05-14 20:38:45.632787,0070072800728,Essen,0,False,False
+69341,8575966.0,camping,schlafsacke-matratzen-betten,Schlafsack Trekking - MT500 10 °C Polyester,FORCLAZ,54.99,2963003,2024-05-14 20:38:45.632787,0070072800728,Essen,2,False,True
+69564,8575966.0,camping,schlafsacke-matratzen-betten,Schlafsack Trekking - MT500 10 °C Polyester,FORCLAZ,54.99,2963002,2024-05-14 20:38:45.632787,0070072800728,Essen,7,False,True
+69786,8575966.0,camping,schlafsacke-matratzen-betten,Schlafsack Trekking - MT500 10 °C Polyester,FORCLAZ,54.99,2963005,2024-05-14 20:38:45.632787,0070072800728,Essen,2,False,True
+70009,8901525.0,camping,schlafsacke-matratzen-betten,Schaumstoff-Isomatte faltbar isolierend Trekking - MT500 195 × 55 cm 1 Person,FORCLAZ,21.99,5284409,2024-05-14 20:38:45.632787,0070072800728,Essen,0,False,False
+70232,8901525.0,camping,schlafsacke-matratzen-betten,Schaumstoff-Isomatte faltbar isolierend Trekking - MT500 195 × 55 cm 1 Person,FORCLAZ,21.99,2705854,2024-05-14 20:38:45.632787,0070072800728,Essen,0,False,False
+70455,8737673.0,camping,schlafsacke-matratzen-betten,Schlafsack Camping - Arpenaz 15 °C,QUECHUA,21.99,4518513,2024-05-14 20:38:45.632787,0070072800728,Essen,37,False,True
+70678,8810976.0,camping,schlafsacke-matratzen-betten,Camping-Schlafsack aus Baumwolle - Ultim Comfort 10° blau,QUECHUA,59.99,4899450,2024-05-14 20:38:45.632787,0070072800728,Essen,3,False,True
+70901,8677189.0,camping,schlafsacke-matratzen-betten,Camping-Kissen aufblasbar Air Basic blau,QUECHUA,5.99,4435748,2024-05-14 20:38:45.632787,0070072800728,Essen,56,False,True
+71124,8584370.0,camping,schlafsacke-matratzen-betten,Schlafsack-Inlett Baumwolle beige,QUECHUA,19.99,4017486,2024-05-14 20:38:45.632787,0070072800728,Essen,18,False,True
+71257,8799901.0,camping,schlafsacke-matratzen-betten,Schlafsack Polyester Trekking - MT500 0 °C,FORCLAZ,89.99,4844297,2024-05-14 20:38:45.632787,0070072800728,Essen,0,False,False
+71480,8799901.0,camping,schlafsacke-matratzen-betten,Schlafsack Polyester Trekking - MT500 0 °C,FORCLAZ,89.99,4844298,2024-05-14 20:38:45.632787,0070072800728,Essen,3,False,True
+71702,8799901.0,camping,schlafsacke-matratzen-betten,Schlafsack Polyester Trekking - MT500 0 °C,FORCLAZ,89.99,4844299,2024-05-14 20:38:45.632787,0070072800728,Essen,6,False,True
+71925,8799901.0,camping,schlafsacke-matratzen-betten,Schlafsack Polyester Trekking - MT500 0 °C,FORCLAZ,89.99,4844300,2024-05-14 20:38:45.632787,0070072800728,Essen,2,False,True
+72147,8575969.0,camping,schlafsacke-matratzen-betten,Schlafsack Trekking MT900 10 °C Daunen,FORCLAZ,139.99,2963016,2024-05-14 20:42:22.219298,0070027300273,Herne,0,False,False
+72249,8575969.0,camping,schlafsacke-matratzen-betten,Schlafsack Trekking MT900 10 °C Daunen,FORCLAZ,139.99,2963015,2024-05-14 20:42:22.219298,0070027300273,Herne,2,False,True
+72351,8575969.0,camping,schlafsacke-matratzen-betten,Schlafsack Trekking MT900 10 °C Daunen,FORCLAZ,139.99,2963014,2024-05-14 20:42:22.219298,0070027300273,Herne,3,False,True
+72453,8575969.0,camping,schlafsacke-matratzen-betten,Schlafsack Trekking MT900 10 °C Daunen,FORCLAZ,139.99,2963017,2024-05-14 20:42:22.219298,0070027300273,Herne,3,False,True
+72555,8595947.0,camping,schlafsacke-matratzen-betten,Campingliege Camp Bed Second 65 cm x 190 cm für 1 Person beige,QUECHUA,59.99,2923828,2024-05-14 20:42:22.219298,0070027300273,Herne,9,False,True
+72657,8612374.0,camping,schlafsacke-matratzen-betten,Schlafsack Camping - Arpenaz 10 °C für 2 Personen,QUECHUA,69.99,4195608,2024-05-14 20:42:22.219298,0070027300273,Herne,12,False,True
+72759,8616804.0,fitness,fitnessgerate-fur-zuhause,Hantelbank klappbar neigungsverstellbar - 500,CORENGTH,99.99,4224992,2024-05-14 21:19:42.835897,0070072800728,Essen,2,False,True
+72987,6150.0,fitness,fitnessgerate-fur-zuhause,Crosstech XTR BT Glute Shaper mit Zwift und Kinomap,HAMMER,319.0,92761422-f8c9-46aa-8d15-c508f5514435,2024-05-14 21:19:42.835897,0070072800728,Essen,0,False,False
+73125,8766094.0,fitness,fitnessgerate-fur-zuhause,Kraftstation Krafttraining ‒ TS 900,CORENGTH,219.99,4660465,2024-05-14 21:19:42.835897,0070072800728,Essen,1,False,False
+73263,8825899.0,fitness,fitnessgerate-fur-zuhause,Boxing-Set - Adidas V2 (Handschuhe + Bandagen + Zahnschutz),ADIDAS,39.99,4978720,2024-05-14 21:19:42.835897,0070072800728,Essen,2,False,True
+73484,8825899.0,fitness,fitnessgerate-fur-zuhause,Boxing-Set - Adidas V2 (Handschuhe + Bandagen + Zahnschutz),ADIDAS,39.99,4978721,2024-05-14 21:19:42.835897,0070072800728,Essen,7,False,True
+73704,8825899.0,fitness,fitnessgerate-fur-zuhause,Boxing-Set - Adidas V2 (Handschuhe + Bandagen + Zahnschutz),ADIDAS,39.99,4978722,2024-05-14 21:19:42.835897,0070072800728,Essen,7,False,True
+73923,8825899.0,fitness,fitnessgerate-fur-zuhause,Boxing-Set - Adidas V2 (Handschuhe + Bandagen + Zahnschutz),ADIDAS,39.99,4978723,2024-05-14 21:19:42.835897,0070072800728,Essen,4,False,True
+74144,8851735.0,fitness,fitnessgerate-fur-zuhause,Pilatesmatte Komfort 170 cm × 58 cm × 15 mm - 500 bordeauxrot,DOMYOS,29.99,5057388,2024-05-14 21:19:42.835897,0070072800728,Essen,12,False,True
+74361,8851735.0,fitness,fitnessgerate-fur-zuhause,Pilatesmatte Komfort 170 cm × 58 cm × 15 mm - 500 bordeauxrot,DOMYOS,29.99,5057389,2024-05-14 21:19:42.835897,0070072800728,Essen,10,False,True
+74578,8607943.0,fitness,fitnessgerate-fur-zuhause,Crosstrainer - EL 540 schwarz,DOMYOS,499.99,4169366,2024-05-14 21:19:42.835897,0070072800728,Essen,1,False,False
+74794,8607943.0,fitness,fitnessgerate-fur-zuhause,Crosstrainer - EL 540 schwarz,DOMYOS,499.99,4834090,2024-05-14 21:19:42.835897,0070072800728,Essen,0,False,False
+75010,8354819.0,fitness,fitnessgerate-fur-zuhause,Kugelhantel Kettlebell Gusseisen und Basis aus Gummi ‒ 20 kg,CORENGTH,64.99,2017323,2024-05-14 21:19:42.835897,0070072800728,Essen,0,False,False
+75148,8549542.0,fitness,fitnessgerate-fur-zuhause,Standboxsack aufblasbar Erwachsene,OUTSHOCK,69.99,2765680,2024-05-14 21:19:42.835897,0070072800728,Essen,6,False,True
+75369,8651249.0,fitness,fitnessgerate-fur-zuhause,Boxhandschuhe 100 rot,OUTSHOCK,17.99,4343618,2024-05-14 21:19:42.835897,0070072800728,Essen,9,False,True
+75585,8651249.0,fitness,fitnessgerate-fur-zuhause,Boxhandschuhe 100 rot,OUTSHOCK,17.99,4343615,2024-05-14 21:19:42.835897,0070072800728,Essen,6,False,True
+75801,8651249.0,fitness,fitnessgerate-fur-zuhause,Boxhandschuhe 100 rot,OUTSHOCK,17.99,4343616,2024-05-14 21:19:42.835897,0070072800728,Essen,0,False,False
+76017,8651249.0,fitness,fitnessgerate-fur-zuhause,Boxhandschuhe 100 rot,OUTSHOCK,17.99,4343617,2024-05-14 21:19:42.835897,0070072800728,Essen,4,False,True
+76233,8607949.0,fitness,fitnessgerate-fur-zuhause,Heimtrainer - Challenge Bike,DOMYOS,1299.99,4169387,2024-05-14 21:19:42.835897,0070072800728,Essen,0,False,False
+76875,8603283.0,fitness,fitnessgerate-fur-zuhause,Hantel 10 kg Crosstraining Krafttraining - Hex Dumbbell schwarz,CORENGTH,39.99,4132392,2024-05-14 21:22:28.117207,0070027300273,Herne,10,False,True
+77984,8788265.0,camping,zelte,Dachzelt aufblasbar Fresh & Black - MH900 für 2 Personen,QUECHUA,1499.99,4782139,2024-05-22 20:56:40.685718,0070072800728,Essen,0,False,False
+77996,8755593.0,camping,zelte,Familienzelt aufblasbar - Air Seconds 8.4 Fresh & Black 8 Personen in 4 Kabinen,QUECHUA,939.99,4557078,2024-05-22 20:56:40.685718,0070072800728,Essen,0,False,False
+78008,8810862.0,camping,campingmobel,Campingstuhl niedrig klappbar - MH500 braun,QUECHUA,39.99,4899199,2024-05-22 22:01:15.064402,0070072800728,Essen,2,False,True
+78020,8810862.0,camping,campingmobel,Campingstuhl niedrig klappbar - MH500 braun,QUECHUA,39.99,4899198,2024-05-22 22:01:15.064402,0070072800728,Essen,9,False,True
+78032,8810862.0,camping,campingmobel,Campingstuhl niedrig klappbar - MH500 braun,QUECHUA,39.99,2558046,2024-05-22 22:01:15.064402,0070072800728,Essen,8,False,True
+78068,8575884.0,camping,campingmobel,Campingstuhl Komfort klappbar,QUECHUA,34.99,2962513,2024-05-22 22:01:15.064402,0070072800728,Essen,0,False,False
+78080,8575884.0,camping,campingmobel,Campingstuhl Komfort klappbar,QUECHUA,34.99,5075814,2024-05-22 22:01:15.064402,0070072800728,Essen,0,False,False
+78092,8737676.0,camping,schlafsacke-matratzen-betten,Schlafsack Camping - Arpenaz 10 °C,QUECHUA,29.99,4518516,2024-05-22 22:36:52.224677,0070072800728,Essen,0,False,False
+78104,8737676.0,camping,schlafsacke-matratzen-betten,Schlafsack Camping - Arpenaz 10 °C,QUECHUA,29.99,4518515,2024-05-22 22:36:52.224677,0070072800728,Essen,56,False,True
+78128,1903.0,fitness,fitnessgerate-fur-zuhause,"Yogamatte in der Farbe blau - Sportmatte, Fitnessmatte, Pilatesmatte",NEOLYMP,19.99,ea64ce49-b861-4e5e-a418-617dc756d229,2024-05-22 23:13:04.479907,0070072800728,Essen,0,False,False
+78140,1903.0,fitness,fitnessgerate-fur-zuhause,"Yogamatte in der Farbe blau - Sportmatte, Fitnessmatte, Pilatesmatte",NEOLYMP,19.99,6e70f19a-40ca-4cda-809f-3bdabf139bc4,2024-05-22 23:13:04.479907,0070072800728,Essen,0,False,False
+78152,1903.0,fitness,fitnessgerate-fur-zuhause,"Yogamatte in der Farbe blau - Sportmatte, Fitnessmatte, Pilatesmatte",NEOLYMP,19.99,b5edf529-ac2e-4360-bcca-7777f0ca055d,2024-05-22 23:13:04.479907,0070072800728,Essen,0,False,False
+78164,1903.0,fitness,fitnessgerate-fur-zuhause,"Yogamatte in der Farbe blau - Sportmatte, Fitnessmatte, Pilatesmatte",NEOLYMP,19.99,5eae299a-a019-4f55-a010-a2372a9f09ab,2024-05-22 23:13:04.479907,0070072800728,Essen,0,False,False
+78176,8388695.0,fitness,fitnessgerate-fur-zuhause,"Hantelscheibe gummiert 28 mm 2,5 kg",CORENGTH,9.99,2232193,2024-05-22 23:13:04.479907,0070072800728,Essen,10,False,True
+78188,8759370.0,fitness,fitnessgerate-fur-zuhause,Laufband kompakt und connected 14 km/h 45 × 125 cm - RUN100E-B,DOMYOS,549.99,4559911,2024-05-22 23:13:04.479907,0070072800728,Essen,1,False,False
+78200,8882305.0,fitness,fitnessgerate-fur-zuhause,Dip-Stangen verstellbar kompakt - TS 100,CORENGTH,69.99,5213847,2024-05-22 23:13:04.479907,0070072800728,Essen,2,False,True

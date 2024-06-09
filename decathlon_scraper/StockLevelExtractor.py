@@ -53,7 +53,7 @@ class StockLevelExtractor:
                     # log success
                     logger.info(f"Fetched stock for product {product.id} and sku {sku}")
                     # sleep some milliseconds to avoid too much server load
-                    time.sleep(0.2)
+                    #time.sleep(0.1)
                 except Exception as e:
                     logger.warning(f"Failed to fetch stock for product {product.id} and sku {sku} with error {e}")
 
