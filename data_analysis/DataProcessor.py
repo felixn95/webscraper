@@ -166,3 +166,8 @@ class DataProcessor:
         path = f"{self.data_directory}{filename}.csv"
         df.to_csv(path, index=False)
         print(f"Processed data saved to {path}")
+
+
+    # remove all rows with "fahrrad_sale" as sub_category
+    def remove_fahrrad_sale(self, df):
+        return df[df["sub_category"] != "fahrrad_sale"]

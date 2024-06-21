@@ -4,5 +4,5 @@
     <option name="enabledOnReformat" value="true" />
     <option name="sdkName" value="py310" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="webscraper" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="py310" project-jdk-type="Python SDK" />
 </project>
