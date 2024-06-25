@@ -5,22 +5,27 @@ import os
 
 class DataProcessor:
     def __init__(self):
-        self.data_directory = "processed_nrw_data/"
+        # Set the repository root directory
+        self.repo_root = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
+        self.processed_data_dir = os.path.join(self.repo_root, "data_analysis", "processed_nrw_data")
+        self.raw_data_path = os.path.join(self.repo_root, "data_analysis", "combined_stock_data.csv")
+
+    def generate_filename(self, month_day):
+        # Helper method to generate the full path of the output file
+        return os.path.join(self.processed_data_dir, f"{month_day}_nrw_stock_data.csv")
 
     def process_nrw_data(self, month_day):
         output_filename = self.generate_filename(month_day)
 
         if os.path.exists(output_filename):
-            print(
-                f"File already exists: {output_filename}. Loading DataFrame from file."
-            )
+            print(f"File already exists: {output_filename}. Loading DataFrame from file.")
             nrw_data = pd.read_csv(output_filename)
             self.cast_feature_types(nrw_data)
             self.preprocess_common(nrw_data)
             return nrw_data
 
         print("File does not exist. Processing new data frame...")
-        raw_data = pd.read_csv("combined_stock_data.csv")
+        raw_data = pd.read_csv(self.raw_data_path)
         processed_data = self.process_raw_stock_data(raw_data)
         nrw_data = FilteringUtils().filter_nrw_stores(processed_data)
 
@@ -153,9 +158,6 @@ class DataProcessor:
         output_filename = self.generate_filename(month_day)
         df.to_csv(output_filename, index=False)
         print(f"Preprocessed data saved to {output_filename}")
-
-    def generate_filename(self, month_day):
-        return f"{self.data_directory}{month_day}_nrw_stock_data.csv"
 
     def read_and_process_from_path_with_geo_data(self, path):
         df = pd.read_csv(path)

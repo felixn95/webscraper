@@ -1,0 +1,57 @@
+sub_category,price_range,reorder_stock_level,avg_time_to_restock
+campingmobel,0-10,11.787878787878787,0 days 18:06:04.412096282
+campingmobel,10-20,7.996587030716723,0 days 05:50:24.242666389
+campingmobel,20-50,1.8006514657980457,0 days 03:16:23.960533168
+campingmobel,50-100,5.572164948453608,1 days 06:22:26.574803348
+campingmobel,100-200,4.346938775510204,1 days 02:54:58.521141822
+campingmobel,200-500,,
+campingmobel,500-1000,,
+campingmobel,1000+,,
+fahrrad_sale,0-10,,
+fahrrad_sale,10-20,,
+fahrrad_sale,20-50,,
+fahrrad_sale,50-100,,
+fahrrad_sale,100-200,,
+fahrrad_sale,200-500,,
+fahrrad_sale,500-1000,,
+fahrrad_sale,1000+,,
+fahrrader,0-10,,
+fahrrader,10-20,,
+fahrrader,20-50,,
+fahrrader,50-100,,
+fahrrader,100-200,0.0,0 days 00:00:00
+fahrrader,200-500,0.7298768939393939,0 days 01:11:33.860955688
+fahrrader,500-1000,0.01735357917570499,0 days 00:00:00
+fahrrader,1000+,0.1261744966442953,0 days 03:21:46.796305914
+fitnessgerate-fur-zuhause,0-10,20.64189189189189,1 days 02:50:33.701361878
+fitnessgerate-fur-zuhause,10-20,9.53112840466926,0 days 16:16:53.921426271
+fitnessgerate-fur-zuhause,20-50,4.27542372881356,0 days 10:35:37.698015289
+fitnessgerate-fur-zuhause,50-100,3.776595744680851,1 days 04:43:10.875695133
+fitnessgerate-fur-zuhause,100-200,0.8888888888888888,1 days 01:33:19.533864925
+fitnessgerate-fur-zuhause,200-500,0.16312056737588654,0 days 05:04:46.451206913
+fitnessgerate-fur-zuhause,500-1000,0.6,1 days 03:40:53.059958400
+fitnessgerate-fur-zuhause,1000+,0.42857142857142855,1 days 12:48:30.840113666
+kochen-essen-trinken-camping,0-10,31.321401938851604,0 days 10:19:32.193110520
+kochen-essen-trinken-camping,10-20,8.443396226415095,0 days 08:44:25.010363385
+kochen-essen-trinken-camping,20-50,6.326241134751773,0 days 12:21:32.051499488
+kochen-essen-trinken-camping,50-100,6.9655172413793105,1 days 06:06:16.904919056
+kochen-essen-trinken-camping,100-200,6.0,1 days 01:01:50.323787
+kochen-essen-trinken-camping,200-500,,
+kochen-essen-trinken-camping,500-1000,,
+kochen-essen-trinken-camping,1000+,,
+schlafsacke-matratzen-betten,0-10,32.89010989010989,1 days 05:42:15.614271485
+schlafsacke-matratzen-betten,10-20,11.911111111111111,0 days 08:37:16.223318385
+schlafsacke-matratzen-betten,20-50,7.082166199813258,0 days 11:49:33.133677467
+schlafsacke-matratzen-betten,50-100,3.211934156378601,0 days 05:53:52.327612414
+schlafsacke-matratzen-betten,100-200,3.076388888888889,0 days 13:45:58.608468443
+schlafsacke-matratzen-betten,200-500,,
+schlafsacke-matratzen-betten,500-1000,,
+schlafsacke-matratzen-betten,1000+,,
+zelte,0-10,24.268817204301076,1 days 04:13:24.226111261
+zelte,10-20,,
+zelte,20-50,15.083333333333334,0 days 23:40:30.063015367
+zelte,50-100,7.11377245508982,1 days 05:40:14.823769055
+zelte,100-200,9.402255639097744,1 days 03:55:54.324794930
+zelte,200-500,2.1908127208480566,0 days 20:08:53.783980326
+zelte,500-1000,1.948051948051948,1 days 07:13:42.741189671
+zelte,1000+,0.0,1 days 04:41:54.243574888
