@@ -93,11 +93,3 @@ class QueryManager:
 
 
 
-# Example usage:
-# Assuming `df` is your dataframe
-# query_manager = QueryManager(df)
-# ordered_df = query_manager.order_by_timestamp()
-# all_stores_products = query_manager.product_variants_in_all_stores()
-# at_least_x_stores_products = query_manager.product_variants_in_at_least_x_stores(5)
-# positive_stock_all_stores = query_manager.positive_stock_in_all_stores()
-# positive_stock_at_least_x_stores = query_manager.positive_stock_in_at_least_x_stores(5)
