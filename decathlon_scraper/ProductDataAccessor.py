@@ -1,7 +1,7 @@
 import json
 from bs4 import BeautifulSoup
 from decathlon_scraper.SoupExtractor import SoupExtractor
-from RequestUtils import RequestUtils
+from RequestManager import RequestManager
 from DataProcessingUtils import *
 from datetime import datetime
 from log_config import setup_logging
@@ -58,7 +58,7 @@ class ProductDataAccessor:
     def scrape_and_save(self, url: str, destination_path: str, main_category: str, sub_category: str):
         """General method to scrape and save product data."""
         try:
-            request_manager = RequestUtils()
+            request_manager = RequestManager()
             items_soup = request_manager.fetch_page(url)
             products_dict = self.extract_items(items_soup, main_category, sub_category)
 

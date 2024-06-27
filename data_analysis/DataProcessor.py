@@ -36,6 +36,7 @@ class DataProcessor:
 
         df = df.drop_duplicates()
         df = self.reduce_features(df)
+        df = self.transform_stock_availability(df)
         df = self.cast_feature_types(df)
         df = self.preprocess_common(df)
         return df
@@ -48,9 +49,9 @@ class DataProcessor:
         df = self.format_prices(df)
         df = self.cast_feature_types(df)  # Reassert types
         df = self.format_timestamps(df)
-        df = self.cast_feature_types(
-            df
-        )  # Final reassertion to ensure types are correct
+        df = self.cast_feature_types(df)  # Reassert types
+        df = self.remove_fahrrad_sale(df)
+        df = self.cast_feature_types(df)  # Final reassertion to ensure types are correct
         return df
 
     def preprocess_geo(self, df):
@@ -129,27 +130,26 @@ class DataProcessor:
         return df
 
     def transform_stock_availability(self, df):
-        # Ensure that store_availabilityInfo is of a compatible type
         if "store_availabilityInfo" in df.columns:
-            # Explicitly converting the 'store_availabilityInfo' column to string if not already
-            df["store_availabilityInfo"] = (
-                df["store_availabilityInfo"].astype(str).str.lower()
-            )
+            df["store_availabilityInfo"] = df["store_availabilityInfo"].astype(str).str.lower()
+            #print("Unique availability info:", df["store_availabilityInfo"].unique())  # Debug line
 
-            # Map the normalized availability information to boolean
-            df["store_availabilityInfo"] = df["store_availabilityInfo"].map(
-                {"instock": True, "nostock": False}
-            )
+            # Updating mapping to include 'true'
+            availability_map = {
+                "instock": True,
+                "nostock": False,
+                "true": True,  # Added this line to handle 'true' as True
+                # Consider adding 'false' if it might appear
+                "false": False
+            }
+            df["store_availabilityInfo"] = df["store_availabilityInfo"].map(availability_map)
+
+            # Check for any unmapped values
+            if df["store_availabilityInfo"].isnull().any():
+                print("Warning: Some availability info could not be mapped to boolean.")
 
             # Fill missing values with False
             df["store_availabilityInfo"] = df["store_availabilityInfo"].fillna(False)
-
-            # Infer objects to ensure the entire column is of boolean type
-            df["store_availabilityInfo"] = df["store_availabilityInfo"].infer_objects(
-                copy=False
-            )
-
-            # Optionally, ensure the entire column is of boolean type
             df["store_availabilityInfo"] = df["store_availabilityInfo"].astype(bool)
 
         return df

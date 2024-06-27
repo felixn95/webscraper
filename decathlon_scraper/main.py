@@ -4,7 +4,7 @@ from StoresEnum import SelectedStores, StoresNRW
 from CategoriesEnum import Categories
 from StockLevelExtractor import StockLevelExtractor
 from ProductDataAccessor import ProductDataAccessor
-from RequestUtils import RequestUtils
+from RequestManager import RequestManager
 from SoupExtractor import SoupExtractor
 from ScraperMain import ScraperMain
 from decathlon_scraper.BaseMapper import BaseMapper

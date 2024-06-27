@@ -1,5 +1,5 @@
 import time
-from RequestUtils import RequestUtils
+from RequestManager import RequestManager
 from ProductDTO import ProductDTO, ProductStockDTO, product_stock_to_dict
 from DataProcessingUtils import *
 import logging
@@ -36,7 +36,7 @@ class StockLevelExtractor:
 
     def fetch_stock_info(self, product_dtos):
         timestamp = datetime.now()
-        requests_manager = RequestUtils()
+        requests_manager = RequestManager()
         # iterate over all products and fetch stock info for each SKU (product variant, fx. size)
         for product in product_dtos:
             sku_ids = product.sku_ids

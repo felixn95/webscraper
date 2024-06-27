@@ -4,7 +4,7 @@ from StoresEnum import SelectedStores, StoresNRW
 from CategoriesEnum import Categories
 from StockLevelExtractor import StockLevelExtractor
 from ProductDataAccessor import ProductDataAccessor
-from RequestUtils import RequestUtils
+from RequestManager import RequestManager
 from SoupExtractor import SoupExtractor
 from ScraperMain import ScraperMain
 from decathlon_scraper.BaseMapper import BaseMapper
@@ -83,8 +83,8 @@ class TestProductDataAccessor(unittest.TestCase):
         data_accessor = ProductDataAccessor()
 
         # Specify the sport and category
-        main_category = Categories.WASSERSPORT_WELT.value.main_category
-        sub_category = Categories.WASSERSPORT_WELT.value.sub_category
+        main_category = Categories.CAMPING_ZELTE.value.main_category
+        sub_category = Categories.FITNESS.value.sub_category
         size = 20
         store_id = SelectedStores.WUERZBURG.value
         store_name = SelectedStores.WUERZBURG.name
@@ -99,8 +99,8 @@ class TestStockLevelExtractor(unittest.TestCase):
         file_path = "data/sportgear/products/BER_WILMERSDORFER_ARCADEN_fitness_fitnessgerate-fur-zuhause_2024-05-06_18-27.csv"
         main_category = "fitness"
         sub_category = "fitnessgerate-fur-zuhause"
-        store_id = SelectedStores.BER_WILMERSDORFER_ARCADEN.value
-        store_name = SelectedStores.BER_WILMERSDORFER_ARCADEN.name
+        store_id = StoresNRW.NRW_ESSEN.value
+        store_name = StoresNRW.NRW_ESSEN.name
 
         # Fetch stock information
         extractor = StockLevelExtractor(file_path, main_category, sub_category, store_id, store_name)
@@ -114,7 +114,7 @@ class TestStockLevelExtractor(unittest.TestCase):
 class TestSoupExtractor(unittest.TestCase):
     def test_soup_extractor(self):
         # Load the HTML content from a file
-        request_manager = RequestUtils()
+        request_manager = RequestManager()
         url = "https://www.decathlon.de/p/laufshorts-leicht-kiprun-light-herren/_/R-p-325737?mc=8774064&c=blau"
         product_soup = request_manager.fetch_page(url)
 
