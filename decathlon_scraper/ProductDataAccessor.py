@@ -41,7 +41,7 @@ class ProductDataAccessor:
                 # https://www.decathlon.de/deals/sale-produkte/f-sport-group_fahrrad-city_fahrrad-mtb_fahrrad-rennrad_fahrrad-trekking-gravel-cross?storeid=0070048700487
                 return f'{self.BASE_URL}/deals/sale-produkte/f-sport-group_fahrrad-city_fahrrad-mtb_fahrrad-rennrad_fahrrad-trekking-gravel-cross?storeid={store_id}from=1&size={size}'
             if sub_category == 'fahrrader':
-                # only 20 for bikes
+                # only 20 for bikes due to the large number of sku ids
                 return f'{self.BASE_URL}/{self.SPORT_BASE}/{main_category}/{sub_category}?storeid={store_id}from=1&size=20'
             else:
                 return f'{self.BASE_URL}/{self.SPORT_BASE}/{main_category}/{sub_category}?storeid={store_id}from=1&size=40'

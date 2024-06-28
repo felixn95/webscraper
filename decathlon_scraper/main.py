@@ -2,15 +2,9 @@ import unittest
 
 from StoresEnum import SelectedStores, StoresNRW
 from CategoriesEnum import Categories
-from StockLevelExtractor import StockLevelExtractor
-from ProductDataAccessor import ProductDataAccessor
-from RequestManager import RequestManager
-from SoupExtractor import SoupExtractor
 from ScraperMain import ScraperMain
-from decathlon_scraper.BaseMapper import BaseMapper
 
-
-# Test class structures used for processing the scraper
+# Test class structures used for easy processing the scraper
 class TestWorkflow(unittest.TestCase):
 
     def test_workflow_from_base(self):

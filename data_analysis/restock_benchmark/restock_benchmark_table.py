@@ -3,7 +3,7 @@ import streamlit as st
 
 # How to run the app
 # have streamlit installed (pip install streamlit)
-# run the app with streamlit run streamlit.py
+# run the app with streamlit run restock_benchmark_table.py
 
 # read in kpis
 df_combined = pd.read_csv('data/combined_kpis.csv')

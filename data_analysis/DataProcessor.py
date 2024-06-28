@@ -103,7 +103,6 @@ class DataProcessor:
                     df[column] = df[column].astype(dtype)
                 except Exception as e:
                     print(f"Error casting {column} to {dtype}: {e}")
-                    # Optionally handle or log the error
 
         return df
 
@@ -138,7 +137,7 @@ class DataProcessor:
             availability_map = {
                 "instock": True,
                 "nostock": False,
-                "true": True,  # Added this line to handle 'true' as True
+                "true": True,
                 # Consider adding 'false' if it might appear
                 "false": False
             }

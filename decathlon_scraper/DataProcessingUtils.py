@@ -21,7 +21,6 @@ def add_product_id_to_csv(input_csv_path):
     # Save the DataFrame to the new CSV file
     df.to_csv(output_csv_path, index=False)
 
-    # Optionally, print the path of the new file
     print(f"New file saved: {output_csv_path}")
 
 # method to save timestamp as string
