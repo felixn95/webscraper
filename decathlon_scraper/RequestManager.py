@@ -14,8 +14,8 @@ class RequestManager:
     # Initialize with proxy settings
     def __init__(self):
         self.proxy_url = 'https://ip.smartproxy.com/json'
-        self.username = 'spk8vldbxp'
-        self.password = 'fN9Mcd4_32tvarpLhB'
+        self.username = '<insert_your_username_here>'
+        self.password = '<insert_your_pw_here>'
         self.proxy = {
             'http': f"http://{self.username}:{self.password}@de.smartproxy.com:20000",
             'https': f"http://{self.username}:{self.password}@de.smartproxy.com:20000"
